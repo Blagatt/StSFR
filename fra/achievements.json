@@ -27,7 +27,7 @@
       "Le Mange-époque",
       "Rubis",
       "Émeraude",
-      "Hidden"
+      "Caché"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -56,7 +56,7 @@
       "Vous avez terrassé le Mange-époque.",
       "Finissez le jeu avec le Soldat de fer.",
       "Finissez le jeu avec la Silencieuse.",
-      "Details for this achievement will be revealed once unlocked."
+      "Les détails concernant ce succès seront révélés une fois celui-ci débloqué."
     ]
   },
   "CharStat": {
@@ -84,8 +84,8 @@
       "Étages terminés : #y",
       "Boss tués : #y",
       "Ennemis tués : #y",
-      "Best Win Streak: #y",
-      "Highest Score: #y"
+      "Victoires Successives: #y",
+      "Meilleur Score: #y"
     ]
   },
   "StatsScreen": {
@@ -97,7 +97,7 @@
       "#bCorbot"
     ],
     "TEXT": [
-      "Return"
+      "Retour"
     ]
   }
 }
