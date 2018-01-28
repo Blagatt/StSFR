@@ -59,7 +59,7 @@
     "TEXT": [
       "Les Reliques trouvées dans la Tour vous octroient des bonus uniques et restent effectives jusqu'à la fin de votre partie. NL Vous pouvez en trouver en terrassant des ennemis puissants ou dans des coffres.",
       "Cette Relique doit être découverte.",
-      "Its power is all used up."
+      "Son pouvoir est épuisé."
     ],
     "LABEL": [
       "Reliques",
@@ -80,7 +80,7 @@
     "TEXT": [
       "Au début de chaque tour, NL #b",
       " cartes sont piochées de cet endroit. NL NL Cliquez pour voir les cartes de votre pioche (mélangées).",
-      " cards are drawn from here. NL NL Click to view the cards in your draw pile."
+      " les cartes sont tirées d'ici. NL NL Cliquez pour voir les cartes de votre pioche."
     ],
     "LABEL": [
       "Pioche"
@@ -208,10 +208,10 @@
   },
   "Exhaust Tip": {
     "TEXT": [
-      "Click to view cards Exhausted this combat."
+      "Cliquez pour voir les cartes Épuisées ce combat."
     ],
     "LABEL": [
-      "Exhausted Cards"
+      "Cartes Épuisées"
     ]
   }
 }

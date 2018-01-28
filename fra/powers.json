@@ -755,22 +755,22 @@
     ]
   },
   "Night Terror": {
-    "NAME": "Nightmare",
+    "NAME": "Cauchemar",
     "DESCRIPTIONS": [
-      "At the start of your next turn, add #b",
-      " cards to your hand."
+      "Au début de votre prochain tour, ajoutez #b",
+      " cartes à votre main."
     ]
   },
-  "Painful Stabs": {
+  "Coups de Poignard Douloureux": {
     "NAME": "Painful Stabs",
     "DESCRIPTIONS": [
-      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+      "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie dans votre Défausse."
     ]
   },
   "Minion": {
-    "NAME": "Minion",
+    "NAME": "Sbire",
     "DESCRIPTIONS": [
-      "Minions abandon combat without their leader."
+      "Les sbires abandonnent le combat en l'absence de leur leader."
     ]
   }
 }

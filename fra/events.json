@@ -19,7 +19,7 @@
       "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Bonfire Elementals": {
@@ -140,7 +140,7 @@
       "[Prier] #gVous #gAméliorez #gune #gcarte.",
       "[Partir]",
       "Choisissez la carte à Améliorer.",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Wheel of Change": {
@@ -408,7 +408,7 @@
       "Choisissez la carte à Transformer.",
       "Choisissez la carte à Améliorer.",
       "[Partir]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Mushrooms": {
@@ -466,7 +466,7 @@
       "[Entrer] #gVous #gAméliorez #g2 #gcartes #galéatoires. #rVous #rperdez #r",
       " #rPV.",
       "[Partir]",
-      "[Locked] Requires: Upgradeable Cards"
+      "[Verrouillé] Nécessite: Une carte améliorable"
     ]
   },
   "Addict": {
