@@ -1,184 +1,84 @@
 {
   "Game Dictionary": {
-    "UNPLAYABLE": {
+    "ARTIFACT": {
       "NAMES": [
-        "unplayable",
-        "",
+        "artefact",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE",
+        "UNUSED_RESERVE"
+      ],
+      "DESCRIPTION": "Annule le prochain malus."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "armure",
+        "bloque",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Unplayable cards cannot be played from your hand."
-    },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
-    "INNATE": {
-      "NAMES": [
-        "innate",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Start each combat with this card in your hand."
-    },
-    "VULNERABLE": {
-      "NAMES": [
-        "vulnerable",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Vulnerable creatures take #b50% more damage from Attacks."
-    },
-    "FRAIL": {
-      "NAMES": [
-        "frail",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "While Frail, gain #b25% less #yBlock from cards."
+      "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."
     },
     "CURSE": {
       "NAMES": [
-        "curse",
+        "malédiction",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Curse cards are negative cards that stay in your deck."
-    },
-    "TRANSFORM": {
-      "NAMES": [
-        "transform",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Transformed cards become a random card of any rarity."
-    },
-    "WEAK": {
-      "NAMES": [
-        "weak",
-        "weaken",
-        "weakened",
-        "weakens",
-        ""
-      ],
-      "DESCRIPTION": "Weakened creatures deal #b25% less damage with Attacks."
-    },
-    "STATUS": {
-      "NAMES": [
-        "status",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Status cards are removed at the end of combat."
-    },
-    "STRENGTH": {
-      "NAMES": [
-        "strength",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Strength adds additional damage to attacks."
-    },
-    "TODO": {
-      "NAMES": [
-        "todo",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE",
-        "JUST FOR DEVS, DONT TRANSLATE"
-      ],
-      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+      "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
     "DEXTERITY": {
       "NAMES": [
-        "dexterity",
+        "dextérité",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Dexterity improves Block gained from cards."
-    },
-    "LOCKED": {
-      "NAMES": [
-        "locked",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "This card has yet to be unlocked."
-    },
-    "WOUND": {
-      "NAMES": [
-        "wound",
-        "wounds",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Wounds are unplayable status cards."
+      "DESCRIPTION": "La dextérité augmente l'armure apportée par les cartes."
     },
     "ETHEREAL": {
       "NAMES": [
-        "ethereal",
+        "volatile",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat."
-    },
-    "UPGRADE": {
-      "NAMES": [
-        "upgrade",
-        "",
-        "",
-        "",
-        ""
-      ],
-      "DESCRIPTION": "Upgrading cards makes them more powerful. Cards can only be upgraded once."
+      "DESCRIPTION": "Si cette carte est dans votre main à la fin de votre tour, elle est épuisée. Les cartes épuisées sont enlevées de votre deck jusqu'à la fin du combat."
     },
     "EXHAUST": {
       "NAMES": [
-        "exhaust",
-        "exhausted",
+        "épuisement",
+        "épuisé",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Removed until end of combat."
+      "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
-    "RETAIN": {
+    "INNATE": {
       "NAMES": [
-        "retain",
+        "inné",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Retained cards are not discarded at the end of turn."
+      "DESCRIPTION": "Commencez chaque combat avec cette carte dans votre main."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "verouillé",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Cette carte doit encore être déverouillée."
     },
     "POISON": {
       "NAMES": [
@@ -190,68 +90,168 @@
       ],
       "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
     },
+    "RETAIN": {
+      "NAMES": [
+        "conserver",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les cartes conservées ne sont pas défaussées à la fin du tour."
+    },
+    "SHIV": {
+      "NAMES": [
+        "surin",
+        "surins",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les Surins sont des cartes d'attaque qui coûtent #b0 et s'épuisent."
+    },
+    "STATUS": {
+      "NAMES": [
+        "statut",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les cartes de statut sont enlevées à la fin du combat."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "force",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "La force ajoute des dégâts supplémentaires aux attaques."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transforme",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
+    },
     "UNKNOWN": {
       "NAMES": [
-        "unknown",
+        "inconnu",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "This card has yet to be encountered."
+      "DESCRIPTION": "Cette carte n'a pas encore été découverte."
     },
-    "BLOCK": {
+    "UNPLAYABLE": {
       "NAMES": [
-        "block",
-        "blocks",
+        "injouable",
+        "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Until next turn, prevents damage."
+      "DESCRIPTION": "Les cartes non jouables ne peuvent pas être jouées depuis votre main."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "amélioration",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vulnérable",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les créatures vulnérables subissent #b50% de dégâts supplémentaires."
+    },
+    "WEAK": {
+      "NAMES": [
+        "faible",
+        "affaiblir",
+        "affaibli",
+        "affaiblit",
+        ""
+      ],
+      "DESCRIPTION": "Les attaques d'une créature affaiblie inflige #b25% de dégâts en moins."
+    },
+    "WOUND": {
+      "NAMES": [
+        "plaie",
+        "plaies",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les plaies sont des cartes statut injouables."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "fragilité",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "DESCRIPTION": "Les créatures fragilisées recoivent #b25% d'armure en moins."
     },
     "STRIKE": {
       "NAMES": [
-        "strike",
+        "frappe",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Any card with the word \"Strike\" in its name."
+      "DESCRIPTION": "Toute carte dont le nom contient le mot \"frappe\"."
     },
     "CONFUSED": {
       "NAMES": [
-        "confused",
+        "confus",
         "",
-        "",
-        "",
-        "praise the snecko!"
-      ],
-      "DESCRIPTION": "Whenever you draw a card, randomize its cost."
-    },
-    "TEXT": [
-      "Energy is used to play cards from your hand."
-    ],
-    "SHIV": {
-      "NAMES": [
-        "shiv",
-        "shivs",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Shivs are #b0 cost Attack cards which Exhaust."
+      "DESCRIPTION": "Quand vous piochez une carte, son coût est rendu aléatoire."
     },
-    "ARTIFACT": {
+    "FIRE": {
       "NAMES": [
-        "artifact",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE",
-        "UNUSED_RESERVE"
+        "fire",
+        "fired",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF",
+        "DONT TRANSLATE FIRED STUFF"
       ],
-      "DESCRIPTION": "Negates the next debuff."
-    }
+      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TEXT": [
+      "L'énergie est utilisée pour jouer des cartes depuis votre main."
+    ]
   }
 }
