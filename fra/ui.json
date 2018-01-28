@@ -157,7 +157,7 @@
     "TEXT": [
       " Étage",
       " - Ascension ",
-      " (Max Level)"
+      " (Niveau Max)"
     ]
   },
   "UnlockCharacterScreen": {
@@ -215,13 +215,13 @@
       "Verrouillée",
       "Inconnue",
       "Voir l'amélioration",
-      "Status",
-      "Ammo",
-      "I can only play cards on my turn.",
-      "I'm #rEntangled! NL Can't play Attacks",
-      "Not enough #rEnergy.",
-      "Not enough #rCharge.",
-      "I can't play NL this card"
+      "Statut",
+      "Munitions",
+      "Je ne peux jouer des cartes que lors de mon tour.",
+      "Je suis #rEnchevêtré! NL Je ne peux jouer des Attaques.",
+      "Pas assez #rd'Énergie.",
+      "Pas assez de #rCharge.",
+      "Je ne peux pas jouer NL cette carte."
     ]
   },
   "MasterDeckViewScreen": {
@@ -337,24 +337,24 @@
       "Bonus de PV"
     ],
     "EXTRA_TEXT": [
-      "Exordium Elites Killed",
-      "City Elites Killed",
-      "Beyond Elites Killed",
-      "Speedster",
-      "Light Speed",
-      "Highlander",
-      "Collection",
-      "Full Set",
-      "Pauper",
-      "Librarian",
-      "Encyclopedia",
-      "Well Fed",
-      "Stuffed",
-      "Curses!",
-      "On My Own Terms",
-      "",
-      "Perfect",
-      "Beyond Perfect",
+      "Élites de l'Exorde Tuées",
+      "Élites de la Ville Tuées",
+      "Élites de l'Au-Delà Tuées",
+      "Bolide",
+      "Vitesse de la Lumière",
+      "Montagnard",
+      "Collecteur",
+      "Ensemble Complet",
+      "Pauvre",
+      "Bibliothécaire",
+      "Encyclopédique",
+      "Rassasié",
+      "Rembourré",
+      "Malédictions !",
+      "Selon Mes Conditions",
+      "Champion",
+      "Parfait",
+      "Plus que Parfait",
       "Overkill",
       "C-c-c-combo",
       ""
@@ -374,7 +374,7 @@
       "Des récompenses !",
       "Des trophées !",
       "Du butin !",
-      "Tip: "
+      "Astuce : "
     ]
   },
   "ChooseOneScreen": {
@@ -438,7 +438,7 @@
       "Menu du jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
-      "Plein écran NL Plein écran fenêtré (recommandé) NL Screenshake",
+      "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
       "Son",
       "Volume principal NL Volume musique NL Volume effets",
       "Sons en arrière-plan",
@@ -452,12 +452,12 @@
       "Quitter le jeu",
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
-      "Playtester Art Mode"
+      "Mode Artistique du Testeur"
     ]
   },
   "SettingsScreen": {
     "TEXT": [
-      "Voulez-vous vraiment poursuivre ?",
+      "Êtes vous sûr ?",
       "Votre progression est sauvegardée automatiquement.",
       "L'abandon de la partie entraînera une défaite.",
       "ATTENTION :\nprogression non sauvegardée.\n\nAtteignez le prochain étage pour sauvegarder la partie actuelle.",
@@ -490,7 +490,7 @@
       "Qu'est-ce qu'une bêta ouverte ?",
       "Slay the Spire est toujours en cours de développement ! NL Un grand nombre de fonctionnalités, cartes et ennemis sont amenés à changer. NL NL Si vous rencontrez des problèmes ou souhaitez nous faire part de votre avis, n'hésitez pas à nous laisser un message sur la #bpage de discussion #bSteam. NL NL Assez de lecture, une tour vous attend !",
       "Slay the Spire est toujours en cours de développement ! NL De plus, vous êtes sur la version bêta du jeu. NL NL Veuillez nous faire part des problèmes que vous rencontrez en jouant, mais ne soyez pas trop surpris par l'intrusion de quelques variables dans le contenu à venir. NL NL Assez de lecture, une tour vous attend !",
-      "Cliquez n'importe où pour commencer"
+      "Cliquez n'importe où pour Commencer"
     ]
   },
   "MainMenuScreen": {
@@ -515,8 +515,8 @@
       "Remarques de mise à jour",
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
-      "Settings",
-      "Run History"
+      "Paramètres",
+      "Historique des Tentatives"
     ]
   },
   "PatchNotesScreen": {
@@ -556,7 +556,7 @@
       " À déverrouiller",
       "Inconnu",
       "???",
-      " To Next Unlock"
+      " Jusqu'à la Prochaine Récompense "
     ]
   },
   "CharacterSelectScreen": {
@@ -567,10 +567,10 @@
       "La Silencieuse",
       "Corbot",
       "Retour",
-      "Ascension Mode (Level ",
+      "Mode Ascension (Niveau ",
       ")",
-      "Ascension Mode",
-      "EXPERIMENTAL: Runs get harder as you win... (doesn't affect winstreak)"
+      "Mode Ascension",
+      "EXPÉRIMENTAL: Les tentatives deviennent plus difficiles à chaque victoire... (n'affecte pas les victoires successives)"
     ]
   },
   "AbstractMonster": {
@@ -605,7 +605,7 @@
       "Cet ennemi est endormi.",
       "Cet ennemi est #yétourdi pendant son tour.",
       "Les intentions de cet ennemi sont #yinconnues (n'attaque pas).",
-      "Blocked"
+      "Bloqué"
     ]
   },
   "AbstractDungeon": {
@@ -620,248 +620,248 @@
   },
   "TheCity": {
     "TEXT": [
-      "La ville"
+      "La Ville"
     ]
   },
   "TheBeyond": {
     "TEXT": [
-      "L'au-delà"
+      "L'Au-Delà"
     ]
   },
   "GameSavedEffect": {
     "TEXT": [
-      "#y~Game~ #y~Saved~"
+      "#y~Jeu~ #y~Sauvegardé~"
     ]
   },
   "CampfireSleepEffect": {
     "TEXT": [
-      "Dreaming?"
+      "Est-ce un rêve ?"
     ]
   },
   "OpeningAction": {
     "TEXT": [
-      "That enemy does not intend to attack!"
+      "Cet ennemi n'a pas l'intention d'attaquer !"
     ]
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Restart the game for display changes to take effect."
+      "Redémarrer le jeu pour que les changements à l'affichage prennent effet."
     ]
   },
   "PutOnDeckAction": {
     "TEXT": [
-      "put on top of your draw pile"
+      "placer au dessus de votre pioche"
     ]
   },
   "ApplyPowerAction": {
     "TEXT": [
-      "Negated",
-      "Immune",
-      "Nullified",
-      "\n Down"
+      "Absorbé",
+      "Immunisé",
+      "Nullifié",
+      "\n Diminue"
     ]
   },
   "CopyAction": {
     "TEXT": [
-      "Copy"
+      "Copier"
     ]
   },
   "PowerExpireTextEffect": {
     "TEXT": [
-      "Wears Off"
+      "S'estompe"
     ]
   },
   "LanguageDropdown": {
     "TEXT": [
-      "Brazilian Portugese",
-      "Chinese (Simplified)",
-      "Chinese (Traditional)",
-      "English",
-      "French",
-      "German",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Polish",
-      "Russian",
-      "Spanish",
-      "Hebrew"
+      "Portugais Brésilien",
+      "Chinois (Simplifié)",
+      "Chinois (Traditionnel)",
+      "Anglais",
+      "Français",
+      "Allemand",
+      "Italien",
+      "Japonais",
+      "Coréen",
+      "Polonais",
+      "Russe",
+      "Espagnole",
+      "Hébreux"
     ]
   },
   "UnlockTextEffect": {
     "TEXT": [
-      "New Unlock!"
+      "Nouvelle Récompense !"
     ]
   },
   "ImmolateAction": {
     "TEXT": [
-      "exhaust"
+      "épuisement"
     ]
   },
   "AbstractPlayer": {
     "TEXT": [
-      "Blocked",
-      "the Ironclad",
-      "the Silent",
+      "Bloqué",
+      "le Soldat de Fer",
+      "la Silencieuse",
       "the Gunner"
     ]
   },
   "ExhaustAction": {
     "TEXT": [
-      "exhaust"
+      "épuisement"
     ]
   },
   "RewardItem": {
     "TEXT": [
-      " Gold (Stolen Back)",
-      " Gold",
-      "Add a card to your deck",
+      " Or (Récupéré)",
+      " Or",
+      "Ajoutez une Carte à votre Deck",
       "",
-      "Choose a Card"
+      "Choisissez une Carte"
     ]
   },
   "AbstractCard": {
     "TEXT": [
-      "Locked",
-      "Unknown"
+      "Verrouillé",
+      "Inconnu"
     ]
   },
   "CampfireTokeEffect": {
     "TEXT": [
-      "Select a Card to Remove."
+      "Sélectionnez une carte à retirer."
     ]
   },
   "CampfireUI": {
     "TEXT": [
-      "What to do?",
+      "Que faire ?",
       "Hmm...",
-      "What shall I do?",
-      "Time for a break",
-      "So many options...",
-      "I should rest",
-      "So tired..."
+      "Que vais-je faire ?",
+      "L'heure de la pause",
+      "Tant de possibilités...",
+      "Je devrais me reposer",
+      "Tellement Fatigué..."
     ]
   },
   "AbstractPotion": {
     "TEXT": [
-      "I can't carry NL any more Potions."
+      "Je ne sais pas NL porter plus de Potions."
     ]
   },
   "CampfireSmithEffect": {
     "TEXT": [
-      "Select a Card to Upgrade"
+      "Sélectionnez une Carte à Améliorer"
     ]
   },
   "BattleStartEffect": {
     "TEXT": [
-      "Battle Start",
-      "Player Turn",
-      "Enemy Turn",
-      " turn"
+      "Début du Combat",
+      "Tour du Joueur",
+      "Tour de l'Ennemi",
+      " tour"
     ]
   },
   "TipHelper": {
     "TEXT": [
-      "Energy"
+      "Énergie"
     ]
   },
   "AbstractCreature": {
     "TEXT": [
-      "Dead",
-      "Blocked",
-      "Max HP +"
+      "Mort",
+      "Bloqué",
+      "PV Max +"
     ]
   },
   "LeaderboardsScreen": {
     "TEXT": [
-      "Return",
-      "Filters",
-      "Character",
-      "Region",
+      "Retour",
+      "Filtres",
+      "Personnage",
+      "Région",
       "Type",
-      "View My Score",
-      "Rank",
-      "Name",
+      "Voir Mon Score",
+      "Rang",
+      "Nom",
       "Score",
-      "Retrieving Data...",
-      "Leaderboards",
-      "Not Connected to Steam",
-      "No Scores Available \n Go Slay the Spire!"
+      "Récupération des Données...",
+      "Classements",
+      "Pas Connecté à Steam",
+      "Aucune Score Disponible \n Go Slay the Spire !"
     ]
   },
   "ExhumeAction": {
     "TEXT": [
-      "Select a Card to Return to your Hand"
+      "Choisissez une Carte à Retourner dans votre Main"
     ]
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Ironclad",
-      "The Silent",
+      "Le Soldat de Fer",
+      "La Silencieuse",
       "3rd Char. DO NOT TRANSLATE",
-      "Average Floor Reached (Last 20 Attempts)",
-      "Average Score (Last 20 Attempts)",
-      "Best Win Streak",
-      "Fastest Victory",
-      "High Score",
+      "Étage Atteint Moyen (Sur les 20 Dernières Tentatives)",
+      "Score Moyen (Sur les 20 Dernières Tentatives)",
+      "Meilleur Victoires Successives",
+      "Victoire La Plus Rapide",
+      "Haut Score",
       "Option 6. DO NOT TRANSLATE",
-      "Friends",
+      "Amis",
       "Global"
     ]
   },
   "DiscardPileToTopOfDeckAction": {
     "TEXT": [
-      "Choose a Card to Put on Top of Your Draw Pile."
+      "Choisissez une Carte à Placer au Dessus de Votre Pioche."
     ]
   },
   "ExhaustViewScreen": {
     "TEXT": [
-      "These cards were exhausted this combat.",
-      "Return"
+      "Ces cartes ont été épuisées ce combat.",
+      "Retour"
     ]
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Ascension Mode Niveau ",
+      " Déverrouillé !"
     ]
   },
   "MerchantImageTextNotInGame": {
     "TEXT": [
-      "Card Removal Service",
-      "SALE",
-      "Not for Sale",
+      "Service de Retrait de Carte",
+      "SOLDE",
+      "Pas à Vendre",
       "Sold Out",
-      "Oh no!"
+      "Oh non !"
     ]
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Elites spawn more often.",
-      "2. Normal enemies are deadlier.",
-      "3. Elites are deadlier.",
-      "4. Bosses are deadlier.",
-      "5. Heal less after Boss battles.",
-      "6. Start each run damaged.",
-      "7. Normal enemies are tougher.",
-      "8. Elites are tougher.",
-      "9. Bosses are tougher.",
-      "10. Parasite!"
+      "1. Les Élites apparaissent plus souvent.",
+      "2. Les ennemis normaux sont mortels.",
+      "3. Les Élites sont mortels.",
+      "4. Les Bosses sont mortels.",
+      "5. Vous vous soignez moins après un combats contre un Boss.",
+      "6. Commencez chaque tentative blessé.",
+      "7. Les ennemis normaux sont encore plus fort.",
+      "8. Les Élites sont encore plus fort.",
+      "9. Les Bosses sont encore plus fort.",
+      "10. Parasite !"
     ]
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "The Ironclad",
-      "The Silent",
+      "Le Soldat de Fer",
+      "La Silencieuse",
       "",
-      "Return",
-      "No run histories found. NL Go Slay the Spire!"
+      "Retour",
+      "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
-      "Ascension Mode Level ",
-      " Unlocked!"
+      "Mode Ascension Niveau ",
+      " Déverrouillé !"
     ]
   }
 }
