@@ -625,8 +625,8 @@
   "Split": {
     "NAME": "Séparation",
     "DESCRIPTIONS": [
-      "Lorsque ses PV descendent en dessous de #b50 %, il se sépare en #b2 visqueux plus petits avec les PV actuels de ",
-      " "
+      "Lorsque ses PV descendent en dessous de #b50 %, il se sépare en #b2 visqueux plus petits avec les PV restants de ",
+      "."
     ]
   },
   "Spore Cloud": {

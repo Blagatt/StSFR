@@ -385,7 +385,8 @@
   "CardRewardScreen": {
     "TEXT": [
       "Passer",
-      "Choisir une carte"
+      "Choisissez une Carte",
+      "+2 PV Max",
     ]
   },
   "BossRelicSelectScreen": {
@@ -769,7 +770,9 @@
     "TEXT": [
       "Mort",
       "Bloqué",
-      "PV Max +"
+      "PV Max +",
+      "Étourdi !",
+      "Interruption !"
     ]
   },
   "LeaderboardsScreen": {
@@ -855,7 +858,13 @@
       "La Silencieuse",
       "",
       "Retour",
-      "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!"
+      "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!",
+      "Niveau d'Ascension : ",
+      "Vaincus à l'Étage ",
+      " par ",
+      "Victoire !",
+      "Cartes",
+      "Reliques"
     ]
   },
   "DeathScreenUi": {

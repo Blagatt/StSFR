@@ -1,6 +1,7 @@
 {
   "Apology Slime": {
-    "MOVES": [],
+    "MOVES": [
+    ],
     "NAME": "Visqueux désolé",
     "DIALOG": [
       ""
@@ -40,7 +41,7 @@
     "NAME": "Vautour",
     "DIALOG": [
       "@CROA !@ NL @CROAAA@",
-      "Étourdi..."
+      ""
     ]
   },
   "Snecko": {
@@ -405,7 +406,9 @@
       ""
     ],
     "NAME": "Parasite en carapace",
-    "DIALOG": []
+    "DIALOG": [
+      ""
+    ]
   },
   "BronzeOrb": {
     "MOVES": [
@@ -464,7 +467,7 @@
     "NAME": "Boss visqueux",
     "DIALOG": [
       "~Visqueux...~ NL #r~ÉCRASE !!!~",
-      "Interruption !"
+      ""
     ]
   },
   "AcidSlime_L": {
@@ -475,7 +478,7 @@
     ],
     "NAME": "Visqueux acide (G)",
     "DIALOG": [
-      "Interruption !"
+      ""
     ]
   },
   "GremlinTsundere": {
@@ -496,7 +499,7 @@
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
-      "Étourdi !",
+      "",
       "... NL ...",
       "... ? NL ... !?",
       "@!!!@ NL @!???@"
@@ -536,7 +539,7 @@
     ],
     "NAME": "Robot en bronze",
     "DIALOG": [
-      "Étourdi !"
+      ""
     ]
   },
   "Healer": {
@@ -597,7 +600,7 @@
     ],
     "NAME": "Visqueux épineux (G)",
     "DIALOG": [
-      "Interruption !"
+      ""
     ]
   },
   "FireOrb": {

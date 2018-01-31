@@ -384,15 +384,7 @@
     "NAME": "Hurlement perçant",
     "DESCRIPTION": "TOUS les ennemis perdent !M!de Force pendant 1 tour. NL Épuisement."
   },
-  "Bite_R": {
-    "NAME": "Morsure",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
-  },
-  "Bite_G": {
-    "NAME": "Morsure",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
-  },
-  "Bite_B": {
+  "Bite": {
     "NAME": "Morsure",
     "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Récupérez !M!PV."
   },

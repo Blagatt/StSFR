@@ -388,15 +388,7 @@
     "NAME": "Piercing Wail",
     "DESCRIPTION": "ALL enemies lose !M! Strength for 1 turn. NL Exhaust."
   },
-  "Bite_R": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_G": {
-    "NAME": "Bite",
-    "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
-  },
-  "Bite_B": {
+  "Bite": {
     "NAME": "Bite",
     "DESCRIPTION": "Deal !D! damage. NL Heal !M! HP."
   },

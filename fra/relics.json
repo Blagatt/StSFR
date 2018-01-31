@@ -264,6 +264,27 @@
       "Vous gagnez en [B] au début de chaque tour."
     ]
   },
+  "Frozen Egg 2": {
+    "NAME": "Œuf Gelé",
+    "FLAVOR": "L'œuf est inerte et gelé, il n'éclora jamais.",
+    "DESCRIPTIONS": [
+      "Quand vous obtenez une carte Pouvoir, elle est #yAméliorée."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Œuf en Fusion",
+    "FLAVOR": "L'œuf d'un Phénix. Il brille d'un rouge vif avec de la lave bouillante.",
+    "DESCRIPTIONS": [
+      "Quand vous obtenez une carte #yAttaque, elle est #yAméliorée."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Œuf Toxique",
+    "FLAVOR": "\"Quelle merveilleuse découverte ! On dirait l'œuf inerte d'une créature magique. Qui ou qu'est-ce qui a créé ceci ?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Quand vous obtenez une carte #yCompétence, elle est #yAméliorée."
+    ]
+  },
   "Enchiridion": {
     "NAME": "Enchiridion",
     "FLAVOR": "Le journal légendaire d'une liche antique.",
@@ -744,7 +765,7 @@
     "NAME": "Bol chantant",
     "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
-      "Lorsque vous passez une carte comme récompense, vous augmentez vos PV max de #b"
+      "Lorsque vous passez une carte comme récompense, vous augmentez vos PV Max de #b2."
     ]
   },
   "Smiling Mask": {
