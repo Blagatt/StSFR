@@ -1,6 +1,38 @@
 Updates for Translators!
 ----------------------------------
 
+1/30/2018:
+relics.json
+	Removed (BETA) from Toxic/Molten/Frozen Egg 2
+	"Singing Bowl"
+ui.json
+	"CardRewardScreen"
+	"RunHistoryScreen"
+cards.json
+	"Bite"
+
+----------------------------------
+
+1/29/2018:
+relics.json
+	"Toxic Egg 2"
+	"Frozen Egg 2"
+	"Molten Egg 2"
+ui.json
+	"AbstractCreature"
+monsters.json
+	Removed all instances of Stunned..., Stunned!, and Interrupted!
+
+----------------------------------
+
+1/26/2018:
+potions.json
+	"Ancient Potion"
+ui.json
+	"RunHistoryScreen"
+
+----------------------------------
+
 1/24/2018:
 ui.json
 	"AscensionTextEffect"
