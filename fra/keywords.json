@@ -178,7 +178,7 @@
         "",
         ""
       ],
-      "DESCRIPTION": "Les créatures vulnérables subissent #b50% de dégâts supplémentaires."
+      "DESCRIPTION": "Les créatures vulnérables subissent #b50 #b% de dégâts supplémentaires."
     },
     "WEAK": {
       "NAMES": [
@@ -188,7 +188,7 @@
         "affaiblit",
         ""
       ],
-      "DESCRIPTION": "Les attaques d'une créature affaiblie inflige #b25% de dégâts en moins."
+      "DESCRIPTION": "Les attaques d'une créature affaiblie inflige #b25 #b% de dégâts en moins."
     },
     "WOUND": {
       "NAMES": [
@@ -208,7 +208,7 @@
         "",
         ""
       ],
-      "DESCRIPTION": "Les créatures fragilisées reçoivent #b25% d'armure en moins."
+      "DESCRIPTION": "Les créatures fragilisées reçoivent #b25 #b% d'armure en moins."
     },
     "STRIKE": {
       "NAMES": [
