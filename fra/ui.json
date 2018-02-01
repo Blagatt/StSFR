@@ -75,10 +75,10 @@
       "Un étrange marchand fait commerce dans ces salles. NL NL Dépensez-y votre #yor bien mérité !",
       "Trésor",
       "Salles au trésor",
-      "Vous pourrez trouver des #yReliques et de l'#yOr en ces salles très convoités.",
+      "Vous pourrez trouver des #yReliques et de #yl'Or en ces salles très convoitées.",
       "Repos",
       "Sites de repos",
-      "Reposez-vous dans ces salles pour vous #gRécupérer quelques PV ou bien #yAméliorer une carte.",
+      "Reposez-vous dans ces salles pour #gRécupérer quelques PV ou bien #yAméliorer une carte.",
       "Ennemi",
       "Ennemis",
       "Des ennemis hostiles résident en ces salles.",
@@ -155,7 +155,7 @@
   },
   "TopPanel": {
     "TEXT": [
-      " Étage",
+      "ème Étage",
       " - Ascension ",
       " (Niveau Max)"
     ]
