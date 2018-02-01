@@ -139,7 +139,7 @@
       "Vous obtenez #b3 #rMalédictions et #b3 #yReliques.",
       "La cloche sonne...",
       "Passer les récompenses",
-      "Close"
+      "Fermer"
     ]
   },
   "Cauldron": {
@@ -1051,36 +1051,36 @@
     ]
   },
   "NeowsBlessing": {
-    "NAME": "Neow's Blessing",
-    "FLAVOR": "A blessing bestowed to you by Neow.",
+    "NAME": "Lamentation de Neow",
+    "FLAVOR": "Bénédiction de la lamentation conférée par Neow.",
     "DESCRIPTIONS": [
-      "The first #b3 enemies you fight have only #b1 PV.",
-      "The blessing is used up."
+      "Les ennemis des #b3 prochains combats commencent avec 1 PV.",
+      "La bénédiction est épuisée."
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Bottled Tornado (BETA)",
+    "NAME": "Tornade en bouteille",
     "FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
-      "Upon pick up, choose a Power card. At the start of each combat, this card will be in your hand.",
-      "Choose a card for ",
-      "At the start of each combat, add ",
-      " to your hand."
+      "Lorsque vous la ramassez, choisissez une carte Pouvoir. Au début de chaque combat, cette carte se trouve dans votre main.",
+      "Choisissez une carte pour ",
+      "Au début de chaque combat, vous ajoutez ",
+      " à votre main."
     ]
   },
   "War Paint": {
-    "NAME": "War Paint",
+    "NAME": "Peinture de guerre",
     "FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
-      "Upon pick up, #yUpgrade #b",
-      " random #ySkills."
+      "Lorsque vous la ramassez, #yAméliorez #b",
+      " #yCompétences aléatoires."
     ]
   },
   "Darkstone Periapt": {
-    "NAME": "Amulette de pierre noire ",
+    "NAME": "Amulette de pierre noire",
     "FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
-      "Whenever you obtain a #yCurse, increase your Max PV by #b"
+      "Lorsque vous recevez une #yMalédiction, augmentez votre PV Max de #b"
     ]
   }
 }
