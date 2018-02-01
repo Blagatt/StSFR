@@ -4,7 +4,7 @@ Nous pensons que les jeux qui exploitent le plus les avantages de l'accès antic
 
 Le jeu sera en accès anticipé pendant environ 4 à 8 mois. Cela fait maintenant deux ans que nous travaillons sur Slay the Spire, et estimons que c'est le temps nécessaire pour terminer et perfectionner le jeu que nous avons en tête.
 
-La version finale aura beaucoup plus de contenu, incluant un nouveau personnage avec un panel de cartes dédié. Nous ajouterons également un système de classement, de défi quotidien, ainsi que des intéractions sociales au fur et à mesure que la communauté s'agrandit. Nous regarderons attentivement les retours de la communauté afin de décider comment et quand seront ajoutés ces nouveaux contenus.
+La version finale aura beaucoup plus de contenu, incluant un nouveau personnage avec un panel de cartes dédié. Nous ajouterons également un système de classement, de défi quotidien, ainsi que des interactions sociales au fur et à mesure que la communauté s'agrandit. Nous regarderons attentivement les retours de la communauté afin de décider comment et quand seront ajoutés ces nouveaux contenus.
 
 
 Actuellement, il y a:
@@ -27,7 +27,7 @@ La relation que nous allons avoir avec la communauté est la raison même pourqu
 [b]Contenu:[/b]
 Les membres de la communauté auront la chance de voir leurs idées de cartes ajoutées au jeu! Plus de détails à ce propos arriveront bientôt.
 
-[b]Equilibrage:[/b]
+[b]Équilibrage:[/b]
 Personne n'est plus à même de découvrir des stratégies surpuissantes qu'une communauté enthousiaste. Grâce à vos retours, nous équilibrerons régulièrement le jeu.
 
 [b]Suggestions:[/b]

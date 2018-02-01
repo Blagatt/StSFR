@@ -234,8 +234,8 @@
     "NAME": "Énergétique",
     "DESCRIPTIONS": [
       "Vous gagnez #b",
-      " [G] supplémentaire(s) au prochain tour.",
-      " additional [G] next turn.",
+      " [G] supplémentaire au prochain tour.",
+      " [G] supplémentaires au prochain tour.",
       " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
     ]
   },
@@ -371,8 +371,8 @@
     "NAME": "Intangible",
     "DESCRIPTIONS": [
       "Réduit TOUS les dégâts subis et la perte de PV de #b1.",
-      " turn.",
-      " turns."
+      " tour.",
+      " tours."
     ]
   },
   "Inverted": {
@@ -686,7 +686,7 @@
     ]
   },
   "Berserk": {
-    "NAME": "Berserk",
+    "NAME": "Folie furieuse",
     "DESCRIPTIONS": [
       "Si vos PV sont inférieurs à #b50 %, vous gagnez ",
       " au début de votre tour."
@@ -761,8 +761,8 @@
       " cartes à votre main."
     ]
   },
-  "Coups de Poignard Douloureux": {
-    "NAME": "Painful Stabs",
+  "Painful Stabs": {
+    "NAME": "Coups de Poignard Douloureux",
     "DESCRIPTIONS": [
       "À chaque fois que cet ennemi vous inflige des dégâts, ajoutez une #yPlaie dans votre Défausse."
     ]

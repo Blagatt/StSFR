@@ -72,23 +72,23 @@
     },
     "LOCKED": {
       "NAMES": [
-        "verouillé",
+        "verrouillé",
         "",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Cette carte doit encore être déverouillée."
+      "DESCRIPTION": "Cette carte doit encore être déverrouillée."
     },
     "POISON": {
       "NAMES": [
         "poison",
-        "poisoned",
+        "empoisonné",
         "",
         "",
         ""
       ],
-      "DESCRIPTION": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by #b1."
+      "DESCRIPTION": "Les créatures empoisonnées perdent des PV au début de leur tour. Chaque tour, le Poison diminue de #b1."
     },
     "RETAIN": {
       "NAMES": [
@@ -208,7 +208,7 @@
         "",
         ""
       ],
-      "DESCRIPTION": "Les créatures fragilisées recoivent #b25% d'armure en moins."
+      "DESCRIPTION": "Les créatures fragilisées reçoivent #b25% d'armure en moins."
     },
     "STRIKE": {
       "NAMES": [
