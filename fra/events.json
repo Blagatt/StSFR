@@ -15,8 +15,8 @@
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
-      "[Utiliser la forge] #gVous #gAméliorez #gune #gcarte. #r25%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
-      "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
+      "[Utiliser la forge] #gVous #gAméliorez #gune #gcarte. #r25 #r%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
+      "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75 #r%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
       "[Verrouillé] Nécessite: Une carte améliorable"
@@ -318,7 +318,7 @@
       "[Partir]",
       "[Combattre]",
       "[Continuer] #gVous #gtrouvez #gdu #gbutin. #r",
-      "%: #rle #rmonstre #rrevient."
+      "#r%: #rle #rmonstre #rrevient."
     ]
   },
   "Golden Idol": {
@@ -414,7 +414,7 @@
   "Mushrooms": {
     "NAME": "Champignons",
     "DESCRIPTIONS": [
-      "Vous cédez au désir irrépressible de manger. Tandis que vous dévorez champignon après champignon, vous sentez l'hébétement vous gagner avant de vous évanouir. Lorsque vous vous réveillez, vous vous sentez étrange. NL Vous #grécupérez #b25% de vos PV, mais contractez une #rinfection.",
+      "Vous cédez au désir irrépressible de manger. Tandis que vous dévorez champignon après champignon, vous sentez l'hébétement vous gagner avant de vous évanouir. Lorsque vous vous réveillez, vous vous sentez étrange. NL Vous #grécupérez #b25 #b% de vos PV, mais contractez une #rinfection.",
       "#r@Une@ #r@embuscade!@ NL Des rongeurs infectés par les champignons sortent d'on ne sait où!",
       "Vous pénétrez dans un couloir rempli de #b~champignons~ #b~aux~ #b~couleurs~ #b~hypnotisantes.~ NL Étant donné votre manque d'expertise en mycologie, vous êtes incapable d'identifier les spécimens. NL Vous voudriez vous échapper, mais vous éprouvez l'étrange besoin de manger un #b~champignon...~"
     ],
@@ -450,7 +450,7 @@
     "OPTIONS": [
       "[Tendre le bras] #rVous #rperdez #r",
       " #rPV. #g",
-      "%: #gVous #gtrouvez #gune #gRelique.",
+      "#r%: #gVous #gtrouvez #gune #gRelique.",
       "[Partir]",
       "[S'enfoncer] #rVous #rperdez #r"
     ]
@@ -652,10 +652,10 @@
     "OPTIONS": [
       "[Continuer]",
       "[Meurtrier] #yParier #y",
-      " #yd'or - #g70%: #gvous #ggagnez #g",
+      " #yd'or - #g70 #g%: #gvous #ggagnez #g",
       " #gd'or.",
       "[Propriétaire] #yParier #y",
-      " #yd'or - #g30%: #gvous #ggagnez #g",
+      " #yd'or - #g30 #g%: #gvous #ggagnez #g",
       "[Observer]",
       "[Partir]"
     ]
@@ -686,7 +686,7 @@
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
     "OPTIONS": [
-      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r50%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
+      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r50 #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
   },
@@ -701,7 +701,7 @@
     ],
     "OPTIONS": [
       "[Accepter] #gVous #gretirez #gtoutes #gles #gFrappes. #gVous #gobtenez #g5 #gcartes #gMorsure. #rVous #rperdez #r",
-      "% #rde #rvos #rPV #rmax.",
+      "#r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
       "] #gVous #gretirez #gtoutes #gles #gcartes #gFrappe. #gVous #gobtenez #g5 #gcartes #gMorsure.",

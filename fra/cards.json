@@ -1,7 +1,7 @@
 {
   "Grand Finale": {
     "NAME": "Clou du spectacle",
-    "DESCRIPTION": "Jouable si la pioche est vide. NL !D! point(s) de dégâts à TOUS les ennemis.",
+    "DESCRIPTION": "Jouable si la pioche est vide. NL Inflige !D! point(s) de dégâts à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "Ma pioche NL doit être #rVide."
   },
   "Immolate": {
@@ -30,7 +30,7 @@
   },
   "Writhe": {
     "NAME": "Souffrance",
-    "DESCRIPTION": "Injouable. NL Cadeau."
+    "DESCRIPTION": "Injouable. NL Inné."
   },
   "Dark Shackles": {
     "NAME": "Sombres chaînes",
@@ -42,8 +42,8 @@
   },
   "Cloak And Dagger": {
     "NAME": "Cape et dague",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Ajoute !M! Surin à votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Ajoute !M! Surins à votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoute !M! Surin à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoute !M! Surins à votre main."
   },
   "Underhanded Strike": {
     "NAME": "Frappe de la main",
@@ -91,7 +91,7 @@
   },
   "Power Through": {
     "NAME": "Ténacité",
-    "DESCRIPTION": "Ajoutez 2 cartes Plaie à votre main. NL Gagnez !B! de Blocage."
+    "DESCRIPTION": "Ajoutez 2 cartes Plaie à votre main. NL Gagnez !B! d'Armure."
   },
   "Dual Wield": {
     "NAME": "Ambidextrie",
@@ -104,7 +104,7 @@
   },
   "Leg Sweep": {
     "NAME": "Balayette",
-    "DESCRIPTION": "Applique !M! de Faiblesse. NL Gagnez !B! de Blocage."
+    "DESCRIPTION": "Applique !M! de Faiblesse. NL Gagnez !B! d'Armure."
   },
   "Flex": {
     "NAME": "Vantardise",
@@ -149,8 +149,8 @@
   },
   "After Image": {
     "NAME": "Image miroir",
-    "DESCRIPTION": "Quand vous jouez une carte, gagnez 1 de Blocage.",
-    "UPGRADE_DESCRIPTION": "Cadeau. NL Quand vous jouez une carte, gagnez 1 de Blocage."
+    "DESCRIPTION": "Quand vous jouez une carte, gagnez 1 d'Armure.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Quand vous jouez une carte, gagnez 1 d'Armure."
   },
   "Unload": {
     "NAME": "Déchargement",
@@ -162,7 +162,7 @@
   },
   "Deflect": {
     "NAME": "Détournement",
-    "DESCRIPTION": "Gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Trip": {
     "NAME": "Croche-pied",
@@ -176,11 +176,11 @@
   "Brutality": {
     "NAME": "Brutalité",
     "DESCRIPTION": "Au début du tour, perdez 1 PV et piochez 1 carte.",
-    "UPGRADE_DESCRIPTION": "Cadeau. Au début du tour, perdez 1 PV et piochez 1 carte."
+    "UPGRADE_DESCRIPTION": "Inné. Au début du tour, perdez 1 PV et piochez 1 carte."
   },
   "Iron Wave": {
     "NAME": "Vague de fer",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Inflige !D! point(s) de dégâts."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Inflige !D! point(s) de dégâts."
   },
   "Reckless Charge": {
     "NAME": "Charge furieuse",
@@ -196,7 +196,7 @@
   },
   "Dramatic Entrance": {
     "NAME": "Entrée fracassante",
-    "DESCRIPTION": "Cadeau. NL !D! point(s) de dégâts à TOUS les ennemis. NL Épuisement."
+    "DESCRIPTION": "Inné. NL Inflige !D! point(s) de dégâts à TOUS les ennemis. NL Épuisement."
   },
   "Hemokinesis": {
     "NAME": "Hémokinésie",
@@ -216,7 +216,7 @@
   },
   "Juggernaut": {
     "NAME": "Mastodonte",
-    "DESCRIPTION": "Quand vous gagnez du Blocage, inflige !M! point(s) de dégâts à un ennemi aléatoire."
+    "DESCRIPTION": "Quand vous gagnez de l'Armure, inflige !M! point(s) de dégâts à un ennemi aléatoire."
   },
   "Caltrops": {
     "NAME": "Pièges",
@@ -228,17 +228,17 @@
   },
   "Blur": {
     "NAME": "Flou",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Le Blocage n'est pas retiré au début du prochain tour."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure n'est pas retirée au début du prochain tour."
   },
   "Body Slam": {
     "NAME": "Projection",
-    "DESCRIPTION": "Inflige un total de dégâts égal à votre Blocage actuel.",
-    "UPGRADE_DESCRIPTION": " NL (!D! point(s) de dégâts)"
+    "DESCRIPTION": "Inflige un total de dégâts égal à votre Armure actuel.",
+    "UPGRADE_DESCRIPTION": " NL (Inflige !D! point(s) de dégâts)"
   },
   "True Grit": {
     "NAME": "Virilité",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Épuise une carte aléatoire de votre main.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Épuise une carte de votre main."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuise une carte aléatoire de votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuise une carte de votre main."
   },
   "Setup": {
     "NAME": "Mise en place",
@@ -250,11 +250,11 @@
   },
   "Impervious": {
     "NAME": "Invincible",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Épuisement."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisement."
   },
   "Shrug It Off": {
     "NAME": "Même pas mal",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 1 carte."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez 1 carte."
   },
   "Clash": {
     "NAME": "Conflit",
@@ -269,7 +269,7 @@
   },
   "Flame Barrier": {
     "NAME": "Barrière enflammée",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Quand on vous attaque ce tour, vous infligez 4 points de dégâts. "
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Quand on vous attaque ce tour, vous infligez 4 points de dégâts. "
   },
   "Endless Agony": {
     "NAME": "Agonie éternelle",
@@ -293,7 +293,7 @@
   },
   "Metallicize": {
     "NAME": "Métallisation",
-    "DESCRIPTION": "À la fin du tour, gagnez !M! de Blocage."
+    "DESCRIPTION": "À la fin du tour, gagnez !M! d'Armure."
   },
   "Pommel Strike": {
     "NAME": "Frappe de pommeau",
@@ -416,7 +416,7 @@
   },
   "Escape Plan": {
     "NAME": "Plan d'évasion",
-    "DESCRIPTION": "Piochez 1 carte. NL S'il s'agit d'une carte Compétence, gagnez !B! de Blocage."
+    "DESCRIPTION": "Piochez 1 carte. NL S'il s'agit d'une carte Compétence, gagnez !B! d'Armure."
   },
   "Finisher": {
     "NAME": "Coup de grâce",
@@ -442,15 +442,15 @@
   },
   "Defend_R": {
     "NAME": "Défense",
-    "DESCRIPTION": "Gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Defend_G": {
     "NAME": "Défense",
-    "DESCRIPTION": "Gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Defend_B": {
     "NAME": "Défense",
-    "DESCRIPTION": "Gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Seeing Red": {
     "NAME": "Voir rouge",
@@ -478,12 +478,12 @@
   },
   "Barricade": {
     "NAME": "Barricade",
-    "DESCRIPTION": "Le Blocage n'expire plus au début de votre tour."
+    "DESCRIPTION": "L'Armure n'expire plus au début de votre tour."
   },
   "Armaments": {
     "NAME": "Protections",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Améliore une carte de votre main pour le reste du combat.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Améliore TOUTES les cartes de votre main pour le reste du combat."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore une carte de votre main pour le reste du combat.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore TOUTES les cartes de votre main pour le reste du combat."
   },
   "Havoc": {
     "NAME": "Ravages",
@@ -503,7 +503,7 @@
   },
   "Feel No Pain": {
     "NAME": "Ignore la douleur",
-    "DESCRIPTION": "Quand une carte est Épuisée, NL gagnez !M! de Blocage."
+    "DESCRIPTION": "Quand une carte est Épuisée, NL gagnez !M! d'Armure."
   },
   "Hide": {
     "NAME": "Cache-cache",
@@ -523,7 +523,7 @@
   },
   "Rage": {
     "NAME": "Rage",
-    "DESCRIPTION": "Quand vous jouez une carte Attaque, gagnez !M! de Blocage."
+    "DESCRIPTION": "Quand vous jouez une carte Attaque, gagnez !M! d'Armure."
   },
   "Headbutt": {
     "NAME": "Coup de tête",
@@ -536,8 +536,8 @@
   },
   "Entrench": {
     "NAME": "Enracinement",
-    "DESCRIPTION": "Double votre Blocage.",
-    "UPGRADE_DESCRIPTION": "Double votre Blocage."
+    "DESCRIPTION": "Double votre Armure.",
+    "UPGRADE_DESCRIPTION": "Double votre Armure."
   },
   "Noxious Fumes": {
     "NAME": "Fumées toxiques",
@@ -546,7 +546,7 @@
   "Infinite Blades": {
     "NAME": "Lames infinies",
     "DESCRIPTION": "Au début du tour, ajoute un Surin à votre main.",
-    "UPGRADE_DESCRIPTION": "Cadeau. NL Au début du tour, ajoute un Surin à votre main."
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début du tour, ajoute un Surin à votre main."
   },
   "Phantasmal Killer": {
     "NAME": "Tueur illusoire",
@@ -567,12 +567,12 @@
   },
   "Sentinel": {
     "NAME": "Sentinelle",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Si cette carte est Épuisée, NL gagnez [R] [R].",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! de Blocage. NL Si cette carte est Épuisée, NL gagnez [R] [R] [R]."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Si cette carte est Épuisée, NL gagnez [R] [R].",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Si cette carte est Épuisée, NL gagnez [R] [R] [R]."
   },
   "Survivor": {
     "NAME": "Survivant",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Défaussez une carte."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Défaussez une carte."
   },
   "Wild Strike": {
     "NAME": "Frappe sauvage",
@@ -612,7 +612,7 @@
   },
   "Second Wind": {
     "NAME": "Second souffle",
-    "DESCRIPTION": "Épuise toutes les cartes de votre main (sauf Attaques). Gagnez !B! de Blocage par carte Épuisée."
+    "DESCRIPTION": "Épuise toutes les cartes de votre main (sauf Attaques). Gagnez !B! d'Armure par carte Épuisée."
   },
   "Enlightenment": {
     "NAME": "Illumination",
@@ -629,7 +629,7 @@
   },
   "Dash": {
     "NAME": "Esquive",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Inflige !D! point(s) de dégâts."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Inflige !D! point(s) de dégâts."
   },
   "Transmutation": {
     "NAME": "Transmutation",
@@ -638,7 +638,7 @@
   },
   "Backstab": {
     "NAME": "Trahison",
-    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Cadeau. NL Épuisement."
+    "DESCRIPTION": "Inflige !D! point(s) de dégâts. NL Inné. NL Épuisement."
   },
   "Step Through Time": {
     "NAME": "Voyage dans le temps",
@@ -662,7 +662,7 @@
   },
   "Finesse": {
     "NAME": "Subtilité",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 1 carte."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez 1 carte."
   },
   "Slice": {
     "NAME": "Tranche",
@@ -670,7 +670,7 @@
   },
   "Backflip": {
     "NAME": "Salto",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Piochez 2 cartes."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez 2 cartes."
   },
   "Outmaneuver": {
     "NAME": "Tacticien",
@@ -715,7 +715,7 @@
   },
   "Good Instincts": {
     "NAME": "Instincts de survie",
-    "DESCRIPTION": "Gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "Prepared": {
     "NAME": "Préparatifs",
@@ -763,7 +763,7 @@
   },
   "Ghostly Armor": {
     "NAME": "Armure spectrale",
-    "DESCRIPTION": "Éthérée. NL Gagnez !B! de Blocage."
+    "DESCRIPTION": "Éthérée. NL Gagnez !B! d'Armure."
   },
   "Uppercut": {
     "NAME": "Uppercut",
@@ -772,7 +772,7 @@
   "Mind Blast": {
     "NAME": "Détonation mentale",
     "DESCRIPTION": "Inflige des dégâts selon le nombre de cartes de votre pioche.",
-    "UPGRADE_DESCRIPTION": "Innée. NL Inflige autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Inflige autant de dégâts qu'il y a de cartes dans votre pioche.",
     "EXTENDED_DESCRIPTION": [
       " NL (Inflige !D! dégâts.)"
     ]
@@ -827,7 +827,7 @@
   },
   "Dodge and Roll": {
     "NAME": "Dérobade",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Au prochain tour, gagnez !B! de Blocage."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, gagnez !B! d'Armure."
   },
   "All Out Attack": {
     "NAME": "Attaque suprême",
@@ -847,7 +847,7 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Gagnez !B! de Blocage. NL Peut être améliorée à l'infini."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Peut être améliorée à l'infini."
   },
   "The Bomb": {
     "NAME": "La bombe",

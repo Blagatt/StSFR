@@ -2,8 +2,8 @@
   "Main Tutorial": {
     "TEXT": [
       "Terrassez vos ennemis en jouant les cartes de votre main ! NL NL Il vous faut de #yl'Énergie pour jouer vos cartes. NL Lorsque vous n'en avez plus, mettez fin à votre tour. NL NL Au début de votre tour, vous piochez de nouvelles cartes et vos points #yd'Énergie se remplissent.",
-      "Jouez des cartes défensives pour gagner du #yBlocage avant qu'un ennemi ne vous attaque. NL NL Le #yBlocage réduit les dégâts infligés par l'attaque suivante, mais NL #rs'estompe au début de votre prochain tour.",
-      "Pendant votre tour, vous pouvez voir ce qu'un ennemi #ys'apprête à faire au-dessus de sa tête. NL NL Si un ennemi s'apprête à vous attaquer, n'oubliez pas de gagner du #yBlocage !"
+      "Jouez des cartes défensives pour gagner de #yl'Armure avant qu'un ennemi ne vous attaque. NL NL #yL'Armure réduit les dégâts infligés par l'attaque suivante, mais NL #rs'estompe au début de votre prochain tour.",
+      "Pendant votre tour, vous pouvez voir ce qu'un ennemi #ys'apprête à faire au-dessus de sa tête. NL NL Si un ennemi s'apprête à vous attaquer, n'oubliez pas de gagner de #yl'Armure !"
     ],
     "LABEL": [
       "Suivant",
