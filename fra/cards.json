@@ -75,11 +75,12 @@
   },
   "Sadistic Nature": {
     "NAME": "Sadisme",
-    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit 3 point(s) de dégâts."
+    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !M! point(s) de dégâts."
   },
   "J.A.X.": {
     "NAME": "D.O.P.E",
-    "DESCRIPTION": "Perdez 3 PV. NL Gagnez 2 points de Force. NL Épuisement."
+    "DESCRIPTION": "Perdez 3 PV. NL Gagnez !M! de Force. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Perdez 3 PV. NL Gagnez !M! de Force. NL Épuisement."
   },
   "Offering": {
     "NAME": "Offrande",
@@ -166,8 +167,8 @@
   },
   "Trip": {
     "NAME": "Croche-pied",
-    "DESCRIPTION": "Applique 2 de Vulnérabilité.",
-    "UPGRADE_DESCRIPTION": "Applique !M! Vulnérable à TOUS les ennemis."
+    "DESCRIPTION": "Applique !M! de Vulnérabilité.",
+    "UPGRADE_DESCRIPTION": "Applique !M! de Vulnérabilité à TOUS les ennemis."
   },
   "Dagger Throw": {
     "NAME": "Lancer de dagues",
@@ -391,7 +392,7 @@
   "Secret Technique": {
     "NAME": "Technique secrète",
     "DESCRIPTION": "Choisissez une carte Compétence dans votre pioche et placez-la dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Il n'y a pas de Compétences NL dans ma pioche.",
+    "UPGRADE_DESCRIPTION": "Choisissez une carte Compétence dans votre pioche et placez-la dans votre main.",
     "EXTENDED_DESCRIPTION": [
       "Il n'y a pas de Compétences NL dans ma pioche."
     ]
@@ -462,7 +463,7 @@
   },
   "Panache": {
     "NAME": "Panache",
-    "DESCRIPTION": "Quand vous jouez 4 cartes en un tour, 10 points de dégâts à TOUS les ennemis."
+    "DESCRIPTION": "Quand vous jouez 5 cartes en un tour, infligez !M! points de dégâts à TOUS les ennemis.",
   },
   "Fiend Fire": {
     "NAME": "Feu ennemi",
@@ -492,7 +493,7 @@
   "Secret Weapon": {
     "NAME": "Arme secrète",
     "DESCRIPTION": "Choisissez une carte Attaque dans votre pioche et placez-la dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Il n'y a pas d'Attaques NL dans ma pioche.",
+    "UPGRADE_DESCRIPTION": "Choisissez une carte Attaque dans votre pioche et placez-la dans votre main.",
     "EXTENDED_DESCRIPTION": [
       "Il n'y a pas d'Attaques NL dans ma pioche."
     ]
@@ -621,11 +622,11 @@
   },
   "Purity": {
     "NAME": "Pureté",
-    "DESCRIPTION": "Choisissez 2 cartes à Épuiser dans votre main. NL Épuisement."
+    "DESCRIPTION": "Choisissez jusqu'à !M! cartes à Épuiser dans votre main. NL Épuisement."
   },
   "Panacea": {
     "NAME": "Panacée",
-    "DESCRIPTION": "Perdez Vulnérabilité, Faiblesse et Frêle."
+    "DESCRIPTION": "Gagnez !M! d'Artefact. NL Épuisement."
   },
   "Dash": {
     "NAME": "Esquive",
@@ -633,8 +634,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Transforme votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoute X cartes non-colorées améliorées dans votre main. NL Epuisement."
+    "DESCRIPTION": "Ajoute X cartes non-colorées dans votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoute X cartes non-colorées améliorées dans votre main. NL Épuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
@@ -688,7 +689,7 @@
   },
   "Master of Strategy": {
     "NAME": "Maître stratège",
-    "DESCRIPTION": "Piochez 3 cartes. NL Épuisement."
+    "DESCRIPTION": "Piochez !M! cartes. NL Épuisement."
   },
   "Flechettes": {
     "NAME": "Fléchettes",
@@ -751,7 +752,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "Polyvalence",
-    "DESCRIPTION": "Ajoute une carte sans couleur aléatoire à votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoute !M! carte non-colorées aléatoires à votre main. NL Épuisement."
   },
   "Demon Form": {
     "NAME": "Forme démoniaque",
@@ -771,7 +772,7 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Inflige des dégâts selon le nombre de cartes de votre pioche.",
+    "DESCRIPTION": "Inflige autant de dégâts qu'il y a de cartes dans votre pioche.",
     "UPGRADE_DESCRIPTION": "Inné. NL Inflige autant de dégâts qu'il y a de cartes dans votre pioche.",
     "EXTENDED_DESCRIPTION": [
       " NL (Inflige !D! dégâts.)"
@@ -818,7 +819,7 @@
   },
   "Thinking Ahead": {
     "NAME": "Coup d'avance",
-    "DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche.",
+    "DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche. NL Épuisement",
     "UPGRADE_DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche."
   },
   "Distraction": {
