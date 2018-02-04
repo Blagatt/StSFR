@@ -1,4 +1,25 @@
 Updates for Translators!
+
+2/2/2018:
+credits.json
+	Overhauled! If you would like to credit yourself, please add yourself into the
+	appropritate language section and I will update that field for all the other languages. Thank you!
+ui.json
+	"CreditsScreen"
+	
+----------------------------------
+
+1/31/2018:
+cards.json
+	Removed "Spend all [R]" from all Cost X cards.
+	Malaise, Skewer, Whirlwind.
+
+----------------------------------
+
+1/30/2018v2:
+cards.json
+	"Warcry"
+
 ----------------------------------
 
 1/30/2018:
