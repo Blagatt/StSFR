@@ -7,7 +7,7 @@
 		]
 	},
 	"OPS": {
-		"HEADER": "Opérations et indicateurs",
+		"HEADER": "Opérations et métriques",
 		"NAMES": [
 			"Danielle Jenkins",
 			"Jake Rabinowitz"
@@ -33,7 +33,7 @@
 		]
 	},
 	"ANIMATION": {
-		"HEADER": "Animation de personnages",
+		"HEADER": "Animation des personnages",
 		"NAMES": [
 			"Julio Duque Montero",
 			"Jon Sandler"
