@@ -78,8 +78,8 @@
     "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit 3 point(s) de dégâts."
   },
   "J.A.X.": {
-    "NAME": "D.O.P.E",
-    "DESCRIPTION": "Perdez 3 PV. NL Gagnez 2 points de Force. NL Épuisement."
+    "NAME": "D.O.P.E.",
+    "DESCRIPTION": "Perdez 3 PV. NL Gagnez 2 de Force. NL Épuisement."
   },
   "Offering": {
     "NAME": "Offrande",
@@ -378,7 +378,8 @@
   },
   "Warcry": {
     "NAME": "Cri de guerre",
-    "DESCRIPTION": "Piochez 2 cartes. NL Place une carte de votre main sur le haut de la pioche. NL Épuisement."
+    "DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
+	"UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement."
   },
   "PiercingWail": {
     "NAME": "Hurlement perçant",
@@ -407,7 +408,7 @@
   },
   "Deep Breath": {
     "NAME": "Inspiration",
-    "DESCRIPTION": "Mélangez les cartes de votre défausse à votre pioche. NL Piochez 1 carte.",
+    "DESCRIPTION": "Mélangez les cartes de votre défausse à votre pioche. NL Piochez !M! carte.",
     "UPGRADE_DESCRIPTION": "Mélangez votre défausse avec votre pioche. NL Piochez !M! cartes."
   },
   "Doubt": {
@@ -462,7 +463,7 @@
   },
   "Panache": {
     "NAME": "Panache",
-    "DESCRIPTION": "Quand vous jouez 4 cartes en un tour, 10 points de dégâts à TOUS les ennemis."
+    "DESCRIPTION": "Chaque fois que vous jouez 5 cartes en un tour, infligez !M! points de dégâts à TOUS les ennemis."
   },
   "Fiend Fire": {
     "NAME": "Feu ennemi",
@@ -621,11 +622,11 @@
   },
   "Purity": {
     "NAME": "Pureté",
-    "DESCRIPTION": "Choisissez 2 cartes à Épuiser dans votre main. NL Épuisement."
+    "DESCRIPTION": "Choisissez jusqu'à !M! cartes à Épuiser dans votre main. NL Épuisement."
   },
   "Panacea": {
     "NAME": "Panacée",
-    "DESCRIPTION": "Perdez Vulnérabilité, Faiblesse et Frêle."
+    "DESCRIPTION": "Gagnez !M! d'Artefact. NL Épuisement."
   },
   "Dash": {
     "NAME": "Esquive",
@@ -633,8 +634,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Transforme votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoute X cartes non-colorées améliorées dans votre main. NL Epuisement."
+    "DESCRIPTION": "Ajoutez X cartes non-colorées dans votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez X cartes non-colorées améliorées dans votre main. NL Épuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
@@ -771,8 +772,8 @@
   },
   "Mind Blast": {
     "NAME": "Détonation mentale",
-    "DESCRIPTION": "Inflige des dégâts selon le nombre de cartes de votre pioche.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Inflige autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "DESCRIPTION": "Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Infligez autant de dégâts qu'il y a de cartes dans votre pioche.",
     "EXTENDED_DESCRIPTION": [
       " NL (Inflige !D! dégâts.)"
     ]
@@ -818,7 +819,7 @@
   },
   "Thinking Ahead": {
     "NAME": "Coup d'avance",
-    "DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche.",
+    "DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Piochez 2 cartes, puis placez une carte de votre main sur le haut de la pioche."
   },
   "Distraction": {
