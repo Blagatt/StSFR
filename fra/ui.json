@@ -504,7 +504,7 @@
   },
   "MenuButton": {
     "TEXT": [
-      "Bibliothèque de cartes",
+      "Collection de cartes",
       "Jouer",
       "Défi quotidien",
       "Collection de Reliques",
@@ -513,7 +513,7 @@
       "Statistiques",
       "Générique",
       "Quitter",
-      "Remarques de mise à jour",
+      "Notes de mise à jour",
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
       "Paramètres",
