@@ -75,7 +75,7 @@
   },
   "Sadistic Nature": {
     "NAME": "Sadisme",
-    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit 3 point(s) de dégâts."
+    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !D! point(s) de dégâts."
   },
   "J.A.X.": {
     "NAME": "D.O.P.E.",
@@ -116,7 +116,7 @@
   },
   "Bullet Time": {
     "NAME": "Balles arrêtées",
-    "DESCRIPTION": "Impossible de piocher ce tour. Les cartes vertes coûtent 0 ce tour."
+    "DESCRIPTION": "Impossible de piocher ce tour. Les cartes dans votre main coûtent 0 ce tour."
   },
   "Catalyst": {
     "NAME": "Alchimiste",
@@ -166,8 +166,8 @@
   },
   "Trip": {
     "NAME": "Croche-pied",
-    "DESCRIPTION": "Applique 2 de Vulnérabilité.",
-    "UPGRADE_DESCRIPTION": "Applique !M! Vulnérable à TOUS les ennemis."
+    "DESCRIPTION": "Applique !M! de Vulnérabilité.",
+    "UPGRADE_DESCRIPTION": "Applique !M! de Vulnérabilité à TOUS les ennemis."
   },
   "Dagger Throw": {
     "NAME": "Lancer de dagues",
@@ -392,7 +392,7 @@
   "Secret Technique": {
     "NAME": "Technique secrète",
     "DESCRIPTION": "Choisissez une carte Compétence dans votre pioche et placez-la dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Il n'y a pas de Compétences NL dans ma pioche.",
+    "UPGRADE_DESCRIPTION": "Choisissez une carte Compétence dans votre pioche et placez-la dans votre main.",
     "EXTENDED_DESCRIPTION": [
       "Il n'y a pas de Compétences NL dans ma pioche."
     ]
@@ -493,7 +493,7 @@
   "Secret Weapon": {
     "NAME": "Arme secrète",
     "DESCRIPTION": "Choisissez une carte Attaque dans votre pioche et placez-la dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Il n'y a pas d'Attaques NL dans ma pioche.",
+    "UPGRADE_DESCRIPTION": "Choisissez une carte Attaque dans votre pioche et placez-la dans votre main.",
     "EXTENDED_DESCRIPTION": [
       "Il n'y a pas d'Attaques NL dans ma pioche."
     ]
@@ -689,7 +689,7 @@
   },
   "Master of Strategy": {
     "NAME": "Maître stratège",
-    "DESCRIPTION": "Piochez 3 cartes. NL Épuisement."
+    "DESCRIPTION": "Piochez !M! cartes. NL Épuisement."
   },
   "Flechettes": {
     "NAME": "Fléchettes",
