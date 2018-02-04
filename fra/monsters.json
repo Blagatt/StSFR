@@ -40,7 +40,7 @@
     ],
     "NAME": "Vautour",
     "DIALOG": [
-      "@CROA !@ NL @CROAAA@",
+      "@CROA@ ! NL @CROAAA@",
       ""
     ]
   },
@@ -62,10 +62,10 @@
     ],
     "NAME": "Diablotin sorcier",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
       "Chargement !",
       "~Ça~ ~vient !!~",
-      "@J'ai...@ @besoin...@ NL @d'aide... !@",
+      "@J'ai...@ @besoin...@ NL @d'aide...@ !",
       "~Trop...~ NL ~dangereux...~ NL ~adieu...~"
     ]
   },
@@ -116,8 +116,8 @@
     ],
     "NAME": "Diablotin fou",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide !@",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
+      "@Je vais@ @chercher@ NL @de@ @l'aide@ !",
       "Je me tire !"
     ]
   },
@@ -127,8 +127,8 @@
     ],
     "NAME": "Diablotin sournois",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide !@ ",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
+      "@Je vais@ @chercher@ NL @de@ @l'aide@ ! ",
       "@Comment ?!@"
     ]
   },
@@ -140,8 +140,8 @@
     ],
     "NAME": "Adepte",
     "DIALOG": [
-      "@MA@ @PUISSANCE@ @EST@ NL @EXTRAORDINAIRE !@",
-      "@VOUS@ @N'AVEZ@ @RIEN@ NL @À@ @FAIRE@ @ICI !@",
+      "@MA@ @PUISSANCE@ @EST@ NL @EXTRAORDINAIRE@ !",
+      "@VOUS@ @N'AVEZ@ @RIEN@ NL @À@ @FAIRE@ @ICI@ !",
       "~Ma~ ~puissance~ NL ~est~ ~ordinaire...~"
     ]
   },
@@ -163,8 +163,8 @@
       "N'abandonnez pas !",
       "Ce n'est pas fini !",
       "En avant !",
-      "@Repli@ NL @repliiiii !@",
-      "@Courreeeeeez !@"
+      "@Repli@ NL @repliiiii@ !",
+      "@Courreeeeeez@ !"
     ]
   },
   "Centurion": {
@@ -242,7 +242,7 @@
     "NAME": "Mange-époque",
     "DIALOG": [
       "~Ah...~ NL ~de la compagnie...~",
-      "~Quelle imprudence...~ NL @QUELLE IMPRUDENCE !@"
+      "~Quelle imprudence...~ NL @QUELLE IMPRUDENCE@ !"
     ]
   },
   "TheCollector": {
@@ -251,7 +251,7 @@
     ],
     "NAME": "Le Collectionneur",
     "DIALOG": [
-      "@Vous@ @êtes@ @à@ @moi !@"
+      "@Vous@ @êtes@ @à@ @moi@ !"
     ]
   },
   "TorchHead": {
@@ -299,7 +299,7 @@
     "DIALOG": [
       "Vous appelez ça une arme ?",
       "Approchez !",
-      "Faites de votre mieux ! NL @HA HA HA !@",
+      "Faites de votre mieux ! NL @HA HA HA@ !",
       "Je vous laisse une chance ! NL Vermine inutile !",
       "~Vous~ ~avez~ ~réussi...~",
       "@UNE DÉFAITE ?@ NL @IMPOSSIBLE !!@",
@@ -360,7 +360,7 @@
     "NAME": "Brigand",
     "DIALOG": [
       "Donnez-moi votre or !",
-      "@NOOOoooon !@",
+      "@NOOOoooon@ !",
       "Où est ma bombe de fumée... ? Voyons...",
       "Merci pour le flouze, hé hé."
     ]
@@ -488,7 +488,7 @@
     ],
     "NAME": "Diablotin à bouclier",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
       "~Au~ ~revoir...~",
       "C'est inutile..."
     ]
@@ -557,9 +557,9 @@
     ],
     "NAME": "Gros diablotin",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ !",
       "Je vais chercher #ggrand #rfrère !",
-      "@Oh@ @non,@ NL @oh@ @non,@ NL @OH@ @NON !@"
+      "@Oh@ @non,@ NL @oh@ @non,@ NL @OH@ @NON@ !"
     ]
   },
   "Deca": {
