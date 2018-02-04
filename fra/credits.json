@@ -1,64 +1,154 @@
 {
-  "Credits": {
-    "UI": [
-      "cliquez à nouveau pour quitter"
-    ],
-    "THANKS_MSG": "... et MERCI d'avoir joué !",
-    "NAMES": [
-      "Développement et conception",
-      "Anthony Giovannetti",
-      "Casey Yano",
-      "Musique et sons",
-      "Clark Aboud",
-      "Doublage",
-      "Michael Schwalbe",
-      "Tamara Ryan",
-      "Portraits de carte et dessins des événements",
-      "Anailis Dorta",
-      "Animation de personnages",
-      "Jon Sandler",
-      "Illustrations de l'arrière-plan et des promos",
-      "Bruce Brenneise",
-      "Opérations et indicateurs",
-      "Danielle Jenkins",
-      "Testeurs",
-      "Agari",
-      "Daria Anderson",
-      "Zac Bauermeister",
-      "Nick Becker",
-      "Esther Beckman",
-      "Leo Chen",
-      "Brian Chow",
-      "Dan D'Argenio",
-      "David Delorenzo",
-      "Tim Erskine",
-      "Benjamin Finkel",
-      "Rajiv Giridharagopal",
-      "Wyatt Grodzins",
-      "Ren Howell",
-      "Kyle James",
-      "Ryan Mathisen",
-      "Anthony McMillian",
-      "Brad Meine",
-      "Jacob Morris",
-      "Alex Rockwell",
-      "Greg Scheopner",
-      "John \"Diapo20xl\" Smith",
-      "Aaron Taggart",
-      "Alexander Toy",
-      "Merijn van der Vliet",
-      "David Von Derau",
-      "Conor Watson",
-      "Remerciements",
-      "Jake Rabinowitz",
-      "Harry Rabinowitz",
-      "Kevin \"Billy\" Matheson",
-      "Anthony Roybal",
-      "Lee Beckman",
-      "Sam Welch",
-      "bot à retours",
-      "Evan Howell",
-      "Justin Myhres"
-    ]
-  }
+	"DEV": {
+		"HEADER": "Développement et conception",
+		"NAMES": [
+			"Anthony Giovannetti",
+			"Casey Yano"
+		]
+	},
+	"OPS": {
+		"HEADER": "Opérations et indicateurs",
+		"NAMES": [
+			"Danielle Jenkins",
+			"Jake Rabinowitz"
+		]
+	},
+	"SOUND": {
+		"HEADER": "Musique et sons",
+		"NAMES": [
+			"Clark Aboud"
+		]
+	},
+	"VOICE": {
+		"HEADER": "Doublage",
+		"NAMES": [
+			"Tamara Ryan",
+			"Michael Schwalbe"
+		]
+	},
+	"PORTRAITS": {
+		"HEADER": "Portraits de cartes et dessins des événements",
+		"NAMES": [
+			"Anailis Dorta"
+		]
+	},
+	"ANIMATION": {
+		"HEADER": "Animation de personnages",
+		"NAMES": [
+			"Julio Duque Montero",
+			"Jon Sandler"
+		]
+	},
+	"ILLUSTRATION": {
+		"HEADER": "Illustrations de l'arrière-plan et des promos",
+		"NAMES": [
+			"Bruce Brenneise"
+		]
+	},
+	"LOC_ZHS": {
+		"HEADER": "Traduction en Chinois (Simplifié)",
+		"NAMES": [
+		]
+	},
+	"LOC_ZHT": {
+		"HEADER": "Traduction en Chinois (Traditionnel)",
+		"NAMES": [
+		]
+	},
+	"LOC_FRA": {
+		"HEADER": "Traduction en Français",
+		"NAMES": [
+		]
+	},
+	"LOC_DEU": {
+		"HEADER": "Traduction en Allemand",
+		"NAMES": [
+		]
+	},
+	"LOC_ITA": {
+		"HEADER": "Traduction en Italien",
+		"NAMES": [
+		]
+	},
+	"LOC_JPN": {
+		"HEADER": "Traduction en Japonais",
+		"NAMES": [
+		]
+	},
+	"LOC_KOR": {
+		"HEADER": "Traduction en Coréen",
+		"NAMES": [
+		]
+	},
+	"LOC_POL": {
+		"HEADER": "Traduction en Polonais",
+		"NAMES": [
+		]
+	},
+	"LOC_RUS": {
+		"HEADER": "Traduction en Russe",
+		"NAMES": [
+		]
+	},
+	"LOC_TUR": {
+		"HEADER": "Traduction en Turc",
+		"NAMES": [
+		]
+	},
+	"LOC_ADDITIONAL": {
+		"HEADER": "Traductions additionnelles",
+		"NAMES": [
+			"MoGi Group"
+		]
+	},
+	"TEST": {
+		"HEADER": "Testeurs",
+		"NAMES": [
+			"Agari",
+			"Daria Anderson",
+			"Zac Bauermeister",
+			"Nick Becker",
+			"Esther Beckman",
+			"Leo Chen",
+			"Brian Chau",
+			"Dan D'Argenio",
+			"David Delorenzo",
+			"Tim Erskine",
+			"Benjamin Finkel",
+			"Rajiv Giridharagopal",
+			"Wyatt Grodzins",
+			"Ren Howell",
+			"Kyle James",
+			"Ryan Mathisen",
+			"Anthony McMillian",
+			"Brad Meine",
+			"Jacob Morris",
+			"Alex Rockwell",
+			"Greg Scheopner",
+			"John \"Slide20xl\" Smith",
+			"Aaron Taggart",
+			"Alexander Toy",
+			"Merijn van der Vliet",
+			"David Von Derau",
+			"Conor Watson"
+		]
+	},
+	"SPECIAL": {
+		"HEADER": "Remerciements",
+		"NAMES": [
+			"Harry Rabinowitz",
+			"Kevin \"Billy\" Matheson",
+			"Anthony Roybal",
+			"Lee Beckman",
+			"Sam Welch",
+			"feedbackbot",
+			"Evan Howell",
+			"Justin Myhres"
+		]
+	},
+	"THANKS_MSG": {
+		"HEADER": "...et merci à VOUS d'avoir joué!",
+		"NAMES": [
+		]
+	}
 }
