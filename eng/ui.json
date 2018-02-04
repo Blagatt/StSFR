@@ -85,7 +85,9 @@
 		"Polish",
 		"Russian",
 		"Spanish",
-		"Hebrew"
+		"Hebrew",
+		"Turkish",
+		"Swedish"
 	]
   },
   "Proceed Button": {
@@ -637,6 +639,11 @@
 		"Settings",
 		"Run History"
 	]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+		"click again to exit"
+    ]
   },
   "PatchNotesScreen": {
     "TEXT": [
