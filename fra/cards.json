@@ -75,11 +75,11 @@
   },
   "Sadistic Nature": {
     "NAME": "Sadisme",
-    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !D! point(s) de dégâts."
+    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !M! point(s) de dégâts."
   },
   "J.A.X.": {
     "NAME": "D.O.P.E.",
-    "DESCRIPTION": "Perdez 3 PV. NL Gagnez 2 de Force. NL Épuisement."
+    "DESCRIPTION": "Perdez 3 PV. NL Gagnez !M! de Force. NL Épuisement."
   },
   "Offering": {
     "NAME": "Offrande",
@@ -752,7 +752,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "Polyvalence",
-    "DESCRIPTION": "Ajoute une carte sans couleur aléatoire à votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoute !M! carte non-colorées aléatoires à votre main. NL Épuisement."
   },
   "Demon Form": {
     "NAME": "Forme démoniaque",
