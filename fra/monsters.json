@@ -1,7 +1,7 @@
 {
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Visqueux désolé",
+    "NAME": "Slime désolé",
     "DIALOG": [
       ""
     ]
@@ -211,14 +211,14 @@
     "MOVES": [
       "Léchouille"
     ],
-    "NAME": "Visqueux épineux (M)",
+    "NAME": "Slime épineux (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux épineux (P)",
+    "NAME": "Slime épineux (P)",
     "DIALOG": [
       ""
     ]
@@ -267,14 +267,14 @@
       "Crachat acide",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (M)",
+    "NAME": "Slime acide (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux acide (P)",
+    "NAME": "Slime acide (P)",
     "DIALOG": [
       ""
     ]
@@ -463,9 +463,9 @@
       "Séparation",
       "Bombe visqueuse"
     ],
-    "NAME": "Boss visqueux",
+    "NAME": "Parrain Slime",
     "DIALOG": [
-      "~Visqueux...~ NL #r~ÉCRASE !!!~",
+      "~Écraser...~ NL #r~ÉCRASER !!!~",
       ""
     ]
   },
@@ -475,7 +475,7 @@
       "Séparation",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (G)",
+    "NAME": "Slime acide (G)",
     "DIALOG": [
       ""
     ]
@@ -597,7 +597,7 @@
       "Léchouille",
       "Séparation"
     ],
-    "NAME": "Visqueux épineux (G)",
+    "NAME": "Slime épineux (G)",
     "DIALOG": [
       ""
     ]
