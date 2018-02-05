@@ -301,7 +301,7 @@
       "Faites de votre mieux ! NL @HA HA HA@ !",
       "Je vous laisse une chance ! NL Vermine inutile !",
       "~Vous~ ~avez~ ~réussi...~",
-      "@UNE DÉFAITE ?@ NL @IMPOSSIBLE !!@",
+      "@UNE DÉFAITE ?@ NL @IMPOSSIBLE@ !!",
       "~MOUREZ~ ~.~ ~.~ ~.~",
       "AFFRONTEZ MA COLÈRE !"
     ]
@@ -635,7 +635,7 @@
     ],
     "NAME": "La gueule",
     "DIALOG": [
-      "@RRrrohrrRGHhh !!@"
+      "@RRrrohrrRGHhh@ !!"
     ]
   },
   "GremlinNob": {
@@ -645,7 +645,7 @@
     ],
     "NAME": "Diablotin bourgeois",
     "DIALOG": [
-      "@RRrroohrrRGHHhhh !!@"
+      "@RRrroohrrRGHHhhh@ !!"
     ]
   }
 }
