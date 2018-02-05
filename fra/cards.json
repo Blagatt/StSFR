@@ -37,7 +37,7 @@
     "DESCRIPTION": "L'ennemi perd !M! de Force pour le reste du tour. NL Épuisement."
   },
   "Glass Knife": {
-    "NAME": "Couteau en verre",
+    "NAME": "Couteau de verre",
     "DESCRIPTION": "Inflige !D! dégâts 2 fois. La carte inflige -2 dégâts pour ce combat."
   },
   "Cloak And Dagger": {
@@ -115,7 +115,7 @@
     "DESCRIPTION": "Inflige !D! dégâts à TOUS les ennemis 2 fois."
   },
   "Bullet Time": {
-    "NAME": "Balles arrêtées",
+    "NAME": "Bullet Time",
     "DESCRIPTION": "Impossible de piocher ce tour. Les cartes dans votre main coûtent 0 ce tour."
   },
   "Catalyst": {
@@ -515,7 +515,7 @@
     "DESCRIPTION": "Les cartes Compétence coûtent 0. NL Quand vous en jouez une, elle s'Épuise."
   },
   "Heel Hook": {
-    "NAME": "Prise de jambe",
+    "NAME": "Croc-en-jambe",
     "DESCRIPTION": "Inflige !D! dégâts. NL Si l'ennemi est Affaibli, NL gagnez [G] et NL piochez 1 carte."
   },
   "Injury": {
@@ -654,7 +654,7 @@
     "DESCRIPTION": "Quand une carte vous fait perdre des PV, NL gagnez 1 de Force."
   },
   "Bouncing Flask": {
-    "NAME": "Flasque sauteuse",
+    "NAME": "Flasque rebondissante",
     "DESCRIPTION": "Applique 3 de Poison à un ennemi aléatoire !M! fois."
   },
   "Bludgeon": {
@@ -805,7 +805,7 @@
     "UPGRADE_DESCRIPTION": "Injouable. NL À la fin du tour, subissez 4 dégâts."
   },
   "Sucker Punch": {
-    "NAME": "Coup de poing",
+    "NAME": "Coup bas",
     "DESCRIPTION": "Inflige !D! dégâts. NL Applique !M! de Faiblesse."
   },
   "Double Tap": {

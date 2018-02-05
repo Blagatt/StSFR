@@ -504,7 +504,7 @@
   },
   "MenuButton": {
     "TEXT": [
-      "Bibliothèque de cartes",
+      "Collection de cartes",
       "Jouer",
       "Défi quotidien",
       "Collection de Reliques",
@@ -513,7 +513,7 @@
       "Statistiques",
       "Générique",
       "Quitter",
-      "Remarques de mise à jour",
+      "Notes de mise à jour",
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
       "Paramètres",
@@ -825,7 +825,7 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Niveau ",
+      "Mode Ascension Niveau ",
       " Déverrouillé !"
     ]
   },
@@ -840,15 +840,15 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Les Élites apparaissent plus souvent.",
-      "2. Les ennemis normaux sont mortels.",
-      "3. Les Élites sont mortels.",
-      "4. Les Bosses sont mortels.",
-      "5. Vous vous soignez moins après un combats contre un Boss.",
-      "6. Commencez chaque tentative blessé.",
-      "7. Les ennemis normaux sont encore plus fort.",
-      "8. Les Élites sont encore plus fort.",
-      "9. Les Bosses sont encore plus fort.",
+      "1. Les Élites sont plus fréquents.",
+      "2. Les ennemis normaux font plus de dégâts.",
+      "3. Les Élites font plus de dégâts.",
+      "4. Les Boss font plus de dégâts.",
+      "5. Vous récupérez moins de vie après avoir batttu un Boss.",
+      "6. Commencez chaque partie blessé.",
+      "7. Les ennemis normaux ont plus de vie.",
+      "8. Les Élites ont plus de vie.",
+      "9. Les Boss ont plus de vie.",
       "10. Parasite !"
     ]
   },
