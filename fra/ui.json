@@ -685,10 +685,10 @@
       "Coréen",
       "Polonais",
       "Russe",
-      "Espagnole",
+      "Espagnol",
       "Hébreux",
-      "Turkish",
-      "Swedish"
+      "Turc",
+      "Suédois"
     ]
   },
   "UnlockTextEffect": {
@@ -877,7 +877,7 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "cliquez à nouveau pour passer"
     ]
   }
 }
