@@ -449,7 +449,7 @@
       "Astuces de pouvoir NL Astuces de Relique",
       "Divers",
       "#rLangue :",
-      "Charger les données de jeu #b(?)",
+      "Envoyer des statistiques aux développeurs #b(?)",
       "Quitter le jeu",
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
@@ -523,7 +523,7 @@
   "PatchNotesScreen": {
     "TEXT": [
       "Retour",
-      "#yRemarques de #ymise à jour",
+      "#yNotes #yde #ymise #yà #yjour",
       " NL (TEMPORAIRE : utilisez les flèches pour accéder aux historiques précédents)"
     ]
   },
@@ -685,10 +685,10 @@
       "Coréen",
       "Polonais",
       "Russe",
-      "Espagnole",
+      "Espagnol",
       "Hébreux",
-      "Turkish",
-      "Swedish"
+      "Turc",
+      "Suédois"
     ]
   },
   "UnlockTextEffect": {
@@ -877,7 +877,7 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "click again to exit"
+      "cliquez à nouveau pour revenir à l'écran titre"
     ]
   }
 }
