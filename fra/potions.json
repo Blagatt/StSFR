@@ -1,9 +1,9 @@
 {
   "Ancient Potion": {
     "NAME": "Potion Ancienne",
-      "DESCRIPTIONS": [
-        "Gagnez #b",
-        " #yArtefact."
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yArtefact."
     ]
   },
   "Block Potion": {

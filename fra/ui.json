@@ -686,7 +686,9 @@
       "Polonais",
       "Russe",
       "Espagnole",
-      "Hébreux"
+      "Hébreux",
+      "Turkish",
+      "Swedish"
     ]
   },
   "UnlockTextEffect": {
@@ -871,6 +873,11 @@
     "TEXT": [
       "Mode Ascension Niveau ",
       " Déverrouillé !"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "click again to exit"
     ]
   }
 }

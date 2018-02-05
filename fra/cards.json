@@ -379,7 +379,7 @@
   "Warcry": {
     "NAME": "Cri de guerre",
     "DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
-	"UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement."
+    "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement."
   },
   "PiercingWail": {
     "NAME": "Hurlement perçant",
