@@ -116,7 +116,7 @@
     "NAME": "Diablotin fou",
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide@ !",
+      "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ !",
       "Je me tire !"
     ]
   },
@@ -127,8 +127,8 @@
     "NAME": "Diablotin sournois",
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide@ ! ",
-      "@Comment ?!@"
+      "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ ! ",
+      "@Comment@ @?!@"
     ]
   },
   "Cultist": {
@@ -241,7 +241,7 @@
     "NAME": "Mange-époque",
     "DIALOG": [
       "~Ah...~ NL ~de la compagnie...~",
-      "~Quelle imprudence...~ NL @QUELLE IMPRUDENCE@ !"
+      "~Quelle imprudence...~ NL @QUELLE@ @IMPRUDENCE@ !"
     ]
   },
   "TheCollector": {
@@ -301,7 +301,7 @@
       "Faites de votre mieux ! NL @HA HA HA@ !",
       "Je vous laisse une chance ! NL Vermine inutile !",
       "~Vous~ ~avez~ ~réussi...~",
-      "@UNE DÉFAITE ?@ NL @IMPOSSIBLE@ !!",
+      "@UNE@ @DÉFAITE@ @?@ NL @IMPOSSIBLE@ !!",
       "~MOUREZ~ ~.~ ~.~ ~.~",
       "AFFRONTEZ MA COLÈRE !"
     ]
