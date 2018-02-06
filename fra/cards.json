@@ -325,7 +325,7 @@
   },
   "Skewer": {
     "NAME": "Brochette",
-    "DESCRIPTION": "Dépense tous vos [G]. NL Inflige !D! dégâts X fois."
+    "DESCRIPTION": "Infligez !D! dégâts X fois."
   },
   "Envenom": {
     "NAME": "Envenimement",
@@ -378,7 +378,7 @@
   },
   "Whirlwind": {
     "NAME": "Tourbillon",
-    "DESCRIPTION": "Dépense tous les [R]. NL Inflige !D! dégâts à TOUS les ennemis X fois."
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis X fois."
   },
   "Warcry": {
     "NAME": "Cri de guerre",
@@ -559,7 +559,7 @@
   },
   "Malaise": {
     "NAME": "Malaise",
-    "DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X de Force. Applique X de Faiblesse. NL Épuisement.",
+    "DESCRIPTION": "L'ennemi perd X de Force. Applique X de Faiblesse. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
   },
   "Reflex": {
