@@ -289,7 +289,7 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Le journal légendaire d'une liche antique.",
     "DESCRIPTIONS": [
-      "Vous commencez chaque combat avec une carte #yPouvoir aléatoire dans votre main. Son coût est de #b0."
+      "Vous commencez chaque combat avec une carte #yPouvoir aléatoire dans votre main. Son coût est de #b0 ce tour."
     ]
   },
   "Eternal Feather": {
@@ -714,9 +714,9 @@
     "NAME": "Cube runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
-      "Vos PV max sont réduits de #b",
-      " %. Quand vous perdez des PV, vous piochez #b",
-      " carte."
+      "Quand vous perdez des PV, vous piochez #b",
+      " carte.",
+      ""
     ]
   },
   "Runic Dome": {
