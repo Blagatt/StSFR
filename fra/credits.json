@@ -67,7 +67,9 @@
   },
   "LOC_JPN": {
     "HEADER": "Traduction en Japonais",
-    "NAMES": []
+    "NAMES": [
+      "Grezzz"
+    ]
   },
   "LOC_KOR": {
     "HEADER": "Traduction en Coréen",
@@ -79,11 +81,26 @@
   },
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
-    "NAMES": []
+    "NAMES": [
+      "Traduction et coordination:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Traduction et repository:",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Suggestions et retours:",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov"
+    ]
   },
   "LOC_TUR": {
     "HEADER": "Traduction en Turc",
-    "NAMES": []
+    "NAMES": [
+      "Erdem Gürbüz"
+    ]
   },
   "LOC_ADDITIONAL": {
     "HEADER": "Traductions additionnelles",
