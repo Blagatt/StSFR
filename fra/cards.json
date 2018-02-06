@@ -840,7 +840,7 @@
   },
   "Distraction": {
     "NAME": "Distraction",
-    "DESCRIPTION": "Ajoutez une Compétence aléatoire à votre main. NL Elle coûte 0 pendant ce tour. NL Épuisement."
+    "DESCRIPTION": "Ajoutez une Compétence aléatoire à votre main. NL Elle coûte 0 ce tour. NL Épuisement."
   },
   "Dodge and Roll": {
     "NAME": "Dérobade",
