@@ -560,7 +560,7 @@
   "Malaise": {
     "NAME": "Malaise",
     "DESCRIPTION": "L'ennemi perd X de Force. Appliquez X de Faiblesse. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
+    "UPGRADE_DESCRIPTION": "L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
   },
   "Reflex": {
     "NAME": "Réflexe",
