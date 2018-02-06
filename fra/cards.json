@@ -368,6 +368,10 @@
     "NAME": "Bandages",
     "DESCRIPTION": "Récupérez !M! PV. NL Épuisement."
   },
+  "The Bomb": {
+    "NAME": "La Bombe",
+    "DESCRIPTION": "Inflige !D! dégâts à tout le monde (vous inclus). NL Épuisement."
+  },
   "Sever Soul": {
     "NAME": "Séparation d'âme",
     "DESCRIPTION": "Épuise toutes les cartes de votre main (sauf Attaque). NL Inflige !D! dégâts."
@@ -653,6 +657,10 @@
     "NAME": "Rupture",
     "DESCRIPTION": "Quand une carte vous fait perdre des PV, NL gagnez 1 de Force."
   },
+  "Venomology": {
+    "NAME": "Alchimie",
+    "DESCRIPTION": "Obtenez une potion. NL Épuisement."
+  }
   "Bouncing Flask": {
     "NAME": "Flasque rebondissante",
     "DESCRIPTION": "Applique 3 de Poison à un ennemi aléatoire !M! fois."
@@ -678,6 +686,14 @@
     "DESCRIPTION": "Au prochain tour, NL gagnez [G] [G].",
     "UPGRADE_DESCRIPTION": "Au prochain tour, NL gagnez [G] [G] [G]."
   },
+  "Night Terror": {
+    "NAME": "Cauchemar",
+    "DESCRIPTION": "Choisissez une carte. NL Au prochain tour, gagnez !M! copies de cette carte dans votre main. NL Épuisement.",
+    "EXTENDED_DESCRIPTION": [
+      "Je peux seulement utiliser NL ",
+      " NL une fois par tour."
+    ]
+  }
   "Bloodletting": {
     "NAME": "Saignée",
     "DESCRIPTION": "Gagnez [R]. NL Perdez !M! PV.",
@@ -849,21 +865,5 @@
   "Expertise": {
     "NAME": "Expertise",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Peut être améliorée à l'infini."
-  },
-  "The Bomb": {
-    "NAME": "La bombe",
-    "DESCRIPTION": "Inflige !D! dégâts à tout le monde (vous inclus). NL Épuisement."
-  },
-  "Night Terror": {
-    "NAME": "Cauchemar",
-    "DESCRIPTION": "Choisissez une carte. NL Au prochain tour, gagnez !M! copies de cette carte dans votre main. NL Épuisement.",
-    "EXTENDED_DESCRIPTION": [
-      "Je peux seulement utiliser NL ",
-      " NL une fois par tour."
-    ]
-  },
-  "Venomology": {
-    "NAME": "Alchimie",
-    "DESCRIPTION": "Obtenez une potion. NL Épuisement."
   }
-}
+}}
