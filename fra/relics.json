@@ -206,7 +206,7 @@
     "NAME": "Clé maudite",
     "FLAVOR": "Vous ressentez l'énergie malveillante qui émane de cette clé. Tout pouvoir a un prix.",
     "DESCRIPTIONS": [
-      " Lorsque vous ouvrez un coffre, vous recevez une #rMalédiction.",
+      " Lorsque vous ouvrez un coffre (sauf coffre de boss), vous recevez une #rMalédiction.",
       "Gagnez [R] au début de chaque tour.",
       "Gagnez [G] au début de chaque tour.",
       "Gagnez [B] au début de chaque tour."

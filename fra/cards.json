@@ -157,7 +157,7 @@
     "DESCRIPTION": "Infligez !D! dégâts. NL Défaussez TOUTES les cartes (sauf Attaque)."
   },
   "Blade Dance": {
-    "NAME": "Danse de lames",
+    "NAME": "Danse des lames",
     "DESCRIPTION": "Ajoutez !M! Surins à votre main."
   },
   "Deflect": {
@@ -537,7 +537,7 @@
   "Limit Break": {
     "NAME": "Dépasser les limites",
     "DESCRIPTION": "Doublez votre Force. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Double votre Force."
+    "UPGRADE_DESCRIPTION": "Doublez votre Force."
   },
   "Entrench": {
     "NAME": "Enracinement",
@@ -864,6 +864,6 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Peut être améliorée à l'infini."
+    "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
   }
 }
