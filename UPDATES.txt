@@ -1,5 +1,16 @@
 Updates for Translators!
 
+2/5/2018:
+credits.json
+  There should be some folks credited for various language localization now :)
+ui.json
+  "OptionsPanel" (Removal of all Tips options. Added Fast Mode)
+relics.json
+  "Runic Cube" (Was buffed, penalty removed)
+  "Enchiridion"
+
+----------------------------------
+
 2/2/2018:
 credits.json
 	Overhauled! If you would like to credit yourself, please add yourself into the
