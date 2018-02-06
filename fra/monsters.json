@@ -1,7 +1,7 @@
 {
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Visqueux désolé",
+    "NAME": "Slime désolé",
     "DIALOG": [
       ""
     ]
@@ -211,14 +211,14 @@
     "MOVES": [
       "Léchouille"
     ],
-    "NAME": "Visqueux épineux (M)",
+    "NAME": "Slime épineux (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux épineux (P)",
+    "NAME": "Slime épineux (P)",
     "DIALOG": [
       ""
     ]
@@ -230,7 +230,7 @@
     ],
     "NAME": "Pickpocket",
     "DIALOG": [
-      "Allez, le pognon !",
+      "File ton pognon !",
       "Je me tire !"
     ]
   },
@@ -267,14 +267,14 @@
       "Crachat acide",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (M)",
+    "NAME": "Slime acide (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux acide (P)",
+    "NAME": "Slime acide (P)",
     "DIALOG": [
       ""
     ]
@@ -298,7 +298,7 @@
     "DIALOG": [
       "Vous appelez ça une arme ?",
       "Approchez !",
-      "Faites de votre mieux ! NL @HA@ @HA@ @HA@ !",
+      "Montrez-moi ce dont vous êtes capable ! NL @HA@ @HA@ @HA@ !",
       "Je vous laisse une chance ! NL Vermine inutile !",
       "~Vous~ ~avez~ ~réussi...~",
       "@UNE@ @DÉFAITE@ @?@ NL @IMPOSSIBLE@ !!",
@@ -360,7 +360,7 @@
     "DIALOG": [
       "Donnez-moi votre or !",
       "@NOOOoooon@ !",
-      "Où est ma bombe de fumée... ? Voyons...",
+      "Où est mon fumigène... ? Voyons...",
       "Merci pour le flouze, hé hé."
     ]
   },
@@ -463,9 +463,9 @@
       "Séparation",
       "Bombe visqueuse"
     ],
-    "NAME": "Boss visqueux",
+    "NAME": "Parrain Slime",
     "DIALOG": [
-      "~Visqueux...~ NL #r~ÉCRASE !!!~",
+      "~Écraser...~ NL #r~ÉCRASER !!!~",
       ""
     ]
   },
@@ -475,7 +475,7 @@
       "Séparation",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (G)",
+    "NAME": "Slime acide (G)",
     "DIALOG": [
       ""
     ]
@@ -536,7 +536,7 @@
     "MOVES": [
       "RAYON LASER"
     ],
-    "NAME": "Robot en bronze",
+    "NAME": "Automate de bronze",
     "DIALOG": [
       ""
     ]
@@ -597,7 +597,7 @@
       "Léchouille",
       "Séparation"
     ],
-    "NAME": "Visqueux épineux (G)",
+    "NAME": "Slime épineux (G)",
     "DIALOG": [
       ""
     ]
@@ -626,7 +626,7 @@
     ],
     "NAME": "Être sombre",
     "DIALOG": [
-      "Nouvelle croissance..."
+      "Résurrection..."
     ]
   },
   "Maw": {
