@@ -851,7 +851,12 @@
       "7. Les ennemis normaux ont plus de vie.",
       "8. Les Élites ont plus de vie.",
       "9. Les Boss ont plus de vie.",
-      "10. Parasite !"
+      "10. Parasite !",
+      "Potions are less potent.",
+      "Upgraded cards appear less often.",
+      "Poor bosses.",
+      "Lower Max HP.",
+      "Unfavorable Events."
     ]
   },
   "RunHistoryScreen": {
@@ -866,7 +871,23 @@
       " par ",
       "Victoire !",
       "Cartes",
-      "Reliques"
+      "Reliques",
+      "Starter",
+      "Common",
+      "Uncommon",
+      "Rare",
+      "Special",
+      "Curse",
+      "Boss",
+      "Shop",
+      "Unknown",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "All Characters",
+      "Wins and Losses",
+      "Wins",
+      "Losses"
     ]
   },
   "DeathScreenUi": {

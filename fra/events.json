@@ -91,7 +91,8 @@
     "OPTIONS": [
       "[Prier] #gVous #ggagnez #g100 #gd'or.",
       "[Profaner] #gVous #ggagnez #g250 #gd'or. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
-      "[Partir]"
+      "[Partir]",
+      "[Leave]"
     ]
   },
   "Lab": {
@@ -200,7 +201,8 @@
       "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r10.",
       "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez l'#ridole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
-      "[Partir]"
+      "[Partir]",
+      "[Leave]"
     ]
   },
   "Mysterious Sphere": {
@@ -258,7 +260,8 @@
       "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r10 #rPV.",
       "[Vous concentrer] #rVous #rrecevez: #rMalédiction #r- #rSouffrance. #gVous #grécupérez #g",
       "[Partir]",
-      " #gPV."
+      " #gPV.",
+      " #gHP."
     ]
   },
   "Big Fish": {
@@ -295,7 +298,9 @@
       "[Purification] #y50 #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: 50d'or",
       "[Partir]",
-      "Choisissez la carte à retirer."
+      "Choisissez la carte à retirer.",
+      "Select a Card to Remove.",
+      "."
     ]
   },
   "Dead Adventurer": {
@@ -538,7 +543,8 @@
       "[Continuer] #rVous #rperdez #r3 #rPV.",
       "[Arrêter] #rVous #rperdez #r3 #rPV.",
       "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r10 #rPV.",
-      "[Partir]"
+      "[Partir]",
+      "[Leave]"
     ]
   },
   "Drug Dealer": {
@@ -687,7 +693,8 @@
     ],
     "OPTIONS": [
       "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r50 #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
-      "[Partir]"
+      "[Partir]",
+      "[Leave]"
     ]
   },
   "Vampires": {

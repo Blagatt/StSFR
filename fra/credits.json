@@ -47,7 +47,9 @@
   },
   "LOC_ZHS": {
     "HEADER": "Traduction en Chinois (Simplifié)",
-    "NAMES": []
+    "NAMES": [
+      "Sound of Mystery"
+    ]
   },
   "LOC_ZHT": {
     "HEADER": "Traduction en Chinois (Traditionnel)",
