@@ -192,13 +192,13 @@
   "SingleViewRelicPopup": {
     "TEXT": [
       "Boss",
-      "Ordinaire",
+      "Commune",
       "Sans valeur",
       "Rare",
       "Boutique",
       "Événement",
-      "Classique",
-      "Inhabituelle",
+      "Basique",
+      "Peu commune",
       "Verrouillée",
       "Inconnue",
       " Relique",
@@ -568,10 +568,10 @@
       "La Silencieuse",
       "Corbot",
       "Retour",
-      "Mode Ascension (Niveau ",
-      ")",
+      "Ascension",
+      "Niveau ",
       "Mode Ascension",
-      "EXPÉRIMENTAL: Les tentatives deviennent plus difficiles à chaque victoire... (n'affecte pas les victoires successives)"
+      "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)"
     ]
   },
   "AbstractMonster": {
@@ -842,16 +842,21 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Les Élites sont plus fréquents.",
-      "2. Les ennemis normaux font plus de dégâts.",
-      "3. Les Élites font plus de dégâts.",
-      "4. Les Boss font plus de dégâts.",
-      "5. Vous récupérez moins de vie après avoir batttu un Boss.",
-      "6. Commencez chaque partie blessé.",
-      "7. Les ennemis normaux ont plus de vie.",
-      "8. Les Élites ont plus de vie.",
-      "9. Les Boss ont plus de vie.",
-      "10. Parasite !"
+      "Les Élites sont plus fréquents.",
+      "Les ennemis normaux font plus de dégâts.",
+      "Les Élites font plus de dégâts.",
+      "Les Boss font plus de dégâts.",
+      "Vous récupérez moins de vie après avoir batttu un Boss.",
+      "Commencez chaque partie blessé.",
+      "Les ennemis normaux ont plus de vie.",
+      "Les Élites ont plus de vie.",
+      "Les Boss ont plus de vie.",
+      "Parasite !",
+      "Les potions sont moins efficaces.",
+      "Les cartes améliorées apparaissent moins souvent.",
+      "Les boss sont pauvres.",
+      "Commencez avec moins de PV max.",
+      "Les Évenements sont moins favorables."
     ]
   },
   "RunHistoryScreen": {
@@ -862,11 +867,27 @@
       "Retour",
       "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!",
       "Niveau d'Ascension : ",
-      "Vaincus à l'Étage ",
-      " par ",
+      "Vaincus à l'Étage %1$d par %2$s",
+	  "Tentative abandonnée à l'Étage %d",
       "Victoire !",
       "Cartes",
-      "Reliques"
+      "Reliques",
+      "Basique",
+      "Commune",
+      "Peu commune",
+      "Rare",
+      "Spéciale",
+      "Malédiction",
+      "Boss",
+      "Boutique",
+      "Inconnue",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "Tous les personnages",
+      "Victoires et défaites",
+      "Victoires",
+      "Défaites"
     ]
   },
   "DeathScreenUi": {

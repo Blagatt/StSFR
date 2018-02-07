@@ -89,7 +89,8 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #ggagnez #g100 #gd'or.",
+      "[Prier] #gVous #ggagnez #g",
+	  " #gd'or.",
       "[Profaner] #gVous #ggagnez #g250 #gd'or. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
@@ -197,7 +198,8 @@
       "Vous quittez les lieux en vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
-      "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r10.",
+      "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
+	  "#r.",
       "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez l'#ridole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Partir]"
@@ -255,7 +257,8 @@
     ],
     "OPTIONS": [
       "...",
-      "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r10 #rPV.",
+      "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r",
+	  " #rPV.",
       "[Vous concentrer] #rVous #rrecevez: #rMalédiction #r- #rSouffrance. #gVous #grécupérez #g",
       "[Partir]",
       " #gPV."
@@ -292,10 +295,12 @@
       "[Soin] #y35 #yd'or: #gvous #grécupérez #g",
       "[Verrouillé] Nécessite: ",
       " or",
-      "[Purification] #y50 #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Purification] #y",
+	  " #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: 50d'or",
       "[Partir]",
-      "Choisissez la carte à retirer."
+      "Choisissez la carte à retirer.",
+      "."
     ]
   },
   "Dead Adventurer": {
@@ -537,7 +542,8 @@
       "[Continuer] #rVous #rperdez #r2 #rPV.",
       "[Continuer] #rVous #rperdez #r3 #rPV.",
       "[Arrêter] #rVous #rperdez #r3 #rPV.",
-      "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r10 #rPV.",
+      "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r",
+	  " #rPV.",
       "[Partir]"
     ]
   },
@@ -686,7 +692,8 @@
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
     "OPTIONS": [
-      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r50 #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
+      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r",
+	  " #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
   },
