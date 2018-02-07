@@ -717,9 +717,9 @@
 	"NAME": "Runic Cube",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"Whenever you lose HP, draw #b", 
-	" card.", 
-	"" 
+	"Whenever you lose HP, draw #b",
+	" card.",
+	""
 	]
   },
   "Runic Dome": {

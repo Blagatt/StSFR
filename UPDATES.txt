@@ -1,13 +1,57 @@
 Updates for Translators!
 
+2/6/2018:
+credits.json
+	"Special Thanks" (was wrong in English)
+	"Voice Talent" (was wrong in English)
+	"LOC_ZHS"
+ui.json
+	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
+	"AscensionModeDescriptions"
+	"CharacterSelectScreen"
+relics.json
+	"Runic Cube" (Was buffed, penalty removed)
+	"Enchiridion"
+achievements.json
+	"CharStat"
+		"Highest Ascent: " -> "Highest Floor: "
+events.json
+	"Golden Shrine"
+		"[Pray] #gGain #g",
+		" #gGold.", <- The first option was separated into two lines
+		"[Desecrate] #gGain #g250 #gGold. #rBecome #rCursed #r- #rRegret.",
+		"[Leave]"
+	"The Moai Head"
+		"[Jump Inside] #gHeal #gto #gfull #gHP. #rLose #r",
+		" #rMax #rHP.", <- The first option was separated into two lines
+	"Winding Halls"
+		"...",
+		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r",
+		" #rHP.", <- This option was separated into two lines
+	"The Cleric"
+		"[Purify] #y",
+		" #yGold: #gRemove #ga #gcard #gfrom #gyour #gdeck.", <- This option was separated into two lines
+		"." <- Period!
+	"Cursed Tome"
+		"[Take] #gObtain #gthe #gBook. #rLose #r",
+		" #rHP.", <- This option was separated into two lines
+	"The Mausoleum"
+		"[Open Coffin] #gReceive #ga #gRelic. #r",
+		"%: #rBecome #rCursed #r- #rWrithe.", <- This option was separated into two lines
+		"[Leave]"
+	"The Woman in Blue"
+		" #yGold", -> " #yGold.", (Added a period!)
+
+----------------------------------
+
 2/5/2018:
 credits.json
-  There should be some folks credited for various language localization now :)
+	There should be some folks credited for various language localization now :)
 ui.json
-  "OptionsPanel" (Removal of all Tips options. Added Fast Mode)
+	"OptionsPanel" (Removal of all Tips options. Added Fast Mode)
 relics.json
-  "Runic Cube" (Was buffed, penalty removed)
-  "Enchiridion"
+	"Runic Cube" (Was buffed, penalty removed)
+	"Enchiridion"
 
 ----------------------------------
 
