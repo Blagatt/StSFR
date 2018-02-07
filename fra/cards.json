@@ -41,7 +41,7 @@
     "DESCRIPTION": "Infligez !D! dégâts 2 fois. La carte inflige -2 dégâts pour ce combat."
   },
   "Cloak And Dagger": {
-    "NAME": "Cape et dague",
+    "NAME": "Cape et Épée",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez !M! Surin à votre main.",
     "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez !M! Surins à votre main."
   },
@@ -157,7 +157,7 @@
     "DESCRIPTION": "Infligez !D! dégâts. NL Défaussez TOUTES les cartes (sauf Attaque)."
   },
   "Blade Dance": {
-    "NAME": "Danse de lames",
+    "NAME": "Danse des lames",
     "DESCRIPTION": "Ajoutez !M! Surins à votre main."
   },
   "Deflect": {
@@ -537,7 +537,7 @@
   "Limit Break": {
     "NAME": "Dépasser les limites",
     "DESCRIPTION": "Doublez votre Force. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Double votre Force."
+    "UPGRADE_DESCRIPTION": "Doublez votre Force."
   },
   "Entrench": {
     "NAME": "Enracinement",
@@ -560,7 +560,7 @@
   "Malaise": {
     "NAME": "Malaise",
     "DESCRIPTION": "L'ennemi perd X de Force. Appliquez X de Faiblesse. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Dépense tous vos [G]. NL L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
+    "UPGRADE_DESCRIPTION": "L'ennemi perd X+1 de Force. Applique X+1 de Faiblesse. NL Épuisement."
   },
   "Reflex": {
     "NAME": "Réflexe",
@@ -864,6 +864,6 @@
   },
   "Expertise": {
     "NAME": "Expertise",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Peut être améliorée à l'infini."
+    "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
   }
 }
