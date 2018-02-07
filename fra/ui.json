@@ -192,13 +192,13 @@
   "SingleViewRelicPopup": {
     "TEXT": [
       "Boss",
-      "Ordinaire",
+      "Commune",
       "Sans valeur",
       "Rare",
       "Boutique",
       "Événement",
-      "Classique",
-      "Inhabituelle",
+      "Basique",
+      "Peu commune",
       "Verrouillée",
       "Inconnue",
       " Relique",
@@ -855,7 +855,7 @@
       "Les potions sont moins efficaces.",
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
-      "Commencez avec un maximum de PV plus faible.",
+      "Commencez avec moins de PV max.",
       "Les Évenements sont moins favorables."
     ]
   },
@@ -872,9 +872,9 @@
       "Victoire !",
       "Cartes",
       "Reliques",
-      "Classique",
-      "Ordinaire",
-      "Inhabituelle",
+      "Basique",
+      "Commune",
+      "Peu commune",
       "Rare",
       "Spéciale",
       "Malédiction",
