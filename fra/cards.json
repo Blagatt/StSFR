@@ -696,8 +696,8 @@
   },
   "Bloodletting": {
     "NAME": "Saignée",
-    "DESCRIPTION": "Gagnez [R]. NL Perdez !M! PV.",
-    "UPGRADE_DESCRIPTION": "Gagnez [R] [R]. NL Perdez !M! PV."
+    "DESCRIPTION": "Gagnez [R]. NL Perdez 3 PV.",
+    "UPGRADE_DESCRIPTION": "Gagnez [R] [R]. NL Perdez 3 PV."
   },
   "Concentrate": {
     "NAME": "Concentration",
