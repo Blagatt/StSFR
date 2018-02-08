@@ -184,7 +184,7 @@
       "~C'est~ ~l'heure~",
       "~Au~ ~revoir~",
       "~Tic~ ~tac~ NL ~Tic~ ~tac~",
-      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là ?~"
+      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là~ ~?~"
     ]
   },
   "BanditBear": {
@@ -240,8 +240,8 @@
     ],
     "NAME": "Mange-époque",
     "DIALOG": [
-      "~Ah...~ NL ~de la compagnie...~",
-      "~Quelle imprudence...~ NL @QUELLE@ @IMPRUDENCE@ !"
+      "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
+      "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ !"
     ]
   },
   "TheCollector": {
