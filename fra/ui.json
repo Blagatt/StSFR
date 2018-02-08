@@ -67,7 +67,7 @@
   },
   "Legend": {
     "TEXT": [
-      "Inconnue",
+      "Inconnu",
       "???",
       "Une salle inconnue. NL NL Vous pourriez y trouver des monstres, des trésors, des boutiques et bien plus encore.",
       "Marchand",
@@ -791,7 +791,7 @@
       "Récupération des Données...",
       "Classements",
       "Pas Connecté à Steam",
-      "Aucun Score Disponible \n Allez gravir la Tour !"
+      "Aucun Score Disponible \n Allez vaincre la Tour !"
     ]
   },
   "ExhumeAction": {
@@ -860,7 +860,7 @@
       "La Silencieuse",
       "",
       "Retour",
-      "Pas d'historique de parties trouvé. NL Allez gravir la Tour !",
+      "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
       "Vaincus à l'Étage ",
       " par ",
