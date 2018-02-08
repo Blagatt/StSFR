@@ -386,7 +386,9 @@
     "TEXT": [
       "Passer",
       "Choisissez une Carte",
-      "+2 PV Max"
+      "+2 PV Max",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "BossRelicSelectScreen": {
@@ -394,7 +396,9 @@
       "Confirmer",
       "Confirmer votre sélection",
       "Choisir une Relique",
-      "Passer"
+      "Passer",
+      "VOTE NOW: ",
+      "s left."
     ]
   },
   "GridCardSelectScreen": {
@@ -868,7 +872,7 @@
       "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
       "Vaincus à l'Étage %1$d par %2$s",
-	  "Tentative abandonnée à l'Étage %d",
+      "Tentative abandonnée à l'Étage %d",
       "Victoire !",
       "Cartes",
       "Reliques",
@@ -899,6 +903,11 @@
   "CreditsScreen": {
     "TEXT": [
       "Cliquez à nouveau pour revenir à l'écran titre"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTE NOW: "
     ]
   }
 }
