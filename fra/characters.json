@@ -31,13 +31,13 @@
       "~Salutations...~ NL ~je..~ ~m'appelle~ ~Neow...~",
       "~Re...~ NL bonjour...~",
       "~Salutations...~",
-      "~Voulez-vous~ NL ~réessayer... ?~",
+      "~Voulez-vous~ NL ~réessayer...~ ~?~",
       "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~ma...~ ~bénédiction...~",
-      "~Essayez~ ~au moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
+      "~Essayez~ ~au~ ~moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
       "~J'ai~ ~pu~ ~vous~ ~ramener...~",
       "~Faites un choix...~",
       "~Je vous bénis...~",
-      "~Des risques...~ NL ~des récompenses...~"
+      "~Des~ ~risques...~ NL ~des~ ~récompenses...~"
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -86,7 +86,7 @@
   "Merchant": {
     "NAMES": [
       "Continuer",
-      "~Bienvenue !~"
+      "~Bienvenue~ ~!~"
     ],
     "TEXT": [
       "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
@@ -109,7 +109,7 @@
   },
   "Shop Screen": {
     "NAMES": [
-      "~Bienvenue~ NL ~bienvenue !~",
+      "~Bienvenue~ NL ~bienvenue~ ~!~",
       "Eh non, NL il vous faut NL plus #rd'or.",
       "Hé, vous n'avez pas #rd'argent !",
       "Vous êtes à sec ?",
