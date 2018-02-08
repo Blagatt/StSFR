@@ -63,7 +63,7 @@
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
       "Chargement !",
-      "~Ça~ ~vient !!~",
+      "~Ça~ ~vient~ ~!!~",
       "@J'ai...@ @besoin...@ NL @d'aide...@ !",
       "~Trop...~ NL ~dangereux...~ NL ~adieu...~"
     ]
@@ -184,7 +184,7 @@
       "~C'est~ ~l'heure~",
       "~Au~ ~revoir~",
       "~Tic~ ~tac~ NL ~Tic~ ~tac~",
-      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là ?~"
+      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là~ ~?~"
     ]
   },
   "BanditBear": {
@@ -240,8 +240,8 @@
     ],
     "NAME": "Mange-époque",
     "DIALOG": [
-      "~Ah...~ NL ~de la compagnie...~",
-      "~Quelle imprudence...~ NL @QUELLE@ @IMPRUDENCE@ !"
+      "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
+      "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ !"
     ]
   },
   "TheCollector": {
@@ -465,7 +465,7 @@
     ],
     "NAME": "Parrain Slime",
     "DIALOG": [
-      "~Écraser...~ NL #r~ÉCRASER !!!~",
+      "~Écraser...~ NL #r~ÉCRASER~ ~!!!~",
       ""
     ]
   },
