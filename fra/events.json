@@ -351,13 +351,13 @@
     "DESCRIPTIONS": [
       "Au milieu des pierres et rochers, vous repérez une complexe statue bleue. De grande taille, elle a l'apparence d'une aile. NL Vous remarquez que de #yl'or s'écoule de ses fissures. Peut-être y en a-t-il davantage à l'intérieur...?",
       "Par le passé, vous avez entendu parler d'un culte voué à un oiseau géant. Vous vous agenouillez pour prier et commencez à éprouver une ~sensation~... ~d'étourdissement~. NL NL Vous vous réveillez quelque temps plus tard, le pied léger.",
-      "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre@, révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
+      "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre,@ révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
       "La statue vous met ~mal~ ~à~ ~l'aise~. Vous passez devant sans vous arrêter."
     ],
     "OPTIONS": [
       "[Prier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck. #rVous #rperdez #r",
       " #rPV.",
-      "[Détruire] #gVous #ggagnez #g",
+      "[Détruire] #gVous #ggagnez #gentre #g",
       " #get #g",
       " #gd'or.",
       "[Verrouillé] Nécessite: carte avec au moins ",
@@ -455,7 +455,7 @@
     "OPTIONS": [
       "[Tendre le bras] #rVous #rperdez #r",
       " #rPV. #g",
-      "#r%: #gVous #gtrouvez #gune #gRelique.",
+      "%: #gVous #gtrouvez #gune #gRelique.",
       "[Partir]",
       "[S'enfoncer] #rVous #rperdez #r"
     ]
