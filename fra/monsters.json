@@ -63,7 +63,7 @@
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ ! ",
       "Chargement !",
-      "~Ça~ ~vient !!~",
+      "~Ça~ ~vient~ ~!!~",
       "@J'ai...@ @besoin...@ NL @d'aide...@ !",
       "~Trop...~ NL ~dangereux...~ NL ~adieu...~"
     ]
@@ -465,7 +465,7 @@
     ],
     "NAME": "Parrain Slime",
     "DIALOG": [
-      "~Écraser...~ NL #r~ÉCRASER !!!~",
+      "~Écraser...~ NL #r~ÉCRASER~ ~!!!~",
       ""
     ]
   },
