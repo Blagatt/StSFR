@@ -844,9 +844,9 @@
     "NAME": "Ancien service à thé",
     "FLAVOR": "Il vous garantit une excellente nuit de repos.",
     "DESCRIPTIONS": [
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [R] [R].",
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [G] [G].",
-      "Après avoir atteint un site de repos, commencez le prochain combat avec : [B] [B]."
+      "Après avoir atteint un site de repos, commencez le prochain combat avec : [R] [R] .",
+      "Après avoir atteint un site de repos, commencez le prochain combat avec : [G] [G] .",
+      "Après avoir atteint un site de repos, commencez le prochain combat avec : [B] [B] ."
     ]
   },
   "Test 1": {
