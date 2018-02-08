@@ -142,7 +142,7 @@
       "Boire",
       "Défausser",
       "Je ne peux pas utiliser de potions !",
-      "Je ne peux pas le faire pendant le combat !"
+      "Je ne peux pas faire ça en combat !"
     ]
   },
   "RenamePanel": {
@@ -218,7 +218,7 @@
       "Statut",
       "Munitions",
       "Je ne peux jouer des cartes que lors de mon tour.",
-      "Je suis #rEnchevêtré! NL Je ne peux jouer des Attaques.",
+      "Je suis #rEnchevêtré! NL Je ne peux pas jouer d'Attaque.",
       "Pas assez #rd'Énergie.",
       "Pas assez de #rCharge.",
       "Je ne peux pas jouer NL cette carte."
@@ -291,7 +291,7 @@
       "Continuer",
       "Victoire ?",
       "Étages terminés",
-      "Boss terrassés",
+      "Boss tués",
       "Temps de jeu",
       "Temps de jeu",
       "Score",
@@ -337,9 +337,9 @@
       "Bonus de PV"
     ],
     "EXTRA_TEXT": [
-      "Élites de l'Exorde Tuées",
-      "Élites de la Ville Tuées",
-      "Élites de l'Au-Delà Tuées",
+      "Élites de l'Exorde Tués",
+      "Élites de la Ville Tués",
+      "Élites de l'Au-Delà Tués",
       "Bolide",
       "Vitesse de la Lumière",
       "Montagnard",
@@ -646,7 +646,7 @@
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Redémarrer le jeu pour que les changements à l'affichage prennent effet."
+      "Redémarrez le jeu pour que les changements d'affichage prennent effet."
     ]
   },
   "PutOnDeckAction": {
@@ -791,7 +791,7 @@
       "Récupération des Données...",
       "Classements",
       "Pas Connecté à Steam",
-      "Aucune Score Disponible \n Go Slay the Spire !"
+      "Aucun Score Disponible \n Allez gravir la Tour !"
     ]
   },
   "ExhumeAction": {
@@ -860,7 +860,7 @@
       "La Silencieuse",
       "",
       "Retour",
-      "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!",
+      "Pas d'historique de parties trouvé. NL Allez gravir la Tour !",
       "Niveau d'Ascension : ",
       "Vaincus à l'Étage ",
       " par ",
@@ -877,7 +877,7 @@
   },
   "CreditsScreen": {
     "TEXT": [
-      "cliquez à nouveau pour revenir à l'écran titre"
+      "Cliquez à nouveau pour revenir à l'écran titre"
     ]
   }
 }
