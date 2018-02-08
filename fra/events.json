@@ -90,7 +90,7 @@
     ],
     "OPTIONS": [
       "[Prier] #gVous #ggagnez #g",
-	  " #gd'or.",
+      " #gd'or.",
       "[Profaner] #gVous #ggagnez #g250 #gd'or. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
@@ -199,7 +199,7 @@
     ],
     "OPTIONS": [
       "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
-	  "#r.",
+      "#r.",
       "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez l'#ridole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Partir]"
@@ -258,7 +258,7 @@
     "OPTIONS": [
       "...",
       "[Céder à la folie] #gVous #grecevez: #g2 de #gFolie. #rVous #rperdez #r",
-	  " #rPV.",
+      " #rPV.",
       "[Vous concentrer] #rVous #rrecevez: #rMalédiction #r- #rSouffrance. #gVous #grécupérez #g",
       "[Partir]",
       " #gPV."
@@ -296,7 +296,7 @@
       "[Verrouillé] Nécessite: ",
       " or",
       "[Purification] #y",
-	  " #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      " #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: 50d'or",
       "[Partir]",
       "Choisissez la carte à retirer.",
@@ -543,7 +543,7 @@
       "[Continuer] #rVous #rperdez #r3 #rPV.",
       "[Arrêter] #rVous #rperdez #r3 #rPV.",
       "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r",
-	  " #rPV.",
+      " #rPV.",
       "[Partir]"
     ]
   },
@@ -693,7 +693,7 @@
     ],
     "OPTIONS": [
       "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r",
-	  " #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
+      " #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
   },

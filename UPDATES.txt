@@ -1,5 +1,12 @@
 Updates for Translators!
 
+2/7/2018: 
+ui.json 
+  "CardRewardScreen" 
+  "BossRelicSelectScreen" 
+ 
+---------------------------------- 
+
 2/6/2018:
 credits.json
 	"Special Thanks" (was wrong in English)
