@@ -145,7 +145,7 @@
   },
   "Infernal Blade": {
     "NAME": "Lame infernale",
-    "DESCRIPTION": "Ajoutez une carte Attaque aléatoire à votre main. NL Elle coûte 0 pendant ce tour. NL Épuisement."
+    "DESCRIPTION": "Ajoutez une carte Attaque aléatoire à votre main. NL Elle coûte 0 ce tour. NL Épuisement."
   },
   "After Image": {
     "NAME": "Image miroir",
