@@ -359,9 +359,9 @@
     "FLAVOR": "Cette plante dont le bonheur ne tarit jamais est le nouvel objet favori des nobles.",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " tours, gagnez [R].",
-      " tours, gagnez [G].",
-      " tours, gagnez [B]."
+      " tours, gagnez [R] .",
+      " tours, gagnez [G] .",
+      " tours, gagnez [B] ."
     ]
   },
   "Ice Cream": {
@@ -835,9 +835,9 @@
     "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
     "DESCRIPTIONS": [
       "Tous les #b",
-      " mélanges de deck, gagnez : [R] [R].",
-      " mélanges de deck, gagnez : [G] [G].",
-      " mélanges de deck, gagnez : [B] [B]."
+      " mélanges de deck, gagnez : [R] [R] .",
+      " mélanges de deck, gagnez : [G] [G] .",
+      " mélanges de deck, gagnez : [B] [B] ."
     ]
   },
   "Ancient Tea Set": {
@@ -854,9 +854,9 @@
     "FLAVOR": "Relique de test pour la bêta fermée. Si elle vous plaît, n'hésitez pas à le faire savoir aux développeurs.",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une #yMalédiction, vous augmentez vos PV max de #b",
-      " [R].",
-      " [G].",
-      " [B]."
+      " [R] .",
+      " [G] .",
+      " [B] ."
     ]
   },
   "Test 2": {
