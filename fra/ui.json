@@ -387,8 +387,8 @@
       "Passer",
       "Choisissez une Carte",
       "+2 PV Max",
-      "VOTE NOW: ",
-      "s left."
+      "VOTEZ: ",
+      "s restantes."
     ]
   },
   "BossRelicSelectScreen": {
@@ -397,8 +397,8 @@
       "Confirmer votre sélection",
       "Choisir une Relique",
       "Passer",
-      "VOTE NOW: ",
-      "s left."
+      "VOTEZ: ",
+      "s restantes."
     ]
   },
   "GridCardSelectScreen": {
@@ -860,7 +860,7 @@
       "Les cartes améliorées apparaissent moins souvent.",
       "Les boss sont pauvres.",
       "Commencez avec moins de PV max.",
-      "Les Évenements sont moins favorables."
+      "(Niveau Max) Les Évenements sont moins favorables."
     ]
   },
   "RunHistoryScreen": {
@@ -907,7 +907,7 @@
   },
   "TwitchVoter": {
     "TEXT": [
-      "VOTE NOW: "
+      "VOTEZ: "
     ]
   }
 }
