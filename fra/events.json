@@ -11,7 +11,7 @@
       "Vous décidez d'utiliser la forge et... NL #y@CLING@ #y@CLIIING@ #y@CLING!@ NL ...d'améliorer votre arsenal!",
       "Vous décidez de fouiller les lieux en quête d'un objet utile. Après avoir soulevé des bâches, farfouillé dans des boîtes et examiné le moindre recoin, vous découvrez une #y~Relique~ couverte de poussière!",
       "Tandis que vous peaufinez votre ouvrage, les flammes de la forge vous assaillent, #r@vous@ #r@brûlant@ #r@et@ #r@vous@ #r@blessant@ les bras...",
-      "Alors que vous quittez la cabane, vous ne parvenez pas à vous défaire de cette #r~sensation~ #r~désagréable~. Peut-être avez-vous dérangé un esprit?",
+      "Alors que vous quittez la cabane, vous ne parvenez pas à vous défaire de cette #r~sensation~ #r~désagréable.~ Peut-être avez-vous dérangé un esprit?",
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
@@ -25,14 +25,14 @@
   "Bonfire Elementals": {
     "NAME": "Esprits du feu de camp",
     "DESCRIPTIONS": [
-      "Vous tombez sur ce qui ressemble à un groupe d'#pesprits #pdu #pfeu #pviolets qui ~dansent~ autour d'un grand feu de camp. NL ",
+      "Vous tombez sur ce qui ressemble à un groupe #pd'esprits #pdu #pfeu #pviolets qui ~dansent~ autour d'un grand feu de camp. NL ",
       "Les esprits jettent des osselets et des fragments dans le feu, qui ~s'anime~ ~vivement~ à chaque fois. NL Vous vous approchez et les esprits se tournent vers vous avec espoir...",
       "Vous jetez une offrande dans le feu de camp. NL NL ",
       "Cependant, les esprits sont mécontents que vous ayez sacrifié une #pMalédiction... La carte crépite, dégageant une douce fumée noire. Vous recevez... #p~quelque~ #p~chose~ en retour.",
       "Rien ne se passe. NL Les esprits semblent à présent vous ignorer. Quelle déception...",
       "Les flammes deviennent légèrement plus vives. NL Les esprits continuent à danser. Leur présence vous réchauffe légèrement... NL Vous #grécupérez #b5PV.",
-      "Les flammes jaillissent, prenant considérablement de l'ampleur! NL Les esprits dansent autour de vous avec excitation et vous éprouvez une ~sensation~ ~de~ ~chaleur~. NL Vous #grécupérez tous vos PV.",
-      "Les flammes @jaillissent@ et vous font presque tomber tandis que le feu @redouble@ d'intensité. NL Les esprits dansent autour de vous avec excitation avant d'être ~absorbés~ ~par~ ~votre~ ~enveloppe~ ~corporelle~, vous envahissant de chaleur et de force. NL Vos PV max augmentent de #b10 et vous #grécupérez tous vos PV."
+      "Les flammes jaillissent, prenant considérablement de l'ampleur! NL Les esprits dansent autour de vous avec excitation et vous éprouvez une ~sensation~ ~de~ ~chaleur.~ NL Vous #grécupérez tous vos PV.",
+      "Les flammes @jaillissent@ et vous font presque tomber tandis que le feu @redouble@ d'intensité. NL Les esprits dansent autour de vous avec excitation avant d'être ~absorbés~ ~par~ ~votre~ ~enveloppe~ ~corporelle,~ vous envahissant de chaleur et de force. NL Vos PV max augmentent de #b10 et vous #grécupérez tous vos PV."
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -71,8 +71,8 @@
   "Fountain of Cleansing": {
     "NAME": "La fontaine divine",
     "DESCRIPTIONS": [
-      "Vous apercevez de #bl'~eau~ #b~étincelante~ qui jaillit perpétuellement d'une fontaine située sur un mur à proximité.",
-      "Tandis que vous buvez l'#b~eau~, vous sentez une #psombre #pemprise vous relâcher.",
+      "Vous apercevez de #b~l'eau~ #b~étincelante~ qui jaillit perpétuellement d'une fontaine située sur un mur à proximité.",
+      "Tandis que vous buvez #b~l'eau,~ vous sentez une #psombre #pemprise vous relâcher.",
       "Vous méfiant de la nature de cette eau, vous poursuivez votre chemin, en proie à la soif."
     ],
     "OPTIONS": [
@@ -194,13 +194,13 @@
     "DESCRIPTIONS": [
       "Vous découvrez quelque chose qui ne semble *absolument pas* à sa place. Devant vous, une énorme tête en pierre dépasse d'une grande portion de mur qui ne bouge pas et ne change pas, contrairement au reste de la zone. NL La bouche de la tête est grande ouverte et révèle d'immenses dents intimidantes et tachées de sang. La surface de la statue est couverte de pictogrammes énigmatiques qui semblent représenter des personnes se jetant dans la bouche géante et s'y faisant dévorer. Pourquoi agir de la sorte?",
       "Lorsque vous entrez dans la bouche de la statue, au début, rien ne se passe. Alors que vous commencez à vous sentir passablement stupide, les énormes molaires se referment sur vous, vous écrasant complètement. NL @Obscurité.@ NL Quelque temps plus tard, alors que vous êtes dans le noir, vous distinguez un éclat de lumière et réalisez que les dents en pierre remontent peu à peu. NL NL NL Vous quittez les lieux dans un état de confusion totale.",
-      "Vous bondissez en arrière tandis que les gigantesques molaires se referment sur l'idole, la réduisant en poussière. Alors que les dents commencent à remonter, de l'#yor s'écoule de l'ouverture, tel un torrent qui vous inonde de richesses.",
+      "Vous bondissez en arrière tandis que les gigantesques molaires se referment sur l'idole, la réduisant en poussière. Alors que les dents commencent à remonter, de #yl'or s'écoule de l'ouverture, tel un torrent qui vous inonde de richesses.",
       "Vous quittez les lieux en vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
       "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
-      "#r.",
-      "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez l'#ridole #rdorée.",
+      ".",
+      "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Partir]"
     ]
@@ -286,9 +286,9 @@
   "The Cleric": {
     "NAME": "Clerc",
     "DESCRIPTIONS": [
-      "Un étrange humanoïde bleu portant un heaume doré (?) s'approche de vous en vous adressant un large sourire. NL @\"Bonjour!@ Je m'appelle #bClerc! Puis-je faire quelque chose pour vous?\", crie bruyamment la créature.",
-      "Une chaude lumière dorée enveloppe votre corps avant de se dissiper. NL La créature sourit. \"Clerc est le meilleur guérisseur. @Passez@ @une@ @bonne@ @journée!\"@",
-      "Une flamme bleue et froide enveloppe votre corps avant de se dissiper. NL La créature sourit. \"Clerc a un talent. @Passez@ @une@ @bonne@ @journée!\"@",
+      "Un étrange humanoïde bleu portant un heaume doré (?) s'approche de vous en vous adressant un large sourire. NL @\"Bonjour@ ! Je m'appelle #bClerc ! Puis-je faire quelque chose pour vous ?\", crie bruyamment la créature.",
+      "Une chaude lumière dorée enveloppe votre corps avant de se dissiper. NL La créature sourit. \"Clerc est le meilleur guérisseur. @Passez@ @une@ @bonne@ @journée@ !\"",
+      "Une flamme bleue et froide enveloppe votre corps avant de se dissiper. NL La créature sourit. \"Clerc a un talent. @Passez@ @une@ @bonne@ @journée@ !\"",
       "Vous n'avez pas confiance en ce #b\"Clerc\" et quittez les lieux."
     ],
     "OPTIONS": [
@@ -309,7 +309,7 @@
       "Tandis que vous fouillez le cadavre de l'aventurier, vous baissez votre garde!",
       "Vous partez sans un bruit.",
       "Vous découvrez un #raventurier #rmort gisant au sol. NL Quelqu'un a volé son #bpantalon! De plus, ",
-      "son armure et son visage semblent avoir été #r@dévorés@ #r@par@ #r@les@ #r@flammes@. ",
+      "son armure et son visage semblent avoir été #r@dévorés@ #r@par@ #r@les@ #r@flammes.@ ",
       "il semble avoir été #r@entaillé@ et #r@piétiné@ par une bête à cornes. ",
       "il semble avoir été #r@éviscéré@ #r@et@ #r@découpé@ par des griffes géantes. ",
       "NL Même si #yses #yaffaires #ysont #yintactes, vous n'êtes pas d'humeur à enquêter sur ce qu'il s'est passé...",
@@ -323,7 +323,7 @@
       "[Partir]",
       "[Combattre]",
       "[Continuer] #gVous #gtrouvez #gdu #gbutin. #r",
-      "#r%: #rle #rmonstre #rrevient."
+      " #r%: #rle #rmonstre #rrevient."
     ]
   },
   "Golden Idol": {
@@ -350,9 +350,9 @@
     "NAME": "Statue en forme d'aile",
     "DESCRIPTIONS": [
       "Au milieu des pierres et rochers, vous repérez une complexe statue bleue. De grande taille, elle a l'apparence d'une aile. NL Vous remarquez que de #yl'or s'écoule de ses fissures. Peut-être y en a-t-il davantage à l'intérieur...?",
-      "Par le passé, vous avez entendu parler d'un culte voué à un oiseau géant. Vous vous agenouillez pour prier et commencez à éprouver une ~sensation~... ~d'étourdissement~. NL NL Vous vous réveillez quelque temps plus tard, le pied léger.",
+      "Par le passé, vous avez entendu parler d'un culte voué à un oiseau géant. Vous vous agenouillez pour prier et commencez à éprouver une ~sensation...~ ~d'étourdissement.~ NL NL Vous vous réveillez quelque temps plus tard, le pied léger.",
       "Vous vous acharnez de toutes vos forces sur la statue. NL En un clin d'œil, elle @s'effondre,@ révélant un #ytas #yd'or. Vous vous remplissez les poches et reprenez votre chemin.",
-      "La statue vous met ~mal~ ~à~ ~l'aise~. Vous passez devant sans vous arrêter."
+      "La statue vous met ~mal~ ~à~ ~l'aise.~ Vous passez devant sans vous arrêter."
     ],
     "OPTIONS": [
       "[Prier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck. #rVous #rperdez #r",
@@ -387,7 +387,7 @@
     "NAME": "Le ssserpent",
     "DESCRIPTIONS": [
       "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL \"~Oh~ ~oooh!~ ~Bonjour,~ ~bonjour!~ ~Qu'avons-nous~ ~là?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir!~ NL Êtes-vous d'accord?\"",
-      "\"~Sssssssssssupeeer!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...!~\"",
+      "\"~Sssssssssssupeeer!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...!\"~",
       "Le serpent vous fixe du regard et semble extrêmement déçu.",
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
@@ -448,7 +448,7 @@
     "NAME": "Tas de ferraille",
     "DESCRIPTIONS": [
       "En entrant dans la salle, vous entendez un ~gargouillis~ et un @grincement@ métallique. Devant vous se tient une créature visqueuse qui a mangé bien trop de ferraille pour son bien. Au centre de la créature, vous captez l'éclat d'étranges lueurs. Peut-être quelque chose de magique? On dirait qu'il vous suffirait de tendre le bras par son... ouverture pour saisir un #ytrésor. Cela dit, l'acide et les objets tranchants risquent de vous #rblesser.",
-      "#r@Aïe!@ NL Vous ne dénichez rien d'autre que du métal corrodé et une #r@sensation@ #r@de@ #r@brûlure@. NL Cependant, vous avez l'intime conviction qu'il y a une #yRelique...",
+      "#r@Aïe!@ NL Vous ne dénichez rien d'autre que du métal corrodé et une #r@sensation@ #r@de@ #r@brûlure.@ NL Cependant, vous avez l'intime conviction qu'il y a une #yRelique...",
       "#gTrouvée! NL En fouillant les pièces métalliques et l'acide corrosif, vous finissez par attraper une #yRelique et l'arracher. NL Vous vous extirpez tant bien que mal de la créature, en #rpiteux #rétat, mais une récompense en main.",
       "Vous décidez de quitter les lieux. NL La créature ne fait pas attention à vous, ravie de son repas."
     ],
@@ -464,7 +464,7 @@
     "NAME": "Lumière brillante",
     "DESCRIPTIONS": [
       "Vous découvrez une #ymasse #yde #ylumière chatoyante qui englobe le centre de la salle. NL NL Sa ~lumière~ ~chaleureuse~ et les ~motifs~ ~enchanteurs~ qu'elle dessine vous invitent à y pénétrer.",
-      "Tandis que vous traversez la lumière, vous remarquez que votre enveloppe corporelle l'absorbe. NL C'est #r@terriblement@ #r@chaud@! Cependant, la douleur s'apaise rapidement. NL Vous #breprenez #bpleinement #bvos #besprits, comme si vous aviez reçu une gifle bien méritée.",
+      "Tandis que vous traversez la lumière, vous remarquez que votre enveloppe corporelle l'absorbe. NL C'est #r@terriblement@ #r@chaud@ ! Cependant, la douleur s'apaise rapidement. NL Vous #breprenez #bpleinement #bvos #besprits, comme si vous aviez reçu une gifle bien méritée.",
       "Vous la contournez, vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
@@ -477,8 +477,8 @@
   "Addict": {
     "NAME": "Accro",
     "DESCRIPTIONS": [
-      "Alors que vous tentez de contourner discrètement un groupe de silhouettes encapuchonnées, un homme nu et à la peau rouge s'approche de vous. NL \"Dites, z'auriez pas de la #yD.O.P.E.? J'ai la @tremblote@, et pas qu'un peu! Allez... Ou quelques #ypièces peut-être?\" NL Il est évident qu'il délire, mais il semble inoffensif.",
-      "\"Oh oui, ~oui~! Ça, c'est un marché équitable!\"",
+      "Alors que vous tentez de contourner discrètement un groupe de silhouettes encapuchonnées, un homme nu et à la peau rouge s'approche de vous. NL \"Dites, z'auriez pas de la #yD.O.P.E.? J'ai la @tremblote,@ et pas qu'un peu! Allez... Ou quelques #ypièces peut-être?\" NL Il est évident qu'il délire, mais il semble inoffensif.",
+      "\"Oh oui, ~oui~ ! Ça, c'est un marché équitable!\"",
       "L'homme pique une colère, crie et vous insulte. NL Vous fuyez avant d'attirer l'attention sur vous."
     ],
     "OPTIONS": [
@@ -495,7 +495,7 @@
   "Back to Basics": {
     "NAME": "Écritures antiques",
     "DESCRIPTIONS": [
-      "En escaladant les murs de la ville, vous remarquez que l'un d'entre eux est couvert d'écritures laissées par les #y~Anciens~. Tandis que vous vous cassez la tête à essayer de déchiffrer ces étonnants symboles et glyphes, les écritures se mettent à #b~luire~. NL Tout à coup, le message devient clair...",
+      "En escaladant les murs de la ville, vous remarquez que l'un d'entre eux est couvert d'écritures laissées par les #y~Anciens.~ Tandis que vous vous cassez la tête à essayer de déchiffrer ces étonnants symboles et glyphes, les écritures se mettent à #b~luire.~ NL Tout à coup, le message devient clair...",
       "La réponse était l'élégance. NL Évidemment.",
       "La vérité est toujours simple."
     ],
@@ -511,8 +511,8 @@
     "DESCRIPTIONS": [
       "Un vieux mendiant enveloppé dans une cape en fourrure tend la main vers vous lorsque vous passez près de lui. \"Auriez-vous une petite pièce, mon enfant?\"",
       "Le mendiant baisse les yeux à votre passage. NL \"Vous ne ferez jamais la différence... Vous ne la faites jamais.\"",
-      "Le mendiant retire sa cape, révélant qu'il n'est autre que #bClerc! NL @\"Vous@ @avez@ @une@ @âme@ @pure.@ @Recevez@ @ma@ @purification!\"@, s'écrie-t-il. NL Vous ne savez pas trop s'il est reconnaissant ou en colère.",
-      "@\"J'espère@ @que@ @vous@ @ferez@ @mieux@ @cette@ @fois-ci!\"@, s'écrie-t-il. NL Vous reprenez votre route, vous demandant ce qu'il sous-entendait par là."
+      "Le mendiant retire sa cape, révélant qu'il n'est autre que #bClerc! NL @\"Vous@ @avez@ @une@ @âme@ @pure.@ @Recevez@ @ma@ @purification!\",@ s'écrie-t-il. NL Vous ne savez pas trop s'il est reconnaissant ou en colère.",
+      "@\"J'espère@ @que@ @vous@ @ferez@ @mieux@ @cette@ @fois-ci!\",@ s'écrie-t-il. NL Vous reprenez votre route, vous demandant ce qu'il sous-entendait par là."
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
@@ -527,14 +527,14 @@
   "Cursed Tome": {
     "NAME": "Tome maudit",
     "DESCRIPTIONS": [
-      "Dans un temple abandonné, vous dénichez un livre géant parsemé d'#p@inscriptions@ #p@cryptiques@. NL NL Vous tentez d'interpréter ces écritures élaborées, mais celles-ci se mettent à #b~bouger~ et à #b~se~ #b~transformer~ en une écriture que vous reconnaissez.",
-      "Étrange. Le livre semble parler d'un #yAncien nommé #yNeow. NL NL Cela éveille votre curiosité, mais vous éprouvez un sentiment général de #p~malaise~.",
-      "#yNeow, l'Ancien de la Résurrection, a été exilé tout en bas de la Tour. NL NL Vous avez très envie d'en lire davantage, mais votre corps commence à vous #r~faire~ #r~mal~.",
-      "Avide de vengeance, #yNeow ramène à la vie des étrangers et les utilise pour parvenir à ses fins. NL NL Vous vous sentez désormais dans un état extrême de #r~fatigue~ #r~et~ #r~de~ #r~faiblesse~...",
+      "Dans un temple abandonné, vous dénichez un livre géant parsemé #p@d'inscriptions@ #p@cryptiques.@ NL NL Vous tentez d'interpréter ces écritures élaborées, mais celles-ci se mettent à #b~bouger~ et à #b~se~ #b~transformer~ en une écriture que vous reconnaissez.",
+      "Étrange. Le livre semble parler d'un #yAncien nommé #yNeow. NL NL Cela éveille votre curiosité, mais vous éprouvez un sentiment général de #p~malaise.~",
+      "#yNeow, l'Ancien de la Résurrection, a été exilé tout en bas de la Tour. NL NL Vous avez très envie d'en lire davantage, mais votre corps commence à vous #r~faire~ #r~mal.~",
+      "Avide de vengeance, #yNeow ramène à la vie des étrangers et les utilise pour parvenir à ses fins. NL NL Vous vous sentez désormais dans un état extrême de #r~fatigue~ #r~et~ #r~de~ #r~faiblesse...~",
       "Les aventuriers que #yNeow ramène à la vie se souviennent à peine de qui ils étaient, et sont condamnés à se battre pour l'éternité. NL NL Alors que vous approchez de la fin, vos #r@vieilles@ #r@plaies@ #r@commencent@ #r@à@ #r@se@ #r@rouvrir!@",
       "Une fois le tome fini, vous décidez de l'emmener avec vous. Avec la preuve en main, parviendrez-vous à conserver vos souvenirs?",
       "Vous partez, percevant une #p~sombre~ #p~énergie~ #p~qui~ #p~émane~ du livre posé sur le piédestal.",
-      "En un incroyable tour de force physique et mental, vous résistez à l'emprise du tome et le fermez d'un @coup@ @sec@. NL Vous rebroussez chemin et quittez le temple #b~à~ #b~bout~ #b~de~ #b~force~..."
+      "En un incroyable tour de force physique et mental, vous résistez à l'emprise du tome et le fermez d'un @coup@ @sec.@ NL Vous rebroussez chemin et quittez le temple #b~à~ #b~bout~ #b~de~ #b~force...~"
     ],
     "OPTIONS": [
       "[Lire]",
@@ -572,7 +572,7 @@
       "Vous vous déchaînez et brisez la statue en face de vous, rompant ainsi l'emprise magique que la salle exerçait sur vous. NL Un sombre gémissement résonne tout autour de vous et vous sentez la #p~magie~ #p~maudite~ s'infiltrer au plus profond de vous."
     ],
     "OPTIONS": [
-      "[Offrir: idole dorée] #gVous #grecevez #gune #gRelique #gspéciale. #rVous #rperdez l'#ridole #rdorée.",
+      "[Offrir: idole dorée] #gVous #grecevez #gune #gRelique #gspéciale. #rVous #rperdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Vous sacrifier] #gVos #gPV #gmax #gaugmentent #gde #g",
       "  #rVous #rperdez #r",
@@ -585,12 +585,12 @@
     "NAME": "Crâne savant",
     "DESCRIPTIONS": [
       "Vous arrivez dans une antique chambre décorée. Au centre de la salle, un grand crâne repose sur un piédestal orné. À votre approche, le crâne #g@s'enflamme@ et se tourne pour vous faire face.",
-      "\"QUE RECHERCHEZ-VOUS? QU'OFFREZ-VOUS?\" NL À ces mots, la porte derrière vous se @ferme@ @violemment@.",
+      "\"QUE RECHERCHEZ-VOUS? QU'OFFREZ-VOUS?\" NL À ces mots, la porte derrière vous se @ferme@ @violemment.@",
       " NL NL \"AUTRE CHOSE?\"",
       " ",
       "\"CUL SEC!\" NL Vous obtenez une potion.",
       "\"CELA VOUS SERA PEUT-ÊTRE UTILE?\" NL Vous obtenez une carte.",
-      "\"VOUS AUTRES MORTELS NE CHANGEZ JAMAIS. C'EST FAIT.\" NL Il pleut de l'#yor!",
+      "\"VOUS AUTRES MORTELS NE CHANGEZ JAMAIS. C'EST FAIT.\" NL Il pleut de #yl'or!",
       "\"DERRIÈRE VOUS, ÉPHÉMÈRE.\" NL Vous jetez un œil derrière le crâne. Il doit bien y avoir une porte."
     ],
     "OPTIONS": [
@@ -608,7 +608,7 @@
   "Masked Bandits": {
     "NAME": "Bandits masqués",
     "DESCRIPTIONS": [
-      "Héhéhé... Merci pour l'#yor! NL Oh, j'adore l'#yor. C'est tellement génial. NL Ça #y~brille~, oh comme ça #y~brille~!",
+      "Héhéhé... Merci pour #yl'or! NL Oh, j'adore #yl'or. C'est tellement génial. NL Ça #y~brille,~ oh comme ça #y~brille~ !",
       "Hé, #bBalourd, écoute! NL L'autre, là, nous a donné tout son #yor! Lamentable, hein? NL En plus, j'ai juste demandé gentiment. Qui aurait cru?! NL Pas moi, en tout cas! L'imbécile!",
       "Les amis, rions tous de la chance qui nous sourit! NL @Ahahah@ NL @Ho@ @HOH@ ~hoho!~ NL ~Ahah!~",
       "Oh? Vous êtes encore là, vous? NL Vous avez entendu quelque chose? C'est bien ce que je me disais. NL #r@*méprisant*@ ~...~ ~naze...~ @Ahahah@ ~ahaah~",
@@ -624,9 +624,9 @@
   "Spire Heart": {
     "NAME": "Le cœur de la Tour",
     "DESCRIPTIONS": [
-      "@boum-boum@... @boum-boum@... @boum-boum@... NL Une pulsation profonde et effroyable parcourt la salle tout entière... NL Serait-ce le #r~cœur~ de la Tour? La source de tout ce mal?",
+      "@boum-boum@ ... @boum-boum@ ... @boum-boum@ ... NL Une pulsation profonde et effroyable parcourt la salle tout entière... NL Serait-ce le #r~cœur~ de la Tour? La source de tout ce mal?",
       "Vous infligez #b",
-      " point(s) de dégâts! NL Le cœur #r@se@ #r@tortille@ et #r~saigne~... mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas?",
+      " point(s) de dégâts! NL Le cœur #r@se@ #r@tortille@ et #r~saigne...~ mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas?",
       "Vous vous demandez: ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici?\"~ NL Vous pensez avoir infligé un total de #b",
       " point(s) de dégâts au cœur.",
       " NL Un total de #b",
@@ -687,7 +687,7 @@
     "NAME": "Le mausolée",
     "DESCRIPTIONS": [
       "Vous parcourez une série de tombes et arrivez face à un imposant sarcophage ~serti~ ~de~ ~gemmes~ situé au centre de la salle circulaire. NL Vous ne parvenez pas à déchiffrer ce qui est écrit sur le cercueil. Cependant, vous remarquez qu'un #p~brouillard~ #p~noir~ s'échappe de ses flancs.",
-      "Vous ouvrez le cercueil. Ce faisant, le #p~brouillard~ #p~noir~ s'en échappe et envahit la salle tout entière! À l'intérieur, vous ne trouvez personne, juste une #y~Relique.~ Vous la prenez et vous en allez, #r@toussant@ #r@violemment@.",
+      "Vous ouvrez le cercueil. Ce faisant, le #p~brouillard~ #p~noir~ s'en échappe et envahit la salle tout entière! À l'intérieur, vous ne trouvez personne, juste une #y~Relique.~ Vous la prenez et vous en allez, #r@toussant@ #r@violemment.@",
       "Vous ouvrez le cercueil. Le brouillard inoffensif se dissipe. À l'intérieur, vous découvrez la dépouille d'un soldat décoré qui tient une vieille #yRelique. Vous la lui dérobez et partez.",
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
@@ -708,7 +708,7 @@
     ],
     "OPTIONS": [
       "[Accepter] #gVous #gretirez #gtoutes #gles #gFrappes. #gVous #gobtenez #g5 #gcartes #gMorsure. #rVous #rperdez #r",
-      "#r% #rde #rvos #rPV #rmax.",
+      " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
       "] #gVous #gretirez #gtoutes #gles #gcartes #gFrappe. #gVous #gobtenez #g5 #gcartes #gMorsure.",
