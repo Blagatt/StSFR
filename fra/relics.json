@@ -113,7 +113,7 @@
     "FLAVOR": "Les écailles tranchantes du Gardien. Elles s'assemblent de sorte à protéger leur utilisateur. ",
     "DESCRIPTIONS": [
       "Quand vous subissez des dégâts, vous infligez #b",
-      " point(s) de dégâts en retour."
+      " dégâts en retour."
     ]
   },
   "Burning Blood": {
@@ -178,7 +178,7 @@
     "FLAVOR": "Charon était considéré comme le dieu de la résurrection, car il mourait et renaissait éternellement dans une explosion de flammes.",
     "DESCRIPTIONS": [
       "Lorsque vous #yÉpuisez une carte, vous infligez #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Chemical X": {
@@ -403,7 +403,7 @@
     "FLAVOR": "Anormalement tranchant.",
     "DESCRIPTIONS": [
       "Chaque fois que vous jouez #b3 cartes Compétence en un tour, vous infligez #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Living Blade": {
@@ -477,7 +477,7 @@
     "FLAVOR": "Un sablier enchanté qui s'écoule sans fin.",
     "DESCRIPTIONS": [
       "Au début de votre tour, vous infligez #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Molten Egg": {
@@ -931,7 +931,7 @@
     "FLAVOR": "Le son provenant de cet instrument peut résonner à un volume douloureux pour l'oreille.",
     "DESCRIPTIONS": [
       "Lorsque vous défaussez des cartes pendant votre tour, vous infligez #b",
-      " point(s) de dégâts à un ennemi aléatoire pour chaque carte défaussée."
+      " dégâts à un ennemi aléatoire pour chaque carte défaussée."
     ]
   },
   "Tiny Chest": {
@@ -965,7 +965,7 @@
     "FLAVOR": "Avec ce petit torii, vous sentez la quiétude et la sérénité envahir votre esprit.",
     "DESCRIPTIONS": [
       "Lorsque vous êtes sur le point de subir #b",
-      " point(s) de dégâts ou moins suite à des #yAttaques non bloqués, vous les réduisez à #b1."
+      " dégâts ou moins suite à des #yAttaques non bloqués, vous les réduisez à #b1."
     ]
   },
   "Tough Bandages": {
