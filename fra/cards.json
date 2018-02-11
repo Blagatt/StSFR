@@ -752,10 +752,10 @@
     "DESCRIPTION": "Injouable. NL Impossible de jouer plus de 3 cartes par tour.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux jouer que jusqu'à NL #r3 cartes par tour.",
-      "Injouable. NL Vous ne pouvez pas jouer plus de ",
+      "Injouable. NL Vous ne pouvez jouer que ",
       " cartes par tour.",
       " cartes par tour. NL Vous avez joué ",
-      " carte ce tour."
+      " carte(s)."
     ]
   },
   "Accuracy": {
