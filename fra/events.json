@@ -624,9 +624,9 @@
   "Spire Heart": {
     "NAME": "Le cœur de la Tour",
     "DESCRIPTIONS": [
-      "@boum-boum@... @boum-boum@... @boum-boum@... NL Une pulsation profonde et effroyable parcourt la salle tout entière... NL Serait-ce le #r~cœur~ de la Tour? La source de tout ce mal?",
+      "@boum@ @boum@... @boum@ @boum@... @boum@ @boum@... NL Une pulsation profonde et effroyable parcourt la salle tout entière... NL Serait-ce le #r~cœur~ de la Tour? La source de tout ce mal?",
       "Vous infligez #b",
-      " point(s) de dégâts! NL Le cœur #r@se@ #r@tortille@ et #r~saigne~... mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas?",
+      " point(s) de dégâts! NL Le cœur #r@se@ #r@tortille@ et #r~saigne~ ... mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas?",
       "Vous vous demandez: ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici?\"~ NL Vous pensez avoir infligé un total de #b",
       " point(s) de dégâts au cœur.",
       " NL Un total de #b",
