@@ -361,7 +361,7 @@
       " #get #g",
       " #gd'or.",
       "[Verrouillé] Nécessite: carte avec au moins ",
-      " point(s) de dégâts",
+      " dégâts",
       "[Partir]",
       "[Continuer]",
       "Choisissez la carte à retirer."
@@ -626,11 +626,11 @@
     "DESCRIPTIONS": [
       "@boum-boum@ ... @boum-boum@ ... @boum-boum@ ... NL Une pulsation profonde et effroyable parcourt la salle tout entière... NL Serait-ce le #r~cœur~ de la Tour ? La source de tout ce mal ?",
       "Vous infligez #b",
-      " point(s) de dégâts ! NL Le cœur #r@se@ #r@tortille@ et #r~saigne...~ mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas ?",
+      " dégâts ! NL Le cœur #r@se@ #r@tortille@ et #r~saigne...~ mais il continue à battre. NL Vos attaques les plus puissantes ne suffisent-elles pas ?",
       "Vous vous demandez: ~\"Est-ce~ ~la~ ~première~ ~fois~ ~que~ ~je~ ~viens~ ~ici~ ~?\"~ NL Vous pensez avoir infligé un total de #b",
-      " point(s) de dégâts au cœur.",
+      " dégâts au cœur.",
       " NL Un total de #b",
-      " point(s) de dégâts a été infligé par tous ceux qui se sont mesurés à lui.",
+      " dégâts a été infligé par tous ceux qui se sont mesurés à lui.",
       " NL Le cœur bat de plus en plus fort tandis que vous #y~perdez~ #y~peu~ #y~à~ #y~peu~ #y~connaissance...~",
       "NL Vous dégainez votre lame...",
       "NL Vous préparez vos dagues...",
