@@ -487,8 +487,8 @@
   },
   "Armaments": {
     "NAME": "Protections",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore une carte de votre main pour le reste du combat.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliore TOUTES les cartes de votre main pour le reste du combat."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez une carte de votre main pour le reste du combat.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Améliorez TOUTES les cartes de votre main pour le reste du combat."
   },
   "Havoc": {
     "NAME": "Ravages",
