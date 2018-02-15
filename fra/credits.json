@@ -53,11 +53,13 @@
   },
   "LOC_ZHT": {
     "HEADER": "Traduction en Chinois (Traditionnel)",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_FRA": {
     "HEADER": "Traduction en Français",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_DEU": {
     "HEADER": "Traduction en Allemand",
@@ -77,16 +79,28 @@
   },
   "LOC_KOR": {
     "HEADER": "Traduction en Coréen",
-    "NAMES": []
+    "NAMES": [
+      "Translation Manager:",
+      "Eteriny",
+      "Translation:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Steam Page Translation:",
+      "GyeRyak"
+    ]
   },
   "LOC_POL": {
     "HEADER": "Traduction en Polonais",
-    "NAMES": []
+    "NAMES": [
+    ]
   },
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
     "NAMES": [
-      "Traduction et coordination:",
+      "Traduction et Coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
       "Traduction et repository:",
       "Vladislav \"Vlad-00003\" Bolshakov",
@@ -154,7 +168,8 @@
       "Sam Welch",
       "feedbackbot",
       "Evan Howell",
-      "Justin Myhres"
+      "Justin Myhres",
+      "robojumper"
     ]
   },
   "THANKS_MSG": {
