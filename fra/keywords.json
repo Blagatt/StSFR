@@ -14,8 +14,8 @@
       "NAMES": [
         "armure",
         "bloque",
-        "d'armure",
-        "l'armure",
+        "",
+        "",
         ""
       ],
       "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."

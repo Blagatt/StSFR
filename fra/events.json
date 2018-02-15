@@ -15,8 +15,8 @@
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
-      "[Utiliser la forge] #gVous #gAméliorez #gune #gcarte. #r25 #r%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
-      "[Fouiller] #gVous #gobtenez #gune #gRelique. #r75 #r%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
+      "[Utiliser la forge] #gAméliorez #gune #gcarte. #r25 #r%: #rvous #rrecevez: #rMalédiction #r- #rBlessure.",
+      "[Fouiller] #gObtenez #gune #gRelique. #r75 #r%: #rvous #rrecevez: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
       "[Verrouillé] Nécessite: Une carte améliorable"
@@ -37,7 +37,7 @@
     "OPTIONS": [
       "[Continuer]",
       "[Partir]",
-      "[Faire une offrande] Vous recevez une récompense en fonction de votre offrande.",
+      "[Faire une offrande] Recevez une récompense en fonction de votre offrande.",
       "Choisissez la carte à offrir."
     ]
   },
@@ -63,7 +63,7 @@
       "Vous ignorez l'autel et faites confiance à votre instinct."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #gdupliquez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Prier] #gDupliquez #gune #gcarte #gde #gvotre #gdeck.",
       "[Partir]",
       "Choisissez la carte à dupliquer."
     ]
@@ -76,7 +76,7 @@
       "Vous méfiant de la nature de cette eau, vous poursuivez votre chemin, en proie à la soif."
     ],
     "OPTIONS": [
-      "[Boire] #gVous #gretirez #gtoutes #gles #gMalédictions #gde #gvotre #gdeck.",
+      "[Boire] #gRetirez #gtoutes #gles #gMalédictions #gde #gvotre #gdeck.",
       "[Partir]"
     ]
   },
@@ -89,9 +89,9 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #ggagnez #g",
+      "[Prier] #gGagnez #g",
       " #gd'or.",
-      "[Profaner] #gVous #ggagnez #g250 #gd'or. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
+      "[Profaner] #gGagnez #g250 #gd'or. #rRecevez: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
   },
@@ -112,7 +112,7 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Prier] #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Partir]",
       "Choisissez la carte à retirer."
     ]
@@ -125,7 +125,7 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #gTransformez #gune #gcarte.",
+      "[Prier] #gTransformez #gune #gcarte.",
       "[Partir]",
       "Choisissez la carte à Transformer."
     ]
@@ -138,7 +138,7 @@
       "Vous ignorez l'autel."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #gAméliorez #gune #gcarte.",
+      "[Prier] #gAméliorez #gune #gcarte.",
       "[Partir]",
       "Choisissez la carte à Améliorer.",
       "[Verrouillé] Nécessite: Une carte améliorable"
@@ -159,11 +159,11 @@
     "OPTIONS": [
       "[Jouer]",
       "[Prix !] YOUPI !!!!!",
-      "[Prix !] #gVous #ggagnez #gune #gRelique.",
-      "[Prix !] #gVous #grécupérez #gtous #gvos #gPV.",
+      "[Prix !] #gGagnez #gune #gRelique.",
+      "[Prix !] #gRécupérez #gtous #gvos #gPV.",
       "[Prix ?] #rMalédiction #r- #rDéclin.",
-      "[Prix !] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
-      "[Prix ?] #rVous #rperdez #r",
+      "[Prix !] #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Prix ?] #rPerdez #r",
       " #rPV.",
       "[Partir]",
       "Choisissez la carte à retirer."
@@ -180,11 +180,11 @@
     ],
     "OPTIONS": [
       "[Continuer]",
-      "[Atterrir] #rVous #rperdez ",
+      "[Atterrir] #rPerdez ",
       "[Verrouillé] Nécessite: carte Compétence",
-      "[Canaliser] #rVous #rperdez ",
+      "[Canaliser] #rPerdez ",
       "[Verrouillé] Nécessite: carte Pouvoir",
-      "[Frapper] #rVous #rperdez ",
+      "[Frapper] #rPerdez ",
       "[Verrouillé] Nécessite: carte Attaque",
       "[Partir]"
     ]
@@ -198,9 +198,9 @@
       "Vous quittez les lieux en vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
-      "[Sauter dedans] #gVous #grécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
+      "[Sauter dedans] #gRécupérez #gtous #gvos #gPV. #rVos #rPV #rmax #rsont #rréduits #rde #r",
       ".",
-      "[Offrir: idole dorée] #gVous #grecevez #g333 #gd'or. #rVous #rperdez #rl'idole #rdorée.",
+      "[Offrir: idole dorée] #gRecevez #g333 #gd'or. #rPerdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Partir]"
     ]
@@ -213,7 +213,7 @@
       "La curiosité est un vilain défaut."
     ],
     "OPTIONS": [
-      "[Ouvrir la sphère] #rVous #rcombattez. #gRécompense: #gRelique",
+      "[Ouvrir la sphère] #rCombattez. #gRécompense: #gRelique",
       "[Partir]",
       "[Combattre]"
     ]
@@ -226,9 +226,9 @@
       "Vous vous préparez à l'atterrissage, mais il est impossible d'atterrir correctement lorsque l'on est éjecté d'un pareil mécanisme. @BONG@ NL NL ...Vous gisez au sol pendant un moment, maudissant l'existence des flaques, liquides comme magiques."
     ],
     "OPTIONS": [
-      "[Plouf] #rVous #rperdez #rune #rcarte #rrare #raléatoire.",
-      "[Atterrir tête la première] #rVous #rsubissez #r",
-      " #rpoint(s) #rde #rdégâts. #rVous #rrecevez: #rMalédiction #r- #rBlessure.",
+      "[Plouf] #rPerdez #rune #rcarte #rrare #raléatoire.",
+      "[Atterrir tête la première] #rSubissez #r",
+      " #rdégâts. #rRecevez: #rMalédiction #r- #rBlessure.",
       "[Partir]"
     ]
   },
@@ -240,10 +240,10 @@
       "Une ouverture apparaît dans la tombe et un petit masque rouge en sort, accompagné d'une note. \"Prenez aux autres comme je vous ai pris !\""
     ],
     "OPTIONS": [
-      "[Mettre le masque] #gVous #ggagnez #g222 #gd'or.",
+      "[Mettre le masque] #gGagnez #g222 #gd'or.",
       "[Verrouillé] Nécessite: masque rouge",
       "[Offrir: ",
-      " d'or] #rVous #rperdez #rtout #rvotre #ror. #gVous #ggagnez #gune #gRelique.",
+      " d'or] #rPerdez #rtout #rvotre #ror. #gGagnez #gune #gRelique.",
       "[Partir]"
     ]
   },
@@ -257,9 +257,9 @@
     ],
     "OPTIONS": [
       "...",
-      "[Céder à la folie] #gVous #grecevez: #g2 #gde #gFolie. #rVous #rperdez #r",
+      "[Céder à la folie] #gRecevez: #g2 #gde #gFolie. #rPerdez #r",
       " #rPV.",
-      "[Vous concentrer] #rVous #rrecevez: #rMalédiction #r- #rSouffrance. #gVous #grécupérez #g",
+      "[Vous concentrer] #rRecevez: #rMalédiction #r- #rSouffrance. #gRécupérez #g",
       "[Partir]",
       " #gPV."
     ]
@@ -275,11 +275,11 @@
       " NL Cela dit, le beignet vous faisait vraiment envie... NL La ~tristesse~ vous envahit et le #rregret vous ronge."
     ],
     "OPTIONS": [
-      "[Banane] #gVous #grécupérez #g",
+      "[Banane] #gRécupérez #g",
       " #gPV.",
-      "[Beignet] #gHP #gmax #g+",
-      ".",
-      "[Boîte] #gVous #grecevez #gune #gRelique. #rVous #rrecevez: #rMalédiction #r- #rRegret.",
+      "[Beignet] #gPV #gmax #g+",
+      ".",/
+      "[Boîte] #gRecevez #gune #gRelique. #rRecevez: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
   },
@@ -292,11 +292,11 @@
       "Vous n'avez pas confiance en ce #b\"Clerc\" et quittez les lieux."
     ],
     "OPTIONS": [
-      "[Soin] #y35 #yd'or: #gvous #grécupérez #g",
+      "[Soin] #y35 #yd'or: #grécupérez #g",
       "[Verrouillé] Nécessite: ",
       " or",
       "[Purification] #y",
-      " #yd'or: #gvous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      " #yd'or: #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: 50d'or",
       "[Partir]",
       "Choisissez la carte à retirer.",
@@ -319,10 +319,10 @@
       "On dirait que vous avez fouillé ses affaires sans rencontrer de problème !"
     ],
     "OPTIONS": [
-      "[Fouiller] #gVous #gtrouvez #gdu #gbutin. #r",
+      "[Fouiller] #gTrouvez #gdu #gbutin. #r",
       "[Partir]",
       "[Combattre]",
-      "[Continuer] #gVous #gtrouvez #gdu #gbutin. #r",
+      "[Continuer] #gTrouvez #gdu #gbutin. #r",
       " #r%: #rle #rmonstre #rrevient."
     ]
   },
@@ -337,11 +337,11 @@
       "Si l'on devait décerner la palme du piège le plus évident, celui-ci l'obtiendrait. NL Vous décidez de ne pas interférer avec les objets posés sur les piédestaux."
     ],
     "OPTIONS": [
-      "[Prendre] #gVous #grecevez #gune #gidole #gdorée. #rVous #rdéclenchez #run #rpiège.",
+      "[Prendre] #gRecevez #gune #gidole #gdorée. #rDéclenchez #run #rpiège.",
       "[Partir]",
-      "[Courir à toutes jambes] #rVous #rrecevez: #rMalédiction #r- #rBlessure.",
-      "[Détruire] #rVous #rsubissez #r",
-      " #rpoint(s) #rde #rdégâts.",
+      "[Courir à toutes jambes] #rRecevez: #rMalédiction #r- #rBlessure.",
+      "[Détruire] #rSubissez #r",
+      " #rdégâts.",
       "[Vous cacher] #rVos #rPV #rmax #rsont #rréduits #rde #r",
       " "
     ]
@@ -355,9 +355,9 @@
       "La statue vous met ~mal~ ~à~ ~l'aise.~ Vous passez devant sans vous arrêter."
     ],
     "OPTIONS": [
-      "[Prier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck. #rVous #rperdez #r",
+      "[Prier] #gRetirez #gune #gcarte #gde #gvotre #gdeck. #rPerdez #r",
       " #rPV.",
-      "[Détruire] #gVous #ggagnez #gentre #g",
+      "[Détruire] #gGagnez #gentre #g",
       " #get #g",
       " #gd'or.",
       "[Verrouillé] Nécessite: carte avec au moins ",
@@ -375,10 +375,10 @@
       "Vous décidez que le jeu n'en vaut pas la chandelle."
     ],
     "OPTIONS": [
-      "[Récupérer l'or] #gVous #ggagnez #g",
-      " #gd'or. #rVous #rperdez #r",
+      "[Récupérer l'or] #gGagnez #g",
+      " #gd'or. #rPerdez #r",
       " #rPV.",
-      "[Abandonner l'or] #rVous #rperdez #r",
+      "[Abandonner l'or] #rPerdez #r",
       " #rd'or.",
       "[Partir]"
     ]
@@ -392,8 +392,8 @@
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs ! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
     "OPTIONS": [
-      "[D'accord] #gVous #grecevez #g",
-      " #gd'or. #rVous #rrecevez: #rMalédiction #r- #rDoute.",
+      "[D'accord] #gRecevez #g",
+      " #gd'or. #rRecevez: #rMalédiction #r- #rDoute.",
       "[Pas d'accord]",
       "[Continuer]",
       "[Partir]"
@@ -406,9 +406,9 @@
       "Satisfaits, les murs en face de vous retournent dans le plafond, vous laissant la voie libre."
     ],
     "OPTIONS": [
-      "[Oublier] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
-      "[Changer] #gVous #gTransformez #gune #gcarte #gde #gvotre #gdeck.",
-      "[Progresser] #gVous #gAméliorez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Oublier] #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Changer] #gTransformez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Progresser] #gAméliorez #gune #gcarte #gde #gvotre #gdeck.",
       "Choisissez la carte à retirer.",
       "Choisissez la carte à Transformer.",
       "Choisissez la carte à Améliorer.",
@@ -424,9 +424,9 @@
       "Vous pénétrez dans un couloir rempli de #b~champignons~ #b~aux~ #b~couleurs~ #b~hypnotisantes.~ NL Étant donné votre manque d'expertise en mycologie, vous êtes incapable d'identifier les spécimens. NL Vous voudriez vous échapper, mais vous éprouvez l'étrange besoin de manger un #b~champignon...~"
     ],
     "OPTIONS": [
-      "[Piétiner] #rVous #rmettez #rles #rchampignons #ren #rcolère.",
-      "[Manger] #gVous #grécupérez #g",
-      " #gPV. #rVous #rrecevez: #rMalédiction #r- #rParasite.",
+      "[Piétiner] #rMettez #rles #rchampignons #ren #rcolère.",
+      "[Manger] #gRécupérez #g",
+      " #gPV. #rRecevez: #rMalédiction #r- #rParasite.",
       "[Combattre]",
       "[Partir]"
     ]
@@ -440,7 +440,7 @@
     ],
     "OPTIONS": [
       "[Offrir: ",
-      "] #rVous #rperdez #rcette #rRelique. #gVous #ggagnez #gune #gnouvelle #gRelique #gspéciale.",
+      "] #rPerdez #rcette #rRelique. #gGagnez #gune #gnouvelle #gRelique #gspéciale.",
       "[Partir]"
     ]
   },
@@ -453,11 +453,11 @@
       "Vous décidez de quitter les lieux. NL La créature ne fait pas attention à vous, ravie de son repas."
     ],
     "OPTIONS": [
-      "[Tendre le bras] #rVous #rperdez #r",
+      "[Tendre le bras] #rPerdez #r",
       " #rPV. #g",
-      "%: #gVous #gtrouvez #gune #gRelique.",
+      "%: #gTrouvez #gune #gRelique.",
       "[Partir]",
-      "[S'enfoncer] #rVous #rperdez #r"
+      "[S'enfoncer] #rPerdez #r"
     ]
   },
   "Shining Light": {
@@ -468,7 +468,7 @@
       "Vous la contournez, vous demandant ce qui aurait pu se passer."
     ],
     "OPTIONS": [
-      "[Entrer] #gVous #gAméliorez #g2 #gcartes #galéatoires. #rVous #rperdez #r",
+      "[Entrer] #gAméliorez #g2 #gcartes #galéatoires. #rPerdez #r",
       " #rPV.",
       "[Partir]",
       "[Verrouillé] Nécessite: Une carte améliorable"
@@ -483,12 +483,12 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or: #gvous #grecevez #gune #gRelique.",
+      " #yd'or: #gRecevez #gune #gRelique.",
       "[Verrouillé] Nécessite: ",
       " or",
-      "[Donner de la D.O.P.E.] #gVous #grecevez #gune #gRelique. #rVous #rperdez #rla #rD.O.P.E.",
+      "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla #rD.O.P.E.",
       "[Verrouillé] Nécessite: D.O.P.E.",
-      "[Partir] Vous ignorez le drogué.",
+      "[Partir] Ignorez le drogué.",
       "[Partir]"
     ]
   },
@@ -500,7 +500,7 @@
       "La vérité est toujours simple."
     ],
     "OPTIONS": [
-      "[Élégance] #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      "[Élégance] #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Simplicité] #gAméliorez #gtoutes #gvos #gFrappes #get #gvos #gDéfenses.",
       "Choisissez la carte à retirer.",
       "[Partir]"
@@ -516,7 +516,7 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or: #gVous #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      " #yd'or: #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite: ",
       " or",
       "[Continuer]",
@@ -538,11 +538,11 @@
     ],
     "OPTIONS": [
       "[Lire]",
-      "[Continuer] #rVous #rperdez #r1 #rPV.",
-      "[Continuer] #rVous #rperdez #r2 #rPV.",
-      "[Continuer] #rVous #rperdez #r3 #rPV.",
-      "[Arrêter] #rVous #rperdez #r3 #rPV.",
-      "[Prendre] #gVous #gobtenez #gle #glivre. #rVous #rperdez #r",
+      "[Continuer] #rPerdez #r1 #rPV.",
+      "[Continuer] #rPerdez #r2 #rPV.",
+      "[Continuer] #rPerdez #r3 #rPV.",
+      "[Arrêter] #rPerdez #r3 #rPV.",
+      "[Prendre] #gObtenez #gle #glivre. #rPerdez #r",
       " #rPV.",
       "[Partir]"
     ]
@@ -556,7 +556,7 @@
     ],
     "OPTIONS": [
       "[Payer] #y",
-      " #yd'or: #gvous #gobtenez #gde #gla #gD.O.P.E.",
+      " #yd'or: #gobtenez #gde #gla #gD.O.P.E.",
       "[Verrouillé] Nécessite: ",
       " or",
       "[Partir]",
@@ -572,13 +572,13 @@
       "Vous vous déchaînez et brisez la statue en face de vous, rompant ainsi l'emprise magique que la salle exerçait sur vous. NL Un sombre gémissement résonne tout autour de vous et vous sentez la #p~magie~ #p~maudite~ s'infiltrer au plus profond de vous."
     ],
     "OPTIONS": [
-      "[Offrir: idole dorée] #gVous #grecevez #gune #gRelique #gspéciale. #rVous #rperdez #rl'idole #rdorée.",
+      "[Offrir: idole dorée] #gRecevez #gune #gRelique #gspéciale. #rPerdez #rl'idole #rdorée.",
       "[Verrouillé] Nécessite: idole dorée",
       "[Vous sacrifier] #gVos #gPV #gmax #gaugmentent #gde #g",
-      "  #rVous #rperdez #r",
+      " #rPerdez #r",
       " #rPV.",
       "[Verrouillé] Nécessite: Humanité.",
-      "[Profaner] #rVous #rrecevez: #rMalédiction #r- #rDéclin."
+      "[Profaner] #rRecevez: #rMalédiction #r- #rDéclin."
     ]
   },
   "Knowing Skull": {
@@ -596,12 +596,12 @@
     "OPTIONS": [
       "[Continuer]",
       " #rPV.",
-      "[Informations ?] #gVous #grévélez #gle #gboss. #rVous #rperdez #r",
-      "[Réussite ?] #gVous #gobtenez #gune #gcarte #gsans #gcouleur. #rVous #rperdez #r",
-      "[Remontant ?] #gVous #gobtenez #gune #gpotion. #rVous #rperdez #r",
-      "[Richesses ?] #gVous #ggagnez #g",
-      " #gd'or. #rVous #rperdez #r",
-      "[Comment sortir d'ici ?] #rVous #rperdez #r",
+      "[Informations ?] #gRévélez #gle #gboss. #rPerdez #r",
+      "[Réussite ?] #gObtenez #gune #gcarte #gsans #gcouleur. #rPerdez #r",
+      "[Remontant ?] #gObtenez #gune #gpotion. #rPerdez #r",
+      "[Richesses ?] #gGagnez #g",
+      " #gd'or. #rPerdez #r",
+      "[Comment sortir d'ici ?] #rPerdez #r",
       "[Partir]"
     ]
   },
@@ -615,7 +615,7 @@
       "Vous tombez sur un groupe de bandits affublés de grands #rmasques #rrouges. NL \"Bonjour, il faut payer pour passer... Une modique somme... @TOUT@ votre #yor fera l'affaire ! Héhéhé !\""
     ],
     "OPTIONS": [
-      "[Payer] #rVous perdez #rTOUT votre #yor.",
+      "[Payer] #rPerdez #rTOUT #rvotre #yor.",
       "[Combattre]",
       "[Continuer]",
       "[Partir]"
@@ -658,10 +658,10 @@
     "OPTIONS": [
       "[Continuer]",
       "[Meurtrier] #yParier #y",
-      " #yd'or - #g70 #g%: #gvous #ggagnez #g",
+      " #yd'or - #g70 #g%: #ggagnez #g",
       " #gd'or.",
       "[Propriétaire] #yParier #y",
-      " #yd'or - #g30 #g%: #gvous #ggagnez #g",
+      " #yd'or - #g30 #g%: #ggagnez #g",
       "[Observer]",
       "[Partir]"
     ]
@@ -676,8 +676,8 @@
       "L'histoire se déroule dans un immense bâtiment isolé aménagé sous terre, car les conditions extérieures sont devenues insupportables. Le roman est parsemé de complots, de propagande et d'injustices. Vous vous demandez si des dynamiques similaires sont en jeu dans la Tour. NL Perturbant."
     ],
     "OPTIONS": [
-      "[Lire] #gVous #gchoisissez #g1 #gcarte #gà #gajouter #gà #gvotre #gdeck #gparmi #gles #g20 #gà #gdisposition.",
-      "[Dormir] #gVous #grécupérez #g",
+      "[Lire] #gChoisissez #g1 #gcarte #gà #gajouter #gà #gvotre #gdeck #gparmi #gles #g20 #gà #gdisposition.",
+      "[Dormir] #gRécupérez #g",
       " #gPV.",
       "[Partir]",
       "Ajoutez une carte à votre deck."
@@ -692,8 +692,8 @@
       "Vous poursuivez votre route, préférant ne pas perturber le repos du défunt oublié."
     ],
     "OPTIONS": [
-      "[Ouvrir le cercueil] #gVous #grecevez #gune #gRelique. #r",
-      " #r%: #rvous #rrecevez: #rMalédiction #r- #rSouffrance.",
+      "[Ouvrir le cercueil] #gRecevez #gune #gRelique. #r",
+      " #r%: #rrecevez: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
   },
@@ -707,11 +707,11 @@
       "Les silhouettes pâles poussent un cri de surprise lorsque vous sortez la #yfiole #yde #ysang. NL ~\"Le~ ~sang~ ~du~ ~Maître...~ ~Le~ ~sang~ ~du~ ~Maître~ ~!~ @LE@ @SANG@ @DU@ @MAÎTRE@ @!\"@ NL Toutes psalmodient avec ferveur tandis que la plus grande s'incline devant vous. \"Buvez Son sang et ne faites plus qu'un avec #y~Lui.\"~ NL Leur psaume prend de l'ampleur tandis que vous ingérez le contenu de la fiole. Votre vision se ~distord~ immédiatement et s'estompe jusqu'à ne plus être qu'obscurité. NL NL Quand vous vous réveillez quelque temps plus tard, il n'y a plus personne. Une ~faim~ dévorante vous tenaille l'estomac. Vous #rdevez #rvous #rnourrir."
     ],
     "OPTIONS": [
-      "[Accepter] #gVous #gretirez #gtoutes #gles #gFrappes. #gVous #gobtenez #g5 #gcartes #gMorsure. #rVous #rperdez #r",
+      "[Accepter] #gRetirez #gtoutes #gles #gFrappes. #gVous #gobtenez #g5 #gcartes #gMorsure. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
-      "] #gVous #gretirez #gtoutes #gles #gcartes #gFrappe. #gVous #gobtenez #g5 #gcartes #gMorsure.",
+      "] #gRetirez #gtoutes #gles #gcartes #gFrappe. #gObtenez #g5 #gcartes #gMorsure.",
       "[Partir]"
     ]
   },
