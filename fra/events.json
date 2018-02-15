@@ -228,7 +228,7 @@
     "OPTIONS": [
       "[Plouf] #rPerdez #rune #rcarte #rrare #raléatoire.",
       "[Atterrir tête la première] #rSubissez #r",
-      " #rpoint(s) #rde #rdégâts. #rRecevez: #rMalédiction #r- #rBlessure.",
+      " #rdégâts. #rRecevez: #rMalédiction #r- #rBlessure.",
       "[Partir]"
     ]
   },
@@ -341,7 +341,7 @@
       "[Partir]",
       "[Courir à toutes jambes] #rRecevez: #rMalédiction #r- #rBlessure.",
       "[Détruire] #rSubissez #r",
-      " #rpoint(s) #rde #rdégâts.",
+      " #rdégâts.",
       "[Vous cacher] #rVos #rPV #rmax #rsont #rréduits #rde #r",
       " "
     ]
@@ -483,7 +483,7 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or: #grecevez #gune #gRelique.",
+      " #yd'or: #gRecevez #gune #gRelique.",
       "[Verrouillé] Nécessite: ",
       " or",
       "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla #rD.O.P.E.",
