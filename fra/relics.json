@@ -289,7 +289,7 @@
     "NAME": "Enchiridion",
     "FLAVOR": "Le journal légendaire d'une liche antique.",
     "DESCRIPTIONS": [
-      Commencez chaque combat avec une carte #yPouvoir aléatoire dans votre main. Son coût est de #b0 pendant le premier tour."
+      "Commencez chaque combat avec une carte #yPouvoir aléatoire dans votre main. Son coût est de #b0 pendant le premier tour."
     ]
   },
   "Eternal Feather": {
