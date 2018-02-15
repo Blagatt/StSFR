@@ -517,19 +517,19 @@
     "TEXT": [
 		"Choose One"	
 	]
-  },  
-  "TwitchVoter": { 
-    "TEXT": [ 
-    "VOTE NOW: " 
-    ] 
+  },
+  "TwitchVoter": {
+    "TEXT": [
+		"VOTE NOW: "
+    ]
   },
   "CardRewardScreen": {
     "TEXT": [
 		"Skip",
 		"Choose a Card",
-    	"+2 Max HP", 
-    	"VOTE NOW: ", 
-    	"s left."
+		"+2 Max HP",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "BossRelicSelectScreen": {
@@ -537,9 +537,9 @@
 		"Confirm",
 		"Confirm Your Selection",
 		"Choose a Relic",
-	    "Skip", 
-	    "VOTE NOW: ", 
-	    "s left." 
+		"Skip",
+		"VOTE NOW: ",
+		"s left."
 	]
   },
   "GridCardSelectScreen": {
@@ -587,7 +587,7 @@
 		"Fullscreen NL Borderless Fullscreen (recommended) NL Screenshake",
 		"Sound",
 		"Master Volume NL Music Volume NL Effects Volume",
-		"Ambient Sound Effects",
+		"Ambient Sound Effects NL Mute while in background",
 		"Preferences",
 		"Display summed up damage in gold NL Display blocked damage in blue NL Disable confirmation when choosing 1 card",
 		"Fast Mode",
