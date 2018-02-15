@@ -734,7 +734,7 @@
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "À la fin de votre tour, votre main n'est plus défaussée. NL Piochez #b",
-      " carte en moins à chaque tour."
+      " cartes en moins à chaque tour."
     ]
   },
   "Self Forming Clay": {
@@ -965,7 +965,7 @@
     "FLAVOR": "Avec ce petit torii, vous sentez la quiétude et la sérénité envahir votre esprit.",
     "DESCRIPTIONS": [
       "Lorsque vous êtes sur le point de subir #b",
-      " dégâts ou moins suite à des #yAttaques non bloqués, réduisez-les à #b1."
+      " dégâts ou moins suite à des #yAttaques non bloquées, réduisez-les à #b1."
     ]
   },
   "Tough Bandages": {
