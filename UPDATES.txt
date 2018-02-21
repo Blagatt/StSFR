@@ -1,5 +1,14 @@
 Updates for Translators!
 
+2/21/2018:
+ui.json
+    "MenuPanels"
+run_mods.json (many many changes)
+credits.json
+    "LOC_FRA"
+
+----------------------------------
+
 2/19/2018:
 relics.json
 	"Sozu"
