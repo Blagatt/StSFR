@@ -4,20 +4,20 @@
 		"DESCRIPTION": "A chaque fois que vous battez un boss, devenez Maudit."
 	},
 	"Double Elites": {
-		"NAME": "Elites Doublés",
-		"DESCRIPTION": "Double le nombre d'Elites rencontrés."
+		"NAME": "Elites DoublÃ©s",
+		"DESCRIPTION": "Double le nombre d'Elites rencontrÃ©s."
 	},
 	"Fat Deck": {
 		"NAME": "Deck Epais",
-		"DESCRIPTION": "Vous ne pouvez pas passez les récompenses."
+		"DESCRIPTION": "Vous ne pouvez pas passez les rÃ©compenses."
 	},
 	"Growing Enemies": {
 		"NAME": "Ennemis Grandissants",
-		"DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
+		"DESCRIPTION": "Les ennemis deviennent plus forts Ã  chaque tour."
 	},
 	"Heirloom": {
-		"NAME": "Héritage",
-		"DESCRIPTION": "Commencez avec une relique aléatoire."
+		"NAME": "HÃ©ritage",
+		"DESCRIPTION": "Commencez avec une relique alÃ©atoire."
 	},
 	"Lethal Enemies": {
 		"NAME": "Ennemis Mortels",
@@ -32,8 +32,8 @@
 		"DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
 	},
 	"Slow Start": {
-		"NAME": "Départ Tardif",
-		"DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
+		"NAME": "DÃ©part Tardif",
+		"DESCRIPTION": "Commencez avec une carte Frappe et une carte DÃ©fense en plus."
 	},
 	"Tough Enemies": {
 		"NAME": "Ennemis Coriaces",
@@ -41,10 +41,10 @@
 	},
 	"Turtle": {
 		"NAME": "Tortue",
-		"DESCRIPTION": "Commencez avec une carte Frappe en moins et une carte Défense en plus."
+		"DESCRIPTION": "Commencez avec une carte Frappe en moins et une carte DÃ©fense en plus."
 	},
 	"Vintage": {
 		"NAME": "Vintage",
-		"DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+		"DESCRIPTION": "Les prix du Marchand sont augmentÃ©s de 25%."
 	}
 }
