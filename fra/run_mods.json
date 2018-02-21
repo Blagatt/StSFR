@@ -1,50 +1,50 @@
 {
-  "Fat Deck": {
-    "NAME": "Fat Deck",
-    "DESCRIPTION": "You cannot skip choosing card rewards."
-  },
-  "Cursed Run": {
-    "NAME": "Cursed Run",
-    "DESCRIPTION": "Whenever you defeat a Boss, become Cursed."
-  },
-  "Growing Enemies": {
-    "NAME": "Growing Enemies",
-    "DESCRIPTION": "Enemies get stronger each turn."
-  },
-  "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "The Merchant's prices are increased by 25%."
-  },
-  "Restless Journey": {
-    "NAME": "Restless Journey",
-    "DESCRIPTION": "You no longer heal when entering new levels."
-  },
-  "Heirloom": {
-    "NAME": "Heirloom",
-    "DESCRIPTION": "Start with 1 random relic."
-  },
-  "Slow Start": {
-    "NAME": "Slow Start",
-    "DESCRIPTION": "Start with 1 additional Strike and Defend."
-  },
-  "Night Terrors": {
-    "NAME": "Night Terrors",
-    "DESCRIPTION": "Resting at campfires heal 20% of your HP, rather than 30%."
-  },
-  "Lethal Enemies": {
-    "NAME": "Lethal Enemies",
-    "DESCRIPTION": "All enemies start with +3 Strength."
-  },
-  "Turtle": {
-    "NAME": "Turtle",
-    "DESCRIPTION": "Start with 1 less Strike and 1 additional Defend."
-  },
-  "Tough Enemies": {
-    "NAME": "Tough Enemies",
-    "DESCRIPTION": "Enemies have 25% more HP."
-  },
-  "Double Elites": {
-    "NAME": "Double Elites",
-    "DESCRIPTION": "Double the amount of elite encounters."
-  }
+	"Cursed Run": {
+		"NAME": "Course Maudite",
+		"DESCRIPTION": "A chaque fois que vous battez un boss, devenez Maudit."
+	},
+	"Double Elites": {
+		"NAME": "Elites Doublés",
+		"DESCRIPTION": "Double le nombre d'Elites rencontrés."
+	},
+	"Fat Deck": {
+		"NAME": "Deck Epais",
+		"DESCRIPTION": "Vous ne pouvez pas passez le fait de recevoir une carte en récompense."
+	},
+	"Growing Enemies": {
+		"NAME": "Ennemis Grandissants",
+		"DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
+	},
+	"Heirloom": {
+		"NAME": "Héritage",
+		"DESCRIPTION": "Commencez avec une relique aléatoire."
+	},
+	"Lethal Enemies": {
+		"NAME": "Ennemis Mortels",
+		"DESCRIPTION": "Tous les ennemis commencent avec +3 en Force."
+	},
+	"Night Terrors": {
+		"NAME": "Terreurs Nocturnes",
+		"DESCRIPTION": "Se soigner aux feux de camps soignent 20% de vos PV, au lieu de 30%."
+	},
+	"Restless Journey": {
+		"NAME": "Voyage Epuisant",
+		"DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
+	},
+	"Slow Start": {
+		"NAME": "Départ Tardif",
+		"DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
+	},
+	"Tough Enemies": {
+		"NAME": "Ennemis Coriaces",
+		"DESCRIPTION": "Les ennemis ont 25% de PV en plus."
+	},
+	"Turtle": {
+		"NAME": "Tortue",
+		"DESCRIPTION": "Commencez avec une carte Frappe en moins et une carte Défense en plus."
+	},
+	"Vintage": {
+		"NAME": "Vintage",
+		"DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+	}
 }

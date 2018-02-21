@@ -850,7 +850,7 @@
       "Les ennemis normaux font plus de dégâts.",
       "Les Élites font plus de dégâts.",
       "Les Boss font plus de dégâts.",
-      "Vous récupérez moins de vie après avoir battu un Boss.",
+      "Vous récupérez moins de vie après avoir batttu un Boss.",
       "Commencez chaque partie blessé.",
       "Les ennemis normaux ont plus de vie.",
       "Les Élites ont plus de vie.",
@@ -912,18 +912,18 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Daily Challenge",
-      "Connecting to Time Server...",
-      "You have done today's challenge",
-      "Return",
-      "Embark",
-      "Today's character: ",
+      "Défi Journalier",
+      "Connection au Serveur...",
+      "Vous avez fait le défi d'aujourd'hui.",
+      "Retour",
+      "Démarrer",
+      "Personnage d'aujourd'hui: ",
       "dd/MM/yyyy HH:mm:ss",
-      "Time Left: ",
-      "#yFloor #yReached: NL  ",
+      "Temps restant: ",
+      "#yEtage #yAtteint: NL  ",
       " NL NL  #yDeck: NL ",
-      " NL NL  #yRelics: NL  ",
-      " NL Today's Challenge: NL TAB #yClass: NL TAB ",
+      " NL NL  #yReliques: NL  ",
+      " NL Défi d'aujourd'hui: NL TAB #yClasse: NL TAB ",
       " NL TAB #yMods: "
     ]
   }
