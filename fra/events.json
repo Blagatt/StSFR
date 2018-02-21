@@ -386,8 +386,8 @@
   "Liars Game": {
     "NAME": "Le ssserpent",
     "DESCRIPTIONS": [
-      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL \"~Oh~ ~oooh~ ~!~ ~Bonjour,~ ~bonjour~ ~!~ ~Qu'avons-nous~ ~là~ ~?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir~ ~!~ NL Êtes-vous d'accord ?\"",
-      "\"~Sssssssssssupeeer~ ~!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...~ ~!\"~",
+      "Vous pénétrez dans une salle et remarquez un grand trou dans le sol. Tandis que vous vous approchez du trou, une énorme créature serpentine en émerge. NL NL ~\"Oh~ ~oooh~ ~!~ ~Bonjour,~ ~bonjour~ ~!~ ~Qu'avons-nous~ ~là~ ~?~ Bonjour, je vais vous poser une simple question. NL Il n'est pas de vie plus satisfaisante que celle où l'on peut #y~tout~ #y~s'offrir~ ~!~ NL Êtes-vous d'accord ?\"",
+      "~\"Sssssssssssupeeer~ ~!~ NL ~Cccccela~ ~sssss'annonccccce~ ~très~ ~prometteur.~ NL ~...ssSSs...~ ~ss...~ ~sssss...~ ~!\"~",
       "Le serpent vous fixe du regard et semble extrêmement déçu.",
       "Le serpent rejette sa tête en arrière et crache un jet #yd'or dans les airs ! NL C'est à la fois impressionnant et terrifiant. NL Vous récupérez tout #yl'or, remerciez le serpent et vous remettez en route."
     ],
