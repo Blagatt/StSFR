@@ -1,5 +1,42 @@
 Updates for Translators!
 
+2/19/2018:
+relics.json
+	"Sozu"
+credits.json
+	"LOC_ITA"
+run_mods.json (New File! These are mods applied to the player for daily runs.)
+ui.json
+	"DailyScreen"
+
+----------------------------------
+
+2/16/2018:
+achievements.json (6 New Achievements)
+	"AchievementGrid"
+		"NAMES"
+		"TEXT"
+
+----------------------------------
+		
+2/15/2018:
+credits.json
+    "LOC_KOR"
+    "LOC_FRA"
+
+----------------------------------
+
+2/14/2018:
+credits.json
+	"SPECIAL"
+		"robojumper"
+ui.json
+	"OptionsPanel"
+powers.json
+	"Intangible"
+
+----------------------------------
+
 2/12/2018:
 tutorials.json
 	"Top Panel Tips"
@@ -7,12 +44,13 @@ relics.json
 	"Tiny House"
 
 ----------------------------------
-2/7/2018: 
-ui.json 
-  "CardRewardScreen" 
-  "BossRelicSelectScreen" 
- 
----------------------------------- 
+
+2/7/2018:
+ui.json
+	"CardRewardScreen"
+	"BossRelicSelectScreen"
+
+----------------------------------
 
 2/6/2018:
 credits.json
