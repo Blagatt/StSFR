@@ -37,7 +37,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Vautour",
+    "NAME": "Oizo",
     "DIALOG": [
       "@CROA@ ! NL @CROAAA@",
       ""
@@ -49,7 +49,7 @@
       "Fouet caudal",
       "Morsure"
     ],
-    "NAME": "Serpolo",
+    "NAME": "Geckobra",
     "DIALOG": [
       ""
     ]
@@ -238,7 +238,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Mange-époque",
+    "NAME": "Mange-Époque",
     "DIALOG": [
       "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
       "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ @!@"
