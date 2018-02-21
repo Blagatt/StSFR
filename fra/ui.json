@@ -920,7 +920,7 @@
       "Personnage d'aujourd'hui: ",
       "dd/MM/yyyy HH:mm:ss",
       "Temps restant: ",
-      "#yEtage #yAtteint: NL  ",
+      "#yÉtage #yAtteint: NL  ",
       " NL NL  #yDeck: NL ",
       " NL NL  #yReliques: NL  ",
       " NL Défi d'aujourd'hui: NL TAB #yClasse: NL TAB ",

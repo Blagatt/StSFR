@@ -9,7 +9,7 @@
 	},
 	"Fat Deck": {
 		"NAME": "Deck Epais",
-		"DESCRIPTION": "Vous ne pouvez pas passez le fait de recevoir une carte en récompense."
+		"DESCRIPTION": "Vous ne pouvez pas passez les récompenses."
 	},
 	"Growing Enemies": {
 		"NAME": "Ennemis Grandissants",
@@ -25,7 +25,7 @@
 	},
 	"Night Terrors": {
 		"NAME": "Terreurs Nocturnes",
-		"DESCRIPTION": "Se soigner aux feux de camps soignent 20% de vos PV, au lieu de 30%."
+		"DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
 	},
 	"Restless Journey": {
 		"NAME": "Voyage Epuisant",
