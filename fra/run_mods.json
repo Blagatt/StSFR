@@ -5,11 +5,11 @@
   },
   "Elite Swarm": {
     "NAME": "Elite Swarm",
-    "DESCRIPTION": "Elite enemies are swarming the Spire."
+    "DESCRIPTION": "La Tour est remplie d'Élites."
   },
   "Greed": {
-    "NAME": "Greed",
-    "DESCRIPTION": "You cannot skip combat rewards."
+    "NAME": "Avarice",
+    "DESCRIPTION": "Vous ne pouvez pas passez les récompenses."
   },
   "Growing Enemies": {
     "NAME": "Ennemis Grandissants",
@@ -40,16 +40,16 @@
     "DESCRIPTION": "Les ennemis ont 25% de PV en plus."
   },
   "Diverse": {
-    "NAME": "Diverse",
-    "DESCRIPTION": "Start with 2 random cards from another class."
+    "NAME": "Différent",
+    "DESCRIPTION": "Commencez avec 2 carte aléatoire d'une autre classe."
   },
   "Shiny": {
-    "NAME": "Shiny",
-    "DESCRIPTION": "Start with 1 random Rare card."
+    "NAME": "Doré !",
+    "DESCRIPTION": "Commencez avec une carte rare aléatoire."
   },
   "Allstar": {
     "NAME": "All Star",
-    "DESCRIPTION": "Start with 2 random colorless cards."
+    "DESCRIPTION": "Commencez avec 2 cartes sans couleur aléatoire."
   },
   "Vintage": {
     "NAME": "Vintage",
