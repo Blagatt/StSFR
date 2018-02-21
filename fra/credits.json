@@ -53,12 +53,19 @@
   },
   "LOC_ZHT": {
     "HEADER": "Traduction en Chinois (Traditionnel)",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_FRA": {
     "HEADER": "Traduction en Français",
     "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Barthoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Corentin \"Tchus\" Monfort"
     ]
   },
   "LOC_DEU": {
@@ -69,7 +76,10 @@
   },
   "LOC_ITA": {
     "HEADER": "Traduction en Italien",
-    "NAMES": []
+    "NAMES": [
+      "Hob",
+      "Mero Marco"
+    ]
   },
   "LOC_JPN": {
     "HEADER": "Traduction en Japonais",
@@ -94,8 +104,7 @@
   },
   "LOC_POL": {
     "HEADER": "Traduction en Polonais",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
