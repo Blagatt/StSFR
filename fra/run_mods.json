@@ -1,50 +1,58 @@
 {
-	"Cursed Run": {
-		"NAME": "Course Maudite",
-		"DESCRIPTION": "A chaque fois que vous battez un boss, devenez Maudit."
-	},
-	"Double Elites": {
-		"NAME": "Elites Doublés",
-		"DESCRIPTION": "Double le nombre d'Elites rencontrés."
-	},
-	"Fat Deck": {
-		"NAME": "Deck Epais",
-		"DESCRIPTION": "Vous ne pouvez pas passez les récompenses."
-	},
-	"Growing Enemies": {
-		"NAME": "Ennemis Grandissants",
-		"DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
-	},
-	"Heirloom": {
-		"NAME": "Héritage",
-		"DESCRIPTION": "Commencez avec une relique aléatoire."
-	},
-	"Lethal Enemies": {
-		"NAME": "Ennemis Mortels",
-		"DESCRIPTION": "Tous les ennemis commencent avec +3 en Force."
-	},
-	"Night Terrors": {
-		"NAME": "Terreurs Nocturnes",
-		"DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
-	},
-	"Restless Journey": {
-		"NAME": "Voyage Epuisant",
-		"DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
-	},
-	"Slow Start": {
-		"NAME": "Départ Tardif",
-		"DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
-	},
-	"Tough Enemies": {
-		"NAME": "Ennemis Coriaces",
-		"DESCRIPTION": "Les ennemis ont 25% de PV en plus."
-	},
-	"Turtle": {
-		"NAME": "Tortue",
-		"DESCRIPTION": "Commencez avec une carte Frappe en moins et une carte Défense en plus."
-	},
-	"Vintage": {
-		"NAME": "Vintage",
-		"DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
-	}
+  "Cursed Run": {
+    "NAME": "Course Maudite",
+    "DESCRIPTION": "A chaque fois que vous battez un boss, devenez Maudit."
+  },
+  "Elite Swarm": {
+    "NAME": "Elite Swarm",
+    "DESCRIPTION": "Elite enemies are swarming the Spire."
+  },
+  "Greed": {
+    "NAME": "Greed",
+    "DESCRIPTION": "You cannot skip combat rewards."
+  },
+  "Growing Enemies": {
+    "NAME": "Ennemis Grandissants",
+    "DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
+  },
+  "Heirloom": {
+    "NAME": "Héritage",
+    "DESCRIPTION": "Commencez avec une relique aléatoire."
+  },
+  "Lethal Enemies": {
+    "NAME": "Ennemis Mortels",
+    "DESCRIPTION": "Tous les ennemis commencent avec +3 en Force."
+  },
+  "Night Terrors": {
+    "NAME": "Terreurs Nocturnes",
+    "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
+  },
+  "Restless Journey": {
+    "NAME": "Voyage Epuisant",
+    "DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
+  },
+  "Slow Start": {
+    "NAME": "Départ Tardif",
+    "DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
+  },
+  "Tough Enemies": {
+    "NAME": "Ennemis Coriaces",
+    "DESCRIPTION": "Les ennemis ont 25% de PV en plus."
+  },
+  "Diverse": {
+    "NAME": "Diverse",
+    "DESCRIPTION": "Start with 2 random cards from another class."
+  },
+  "Shiny": {
+    "NAME": "Shiny",
+    "DESCRIPTION": "Start with 1 random Rare card."
+  },
+  "Allstar": {
+    "NAME": "All Star",
+    "DESCRIPTION": "Start with 2 random colorless cards."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+  }
 }
