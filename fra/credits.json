@@ -53,12 +53,20 @@
   },
   "LOC_ZHT": {
     "HEADER": "Traduction en Chinois (Traditionnel)",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_FRA": {
     "HEADER": "Traduction en Français",
     "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Hénip\" Barthoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
+      "Corentin \"Tchus\" Monfort"
     ]
   },
   "LOC_DEU": {
@@ -69,7 +77,11 @@
   },
   "LOC_ITA": {
     "HEADER": "Traduction en Italien",
-    "NAMES": []
+    "NAMES": [
+      "Hob",
+      "Mero Marco",
+      "Luigi Squarzina"
+    ]
   },
   "LOC_JPN": {
     "HEADER": "Traduction en Japonais",
@@ -94,17 +106,16 @@
   },
   "LOC_POL": {
     "HEADER": "Traduction en Polonais",
-    "NAMES": [
-    ]
+    "NAMES": []
   },
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
     "NAMES": [
       "Traduction et Coordination:",
       "Ivan \"Ingrett\" Khoroshunenko",
-      "Traduction et repository:",
+      "Traduction et Repository:",
       "Vladislav \"Vlad-00003\" Bolshakov",
-      "Suggestions et retours:",
+      "Suggestions et Retours:",
       "Mikhail \"Outmind\" Dyuzhev",
       "Bohdan \"DarkRosse\" Kalytiuk",
       "Sergey \"lol10801lol\" K.",

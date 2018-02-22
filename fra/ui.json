@@ -476,7 +476,7 @@
       "Rouges",
       "Vertes",
       "Bleues",
-      "Sans couleur",
+      "Incolore",
       "Malédictions",
       "Statuts",
       "Voir l'amélioration"
@@ -521,7 +521,8 @@
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
       "Paramètres",
-      "Historique des parties"
+      "Historique des parties",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
@@ -692,7 +693,12 @@
       "Espagnol",
       "Hébreux",
       "Turc",
-      "Suédois"
+      "Suédois",
+      "Norvégien",
+      "Thaï",
+      "Serbe",
+      "Ukrainien",
+      "Vietnamien"
     ]
   },
   "UnlockTextEffect": {
@@ -908,6 +914,67 @@
   "TwitchVoter": {
     "TEXT": [
       "VOTEZ: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Défi Quotidien",
+      "Connexion au Serveur...",
+      "Vous avez fini le défi du jour.",
+      "Retour",
+      "Démarrer",
+      "Personnage du jour: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Temps restant: ",
+      "#yÉtage #yAtteint : NL  ",
+      " NL NL  #yDeck : NL ",
+      " NL NL  #yReliques : NL  ",
+      " NL Défi du jour : NL #yClasse : NL ",
+      " NL #yModificateurs : ",
+      "Modificateurs : "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Jouer",
+      "",
+      "Partez à l'aventure et gravissez la Tour.",
+      "Défi Quotidien",
+      "",
+      "Un nouveau défi est disponible chaque jour.\n\nRivalisez avec les autres joueurs pour obtenir le meilleur score !",
+      "Ascension",
+      "",
+      "La Tour devient plus puissante à chaque victoire.\n\nTestez les limites de vos stratégies les plus folles.",
+      "Collection de cartes",
+      "",
+      "Consultez toutes les cartes que vous avez rencontrées dans la Tour.",
+      "Collection de Reliques",
+      "",
+      "Examinez les différents bibelots et artefacts ramassés au cours de vos parties.",
+      "Bestiaire",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Statistiques",
+      "",
+      "Consultez le progrès et les statistiques de chaque personnage.",
+      "Classements",
+      "",
+      "Comparez vos scores avec ceux de vos amis et des autres joueurs.",
+      "Historique des parties",
+      "",
+      "Revenez sur vos précédentes tentatives.",
+      "Paramètres de jeu",
+      "",
+      "Changez votre résolution et activez/désactivez des options.",
+      "Contrôles",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Crédits",
+      "",
+      "Tous les gens qui ont contribué à Slay the Spire !",
+      "Inconnu",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible."
     ]
   }
 }

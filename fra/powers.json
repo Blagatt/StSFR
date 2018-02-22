@@ -312,7 +312,7 @@
     "NAME": "Enchaîné",
     "DESCRIPTIONS": [
       "Regagne #b",
-      " #yForce à la fin du tour."
+      " de #yForce à la fin du tour."
     ]
   },
   "Gambit": {
@@ -370,7 +370,7 @@
   "Intangible": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
-      "Réduit TOUS les dégâts subis et la perte de PV à #b1. Intangible est réappliqué un tour sur deux.",
+      "Réduit TOUS les dégâts subis et la perte de PV à #b1. Intangible est réappliqué un tour sur deux."
     ]
   },
   "Inverted": {
@@ -769,6 +769,13 @@
     "NAME": "Sbire",
     "DESCRIPTIONS": [
       "Les sbires abandonnent le combat en l'absence de leur leader."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Croissance",
+    "DESCRIPTIONS": [
+      "À la fin du tour, gagne #b",
+      " de #yForce."
     ]
   }
 }
