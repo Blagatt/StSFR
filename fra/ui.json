@@ -929,8 +929,8 @@
       "#yÉtage #yAtteint : NL  ",
       " NL NL  #yDeck : NL ",
       " NL NL  #yReliques : NL  ",
-      " NL Défi du jour : NL TAB #yClasse : NL TAB ",
-      " NL TAB #yMods : ",
+      " NL Défi du jour : NL #yClasse : NL ",
+      " NL #yModificateurs : ",
       "Modificateurs : "
     ]
   },
