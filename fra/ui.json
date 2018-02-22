@@ -913,18 +913,18 @@
   },
   "DailyScreen": {
     "TEXT": [
-      "Défi Journalier",
+      "Défi Quotidien",
       "Connexion au Serveur...",
-      "Vous avez fait le défi d'aujourd'hui.",
+      "Vous avez fini le défi du jour.",
       "Retour",
       "Démarrer",
-      "Personnage d'aujourd'hui: ",
+      "Personnage du jour: ",
       "dd/MM/yyyy HH:mm:ss",
       "Temps restant: ",
       "#yÉtage #yAtteint: NL  ",
       " NL NL  #yDeck: NL ",
       " NL NL  #yReliques: NL  ",
-      " NL Défi d'aujourd'hui: NL TAB #yClasse: NL TAB ",
+      " NL Défi du jour: NL TAB #yClasse: NL TAB ",
       " NL TAB #yMods: "
     ]
   },

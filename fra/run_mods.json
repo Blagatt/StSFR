@@ -1,7 +1,7 @@
 {
   "Cursed Run": {
     "NAME": "Course Maudite",
-    "DESCRIPTION": "A chaque fois que vous battez un boss, devenez Maudit."
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit."
   },
   "Elite Swarm": {
     "NAME": "Armée d'Élites",
@@ -9,7 +9,7 @@
   },
   "Greed": {
     "NAME": "Avarice",
-    "DESCRIPTION": "Vous ne pouvez pas passez les récompenses."
+    "DESCRIPTION": "Vous ne pouvez pas passer les récompenses."
   },
   "Growing Enemies": {
     "NAME": "Ennemis Grandissants",
@@ -21,14 +21,14 @@
   },
   "Lethal Enemies": {
     "NAME": "Ennemis Mortels",
-    "DESCRIPTION": "Tous les ennemis commencent avec +3 en Force."
+    "DESCRIPTION": "Tous les ennemis commencent avec +3 de Force."
   },
   "Night Terrors": {
     "NAME": "Terreurs Nocturnes",
     "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
   },
   "Restless Journey": {
-    "NAME": "Voyage Epuisant",
+    "NAME": "Voyage Épuisant",
     "DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
   },
   "Slow Start": {
@@ -41,7 +41,7 @@
   },
   "Diverse": {
     "NAME": "Différent",
-    "DESCRIPTION": "Commencez avec 2 carte aléatoire d'une autre classe."
+    "DESCRIPTION": "Commencez avec 2 cartes aléatoires d'une autre classe."
   },
   "Shiny": {
     "NAME": "Doré !",
