@@ -926,12 +926,12 @@
       "Personnage du jour: ",
       "dd/MM/yyyy HH:mm:ss",
       "Temps restant: ",
-      "#yÉtage #yAtteint: NL  ",
-      " NL NL  #yDeck: NL ",
-      " NL NL  #yReliques: NL  ",
-      " NL Défi du jour: NL TAB #yClasse: NL TAB ",
-      " NL TAB #yMods: ",
-      "Modifiers: "
+      "#yÉtage #yAtteint : NL  ",
+      " NL NL  #yDeck : NL ",
+      " NL NL  #yReliques : NL  ",
+      " NL Défi du jour : NL TAB #yClasse : NL TAB ",
+      " NL TAB #yMods : ",
+      "Modificateurs : "
     ]
   },
   "MenuPanels": {
@@ -944,7 +944,7 @@
       "Un nouveau défi est disponible chaque jour.\n\nRivalisez avec les autres joueurs pour obtenir le meilleur score !",
       "Ascension",
       "",
-      "La Tour devient plus puissante à chaque victoire.\n\nTestez les limites de vos meilleures stratégies.",
+      "La Tour devient plus puissante à chaque victoire.\n\nTestez les limites de vos stratégies les plus folles.",
       "Collection de cartes",
       "",
       "Consultez toutes les cartes que vous avez rencontrées dans la Tour.",
@@ -953,7 +953,7 @@
       "Examinez les différents bibelots et artefacts ramassés au cours de vos parties.",
       "Bestiaire",
       "",
-      "Cette fonctionnalité n'est pas encore disponible",
+      "Cette fonctionnalité n'est pas encore disponible.",
       "Statistiques",
       "",
       "Consultez le progrès et les statistiques de chaque personnage.",
@@ -965,16 +965,16 @@
       "Revenez sur vos précédentes tentatives.",
       "Paramètres de jeu",
       "",
-      "Changez votre résolution et activez/désactivez des options",
+      "Changez votre résolution et activez/désactivez des options.",
       "Contrôles",
       "",
-      "Cette fonctionnalité n'est pas encore disponible",
+      "Cette fonctionnalité n'est pas encore disponible.",
       "Crédits",
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
       "Inconnu",
       "",
-      "Cette fonctionnalité n'est pas encore disponible"
+      "Cette fonctionnalité n'est pas encore disponible."
     ]
   }
 }
