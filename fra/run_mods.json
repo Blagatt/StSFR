@@ -41,15 +41,15 @@
   },
   "Diverse": {
     "NAME": "Différent",
-    "DESCRIPTION": "Commencez avec 2 cartes aléatoires d'une autre classe."
+    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
   },
   "Shiny": {
     "NAME": "Doré !",
-    "DESCRIPTION": "Commencez avec une carte rare aléatoire."
+    "DESCRIPTION": "Commencez avec une carte Rare."
   },
   "Allstar": {
     "NAME": "All Star",
-    "DESCRIPTION": "Commencez avec 2 cartes sans couleur aléatoire."
+    "DESCRIPTION": "Commencez avec 2 cartes incolore."
   },
   "Vintage": {
     "NAME": "Vintage",
