@@ -772,7 +772,7 @@
     ]
   },
   "GrowthPower": {
-    "NAME": "Évolution",
+    "NAME": "Croissance",
     "DESCRIPTIONS": [
       "À la fin du tour, gagne #b",
       " de #yForce."
