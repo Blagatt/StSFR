@@ -634,7 +634,7 @@
   "Transmutation": {
     "NAME": "Transmutation",
     "DESCRIPTION": "Transforme votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoute X cartes non-colorées améliorées dans votre main. NL Epuisement."
+    "UPGRADE_DESCRIPTION": "Ajoute X cartes incolores améliorées dans votre main. NL Epuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
@@ -751,7 +751,7 @@
   },
   "Jack Of All Trades": {
     "NAME": "Polyvalence",
-    "DESCRIPTION": "Ajoute une carte sans couleur aléatoire à votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoute une carte incolore aléatoire à votre main. NL Épuisement."
   },
   "Demon Form": {
     "NAME": "Forme démoniaque",
