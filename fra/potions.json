@@ -66,7 +66,7 @@
     ]
   },
   "Potion Slot": {
-    "NAME": "Emplacement de potion",
+    "NAME": "Emplacement de Potion",
     "DESCRIPTIONS": [
       "Utilisez des potions pendant un combat pour gagner des #gbonus ou #rgêner vos ennemis.",
       "Emplacement de potion"
@@ -88,7 +88,7 @@
     ]
   },
   "Swift Potion": {
-    "NAME": "Potion de célérité",
+    "NAME": "Potion de Célérité",
     "DESCRIPTIONS": [
       "",
       "Piochez #b",
