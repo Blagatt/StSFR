@@ -119,7 +119,7 @@
     "DESCRIPTION": "Impossible de piocher ce tour. Les cartes vertes coûtent 0 ce tour."
   },
   "Catalyst": {
-    "NAME": "Alchimiste",
+    "NAME": "Catalyse",
     "DESCRIPTION": "Double le Poison d'un ennemi. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Triple le Poison d'un ennemi. NL Épuisement."
   },
