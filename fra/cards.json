@@ -233,7 +233,7 @@
   "Body Slam": {
     "NAME": "Projection",
     "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuel.",
-    "UPGRADE_DESCRIPTION": " NL (Inflige !D! dégât(s))"
+    "UPGRADE_DESCRIPTION": " NL (Infligez !D! dégât(s).)"
   },
   "True Grit": {
     "NAME": "Virilité",
@@ -289,7 +289,7 @@
   },
   "Burning Pact": {
     "NAME": "Pacte brûlant",
-    "DESCRIPTION": "Épuise 1 carte. NL Piochez !M! cartes."
+    "DESCRIPTION": "Épuisez 1 carte. NL Piochez !M! cartes."
   },
   "Metallicize": {
     "NAME": "Métallisation",
@@ -302,7 +302,7 @@
   },
   "Pain": {
     "NAME": "Douleur",
-    "DESCRIPTION": "Injouable. NL Si vous l'avez en main, NL vous perdez 1 PV en jouant d'autres cartes."
+    "DESCRIPTION": "Injouable. NL Si vous l'avez en main, NL perdez 1 PV par carte jouée."
   },
   "Burst": {
     "NAME": "Déflagration",
@@ -425,7 +425,7 @@
   },
   "Finisher": {
     "NAME": "Coup de grâce",
-    "DESCRIPTION": "Infligez !D! dégât(s) par carte Attaque jouée lors du tour.",
+    "DESCRIPTION": "Infligez !D! dégât(s) par carte Attaque jouée ce tour.",
     "EXTENDED_DESCRIPTION": [
       " NL (Vous avez joué ",
       " carte Attaque.)",
