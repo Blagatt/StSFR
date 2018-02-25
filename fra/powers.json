@@ -225,9 +225,9 @@
   "Electric Field": {
     "NAME": "Champ électrique",
     "DESCRIPTIONS": [
-      "À chaque attaque, infligez #b1 dégât pour chaque #b",
+      "À chaque attaque, infligez #b1 dégâts pour chaque #b",
       " Charge.",
-      "À chaque attaque, infligez #b1 dégât pour chaque Charge."
+      "À chaque attaque, infligez #b1 dégâts pour chaque Charge."
     ]
   },
   "Energized": {
