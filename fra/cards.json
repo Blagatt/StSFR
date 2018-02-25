@@ -141,7 +141,7 @@
   },
   "Bane": {
     "NAME": "Fléau",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Si l'ennemi est Empoisonné, inflige encore !D! dégâts."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si l'ennemi est Empoisonné, infligez !D! dégâts à nouveau."
   },
   "Infernal Blade": {
     "NAME": "Lame infernale",
@@ -220,7 +220,7 @@
   },
   "Caltrops": {
     "NAME": "Chausse-trapes",
-    "DESCRIPTION": "À chaque attaque ennemie, l'ennemi reçoit !M! dégâts."
+    "DESCRIPTION": "À chaque fois qu'un ennemi vous attaque, il reçoit !M! dégâts."
   },
   "Poisoned Stab": {
     "NAME": "Poignard empoisonné",
