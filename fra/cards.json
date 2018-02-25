@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Frappe de la main",
-    "DESCRIPTION": "Injouable. NL Si cette carte est défaussée, infligez !D! dégâts à un ennemi aléatoire.",
+    "DESCRIPTION": "Injouable. NL Si cette carte est défaussée, infligez !D! dégât(s) à un ennemi aléatoire.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -71,11 +71,11 @@
   },
   "Wraith Form": {
     "NAME": "Forme spectrale",
-    "DESCRIPTION": "Quand vous jouez une carte Compétence, infligez !M! dégâts à un ennemi aléatoire."
+    "DESCRIPTION": "Quand vous jouez une carte Compétence, infligez !M! dégât(s) à un ennemi aléatoire."
   },
   "Sadistic Nature": {
     "NAME": "Sadisme",
-    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !M! dégâts."
+    "DESCRIPTION": "Quand vous appliquez un débuff à un ennemi, il subit !M! dégât(s)."
   },
   "J.A.X.": {
     "NAME": "D.O.P.E.",
@@ -212,15 +212,15 @@
   },
   "Choke": {
     "NAME": "Étranglement",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pour chaque carte jouée ce tour, infligez !M! dégâts à la cible."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pour chaque carte jouée ce tour, infligez !M! dégât(s) à la cible."
   },
   "Juggernaut": {
     "NAME": "Mastodonte",
-    "DESCRIPTION": "Quand vous gagnez de l'Armure, infligez !M! dégâts à un ennemi aléatoire."
+    "DESCRIPTION": "Quand vous gagnez de l'Armure, infligez !M! dégât(s) à un ennemi aléatoire."
   },
   "Caltrops": {
     "NAME": "Chausse-trapes",
-    "DESCRIPTION": "À chaque fois qu'un ennemi vous attaque, il reçoit !M! dégâts."
+    "DESCRIPTION": "À chaque fois qu'un ennemi vous attaque, il reçoit !M! dégât(s)."
   },
   "Poisoned Stab": {
     "NAME": "Poignard empoisonné",
@@ -269,7 +269,7 @@
   },
   "Flame Barrier": {
     "NAME": "Barrière enflammée",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Quand on vous attaque ce tour, infligez !M! dégâts. "
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Quand on vous attaque ce tour, infligez !M! dégât(s). "
   },
   "Endless Agony": {
     "NAME": "Agonie éternelle",
@@ -408,7 +408,7 @@
   },
   "Combust": {
     "NAME": "Combustion",
-    "DESCRIPTION": "À la fin du tour, perdez 1 PV et infligez !M! dégâts à TOUS les ennemis."
+    "DESCRIPTION": "À la fin du tour, perdez 1 PV et infligez !M! dégât(s) à TOUS les ennemis."
   },
   "Deep Breath": {
     "NAME": "Inspiration",
@@ -467,7 +467,7 @@
   },
   "Panache": {
     "NAME": "Panache",
-    "DESCRIPTION": "Chaque fois que vous jouez 5 cartes en un tour, infligez !M! dégâts à TOUS les ennemis."
+    "DESCRIPTION": "Chaque fois que vous jouez 5 cartes en un tour, infligez !M! dégât(s) à TOUS les ennemis."
   },
   "Fiend Fire": {
     "NAME": "Feu ennemi",
@@ -760,7 +760,7 @@
   },
   "Accuracy": {
     "NAME": "Précision",
-    "DESCRIPTION": "Les Surins infligent !M! dégâts supplémentaires."
+    "DESCRIPTION": "Les Surins infligent !M! dégât(s) supplémentaires."
   },
   "Sword Boomerang": {
     "NAME": "Épée boomerang",
