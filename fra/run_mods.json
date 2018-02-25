@@ -1,0 +1,58 @@
+{
+  "Cursed Run": {
+    "NAME": "Course Maudite",
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit."
+  },
+  "Elite Swarm": {
+    "NAME": "Armée d'Élites",
+    "DESCRIPTION": "La Tour est remplie d'Élites."
+  },
+  "Greed": {
+    "NAME": "Avarice",
+    "DESCRIPTION": "Vous ne pouvez pas passer les récompenses."
+  },
+  "Growing Enemies": {
+    "NAME": "Ennemis Grandissants",
+    "DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
+  },
+  "Heirloom": {
+    "NAME": "Héritage",
+    "DESCRIPTION": "Commencez avec une relique aléatoire."
+  },
+  "Lethal Enemies": {
+    "NAME": "Ennemis Mortels",
+    "DESCRIPTION": "Tous les ennemis commencent avec +3 de Force."
+  },
+  "Night Terrors": {
+    "NAME": "Terreurs Nocturnes",
+    "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
+  },
+  "Restless Journey": {
+    "NAME": "Voyage Épuisant",
+    "DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
+  },
+  "Slow Start": {
+    "NAME": "Départ Tardif",
+    "DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
+  },
+  "Tough Enemies": {
+    "NAME": "Ennemis Coriaces",
+    "DESCRIPTION": "Les ennemis ont 25% de PV en plus."
+  },
+  "Diverse": {
+    "NAME": "Différent",
+    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
+  },
+  "Shiny": {
+    "NAME": "Doré !",
+    "DESCRIPTION": "Commencez avec une carte Rare."
+  },
+  "Allstar": {
+    "NAME": "All Star",
+    "DESCRIPTION": "Commencez avec 2 cartes incolore."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+  }
+}

@@ -29,15 +29,16 @@
     ],
     "TEXT": [
       "~Salutations...~ NL ~je..~ ~m'appelle~ ~Neow...~",
-      "~Re...~ NL bonjour...~",
+      "~Re...~ NL ~bonjour...~",
       "~Salutations...~",
-      "~Voulez-vous~ NL ~réessayer... ?~",
+      "~Voulez-vous~ NL ~réessayer...~ ~?~",
       "~Allez~ ~jusqu'au~ ~boss...~ NL ~pour~ ~recevoir~ ~ma...~ ~bénédiction...~",
-      "~Essayez~ ~au moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
+      "~Essayez~ ~au~ ~moins...~ ~d'affronter~ NL ~le~ ~premier~ ~boss...~",
       "~J'ai~ ~pu~ ~vous~ ~ramener...~",
-      "~Faites un choix...~",
-      "~Je vous bénis...~",
-      "~Des risques...~ NL ~des récompenses...~"
+      "~Faites~ ~un~ ~choix...~",
+      "~Je~ ~vous~ ~bénis...~",
+      "~Des~ ~risques...~ NL ~des~ ~récompenses...~",
+      "~C'est~ ~l'heure~ NL ~du~ ~DÉFI...~"
     ],
     "OPTIONS": [
       "[Continuer]",
@@ -49,44 +50,44 @@
   "Neow Reward": {
     "NAMES": [],
     "TEXT": [
-      "[ #gChoisir#gune #gcarte #gà #grécupérer ]",
-      "[ #gRécupérer #gune #gcarte #grare #galéatoire ]",
-      "[ #gRetirer #gune #gcarte #gde #gvotre #gdeck ]",
-      "[ #gAméliorer #gune #gcarte ]",
-      "[ #gTransformer #gune #gcarte ]",
-      "[ #gRécupérer #g3 #gpotions ]",
-      "[ #gRecevoir #gune #gRelique #gordinaire #galéatoire ]",
+      "[ #gChoisissez #gune #gcarte #gà #grécupérer ]",
+      "[ #gRécupérez #gune #gcarte #grare #galéatoire ]",
+      "[ #gRetirez #gune #gcarte #gde #gvotre #gdeck ]",
+      "[ #gAméliorez #gune #gcarte ]",
+      "[ #gTransformez #gune #gcarte ]",
+      "[ #gRécupérez #g3 #gpotions ]",
+      "[ #gRecevez #gune #gRelique #gordinaire #galéatoire ]",
       "[ #gPV #gmax #g+",
-      "[ #gRécupérer #g",
-      " #gde #gl'or ]",
-      "#gRetirer #g2 #gcartes ]",
-      "#gObtenir #gune #gRelique #grare ]",
-      "#gObtenir #gune #gcarte #grare ]",
-      "#gGagner #g",
-      " #gde #gl'or ]",
-      "#gTransformer #g2 #gcartes ]",
+      "[ #gRécupérez #g",
+      " #gd'or ]",
+      "#gRetirez #g2 #gcartes ]",
+      "#gObtenez #gune #gRelique #grare ]",
+      "#gObtenez #gune #gcarte #grare ]",
+      "#gGagnez #g",
+      " #gd'or ]",
+      "#gTransformez #g2 #gcartes ]",
       "#gPV #gmax #g+",
-      "[ #rPerdre #r",
+      "[ #rPerdez #r",
       " #rPV #rmax. ",
-      "[ #rPerdre #rtout #rvotre #ror. ",
-      "[ #rObtenir #rune #rMalédiction. ",
-      "[ #rPerdre #r50 % #rde #rvos #rPV #ractuels. ",
-      "Choisir une carte",
-      "Sélectionner une carte à retirer",
-      "Sélectionner 2 cartes à retirer",
-      "Sélectionner une carte à transformer",
-      "Sélectionner 2 cartes à transformer",
-      "Sélectionner une carte à améliorer",
+      "[ #rPerdez #rtout #rvotre #ror. ",
+      "[ #rObtenez #rune #rMalédiction. ",
+      "[ #rPerdez #r50 #r% #rde #rvos #rPV #ractuels. ",
+      "Choisissez une carte",
+      "Sélectionnez une carte à retirer",
+      "Sélectionnez 2 cartes à retirer",
+      "Sélectionnez une carte à transformer",
+      "Sélectionnez 2 cartes à transformer",
+      "Sélectionnez une carte à améliorer",
       "[ #gLes #gennemis #gdes #gtrois #gprochains #gcombats #gcommencent #gavec #g1 #gPV ]"
     ],
     "UNIQUE_REWARDS": [
-      "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss #galéatoire ]"
+      "[ #rPerdez #rvotre #rRelique #rde #rdépart #gObtenez #gune #gRelique #gde #gboss ]"
     ]
   },
   "Merchant": {
     "NAMES": [
       "Continuer",
-      "~Bienvenue !~"
+      "~Bienvenue~ ~!~"
     ],
     "TEXT": [
       "Salut ! NL Faites un achat ! NL Achetez, achetez, achetez !",
@@ -109,7 +110,7 @@
   },
   "Shop Screen": {
     "NAMES": [
-      "~Bienvenue~ NL ~bienvenue !~",
+      "~Bienvenue~ NL ~bienvenue~ ~!~",
       "Eh non, NL il vous faut NL plus #rd'or.",
       "Hé, vous n'avez pas #rd'argent !",
       "Vous êtes à sec ?",
@@ -118,7 +119,7 @@
       "Je ne dirige pas une association caritative.",
       "~Meeeeeeerci~",
       "Encore une vente... NL oh oh oh ! NL Par ici la monnaie !",
-      "@VENDU !@",
+      "@VENDU@ !",
       "Pas de remboursement.",
       "Bonne journée à vous.",
       "Sortir",

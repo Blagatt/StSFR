@@ -27,7 +27,13 @@
       "Le Mange-époque",
       "Rubis",
       "Émeraude",
-      "Caché"
+      "Caché",
+      "Qui a besoin de Reliques ?",
+      "Top Chrono !",
+      "Ascension 0",
+      "Ascension 10",
+      "Minimaliste",
+      "Miam, un donut!"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -47,7 +53,7 @@
       "Triomphez d'un boss sans perdre un seul point de vie.",
       "Vous avez vaincu le Gardien.",
       "Vous avez vaincu l'Hexaplasme.",
-      "Vous avez vaincu le Boss visqueux.",
+      "Vous avez vaincu le Parrain Slime.",
       "Vous avez vaincu le Robot en bronze.",
       "Vous avez vaincu le Collecteur.",
       "Vous avez vaincu le Champion.",
@@ -56,7 +62,13 @@
       "Vous avez vaincu le Mange-époque.",
       "Finissez le jeu avec le Soldat de fer.",
       "Finissez le jeu avec la Silencieuse.",
-      "Les détails concernant ce succès seront révélés une fois celui-ci débloqué."
+      "Les détails concernant ce succès seront révélés une fois celui-ci débloqué.",
+      "Finissez le jeu avec une seule Relique.",
+      "Finissez le jeu en moins de 20 minutes.",
+      "Débloquez le mode Ascension.",
+      "Finissez l'Ascension de niveau 10.",
+      "Finissez le jeu avec un deck contenant 5 cartes ou moins.",
+      "Finissez Donu avec la carte Appétit."
     ]
   },
   "CharStat": {
@@ -73,8 +85,8 @@
       "Cartes déverrouillées : #y",
       "Reliques découvertes : #y",
       "Reliques déverrouillées : #y",
-      "Ascension la plus haute : #y",
-      "Ascension la plus haute (défi quotidien) : #y",
+      "Étage le plus haut : #y",
+      "Étage le plus haut (défi quotidien) : #y",
       "Victoire la plus rapide : ",
       "A vaincu ",
       ": #goui NL ",
@@ -90,7 +102,7 @@
   },
   "StatsScreen": {
     "NAMES": [
-      "#yStatistiques#ygénérales",
+      "#yStatistiques #ygénérales",
       "#ySuccès",
       "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",

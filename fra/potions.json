@@ -1,9 +1,9 @@
 {
   "Ancient Potion": {
     "NAME": "Potion Ancienne",
-      "DESCRIPTIONS": [
-        "Gagnez #b",
-        " #yArtefact."
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " #yArtefact."
     ]
   },
   "Block Potion": {
@@ -41,14 +41,14 @@
     "NAME": "Potion Explosive",
     "DESCRIPTIONS": [
       "Inflige #b",
-      " point(s) de dégâts à TOUS les ennemis."
+      " dégâts à TOUS les ennemis."
     ]
   },
   "Fire Potion": {
     "NAME": "Potion Incendiaire",
     "DESCRIPTIONS": [
       "Inflige #b",
-      " point(s) de dégâts."
+      " dégâts."
     ]
   },
   "Health Potion": {

@@ -240,8 +240,9 @@
 	"NAME": "Runic Dodecahedron",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"If your HP is full, gain ", "[R] at the start of each turn.",
-	"[G] at the start of each turn.", 
+	"If your HP is full, gain ",
+	"[R] at the start of each turn.",
+	"[G] at the start of each turn.",
 	"[B] at the start of each turn."
 	]
   },
@@ -277,28 +278,28 @@
 	"NAME": "Frozen Egg",
 	"FLAVOR": "The egg lies inert and frozen, never to hatch.",
     "DESCRIPTIONS": [
-	"Whenever you obtain a #yPower card, it is #yUpgraded."
+	"Whenever you add a #yPower card to your deck, it is #yUpgraded."
 	]
   },
   "Molten Egg 2": {
 	"NAME": "Molten Egg",
 	"FLAVOR": "The egg of a Phoenix. It glows red hot with a simmering lava.",
     "DESCRIPTIONS": [
-	"Whenever you obtain an #yAttack card, it is #yUpgraded."
+	"Whenever you add an #yAttack card to your deck, it is #yUpgraded."
 	]
   },
   "Toxic Egg 2": {
 	"NAME": "Toxic Egg",
 	"FLAVOR": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
     "DESCRIPTIONS": [
-	"Whenever you obtain a #ySkill card, it is #yUpgraded."
+	"Whenever you add a #ySkill card to your deck, it is #yUpgraded."
 	]
   },
   "Enchiridion": {
 	"NAME": "Enchiridion",
 	"FLAVOR": "The legendary journal of an ancient lich.",
     "DESCRIPTIONS": [
-	"Start each combat with a random #yPower card in your hand. It costs #b0 until the end of turn."
+	"At the start of each combat, add a random #yPower card to your hand. It costs #b0 until the end of turn."
 	]
   },
   "Eternal Feather": {
@@ -716,9 +717,9 @@
 	"NAME": "Runic Cube",
 	"FLAVOR": "The runes are indecipherable.",
     "DESCRIPTIONS": [
-	"Max HP is lowered by #b", 
-	"%. Whenever you lose HP, draw #b",
-	" card."
+	"Whenever you lose HP, draw #b",
+	" card.",
+	""
 	]
   },
   "Runic Dome": {
@@ -767,7 +768,7 @@
 	"NAME": "Singing Bowl",
 	"FLAVOR": "This well-used artifact rings out with a beautiful melody when struck.",
     "DESCRIPTIONS": [
-	"Card rewards can be converted to #b+2 Max HP."
+	"When adding cards to your deck, you may gain #b+2 Max HP instead."
 	]
   },
   "Smiling Mask": {
@@ -805,7 +806,7 @@
 	"NAME": "Sozu",
 	"FLAVOR": "You notice that magical liquids seem to lose their properties when near this relic.",
     "DESCRIPTIONS": [
-	" You can no longer use potions. ",
+	" You can no longer obtain potions. ",
 	"Gain [R] at the start of each turn.", 
 	"Gain [G] at the start of each turn.",
 	"Gain [B] at the start of each turn."
@@ -973,7 +974,7 @@
     "DESCRIPTIONS": [
 	"Obtain #b1 potion. NL Gain #b",
 	" #yGold. NL Raise your Max HP by #b", 
-	". NL Obtain #b1 card.",
+	". NL Obtain #b1 card. NL Upgrade #b1 random card.",
 	"Tiny House!"
 	]
   },
@@ -1025,7 +1026,7 @@
   },
   "Vajra": {
 	"NAME": "Vajra",
-	"FLAVOR": "A ornamental relic given to warriors displaying glory in battle.",
+	"FLAVOR": "An ornamental relic given to warriors displaying glory in battle.",
     "DESCRIPTIONS": [
 	"At the start of each combat, gain #b", 
 	" #yStrength."

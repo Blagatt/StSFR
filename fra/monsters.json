@@ -1,8 +1,7 @@
 {
   "Apology Slime": {
-    "MOVES": [
-    ],
-    "NAME": "Visqueux désolé",
+    "MOVES": [],
+    "NAME": "Slime désolé",
     "DIALOG": [
       ""
     ]
@@ -40,7 +39,7 @@
     ],
     "NAME": "Vautour",
     "DIALOG": [
-      "@CROA !@ NL @CROAAA@",
+      "@CROA@ ! NL @CROAAA@",
       ""
     ]
   },
@@ -62,10 +61,10 @@
     ],
     "NAME": "Diablotin sorcier",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "Chargement !",
-      "~Ça~ ~vient !!~",
-      "@J'ai...@ @besoin...@ NL @d'aide... !@",
+      "~Ça~ ~vient~ ~!!~",
+      "@J'ai...@ @besoin...@ NL @d'aide...@ !",
       "~Trop...~ NL ~dangereux...~ NL ~adieu...~"
     ]
   },
@@ -116,8 +115,8 @@
     ],
     "NAME": "Diablotin fou",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide !@",
+      "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
+      "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ @!@",
       "Je me tire !"
     ]
   },
@@ -127,9 +126,9 @@
     ],
     "NAME": "Diablotin sournois",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
-      "@Je vais@ @chercher@ NL @de@ @l'aide !@ ",
-      "@Comment ?!@"
+      "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
+      "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ @!@",
+      "@Comment@ @?!@"
     ]
   },
   "Cultist": {
@@ -140,8 +139,8 @@
     ],
     "NAME": "Adepte",
     "DIALOG": [
-      "@MA@ @PUISSANCE@ @EST@ NL @EXTRAORDINAIRE !@",
-      "@VOUS@ @N'AVEZ@ @RIEN@ NL @À@ @FAIRE@ @ICI !@",
+      "@MA@ @PUISSANCE@ @EST@ NL @EXTRAORDINAIRE@ @!@",
+      "@VOUS@ @N'AVEZ@ @RIEN@ NL @À@ @FAIRE@ @ICI@ @!@",
       "~Ma~ ~puissance~ NL ~est~ ~ordinaire...~"
     ]
   },
@@ -163,8 +162,8 @@
       "N'abandonnez pas !",
       "Ce n'est pas fini !",
       "En avant !",
-      "@Repli@ NL @repliiiii !@",
-      "@Courreeeeeez !@"
+      "@Repli@ NL @repliiiii@ @!@",
+      "@Courreeeeeez@ @!@"
     ]
   },
   "Centurion": {
@@ -185,7 +184,7 @@
       "~C'est~ ~l'heure~",
       "~Au~ ~revoir~",
       "~Tic~ ~tac~ NL ~Tic~ ~tac~",
-      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là ?~"
+      "~Pourquoi~ ~êtes-vous~ NL ~toujours~ ~là~ ~?~"
     ]
   },
   "BanditBear": {
@@ -212,14 +211,14 @@
     "MOVES": [
       "Léchouille"
     ],
-    "NAME": "Visqueux épineux (M)",
+    "NAME": "Slime épineux (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux épineux (P)",
+    "NAME": "Slime épineux (P)",
     "DIALOG": [
       ""
     ]
@@ -231,7 +230,7 @@
     ],
     "NAME": "Pickpocket",
     "DIALOG": [
-      "Allez, le pognon !",
+      "File ton pognon !",
       "Je me tire !"
     ]
   },
@@ -241,8 +240,8 @@
     ],
     "NAME": "Mange-époque",
     "DIALOG": [
-      "~Ah...~ NL ~de la compagnie...~",
-      "~Quelle imprudence...~ NL @QUELLE IMPRUDENCE !@"
+      "~Ah...~ NL ~de~ ~la~ ~compagnie...~",
+      "~Quelle~ ~imprudence...~ NL @QUELLE@ @IMPRUDENCE@ @!@"
     ]
   },
   "TheCollector": {
@@ -251,7 +250,7 @@
     ],
     "NAME": "Le Collectionneur",
     "DIALOG": [
-      "@Vous@ @êtes@ @à@ @moi !@"
+      "@Vous@ @êtes@ @à@ @moi@ @!@"
     ]
   },
   "TorchHead": {
@@ -268,14 +267,14 @@
       "Crachat acide",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (M)",
+    "NAME": "Slime acide (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Visqueux acide (P)",
+    "NAME": "Slime acide (P)",
     "DIALOG": [
       ""
     ]
@@ -299,10 +298,10 @@
     "DIALOG": [
       "Vous appelez ça une arme ?",
       "Approchez !",
-      "Faites de votre mieux ! NL @HA HA HA !@",
+      "Montrez-moi ce dont vous êtes capable ! NL @HA@ @HA@ @HA@ @!@",
       "Je vous laisse une chance ! NL Vermine inutile !",
       "~Vous~ ~avez~ ~réussi...~",
-      "@UNE DÉFAITE ?@ NL @IMPOSSIBLE !!@",
+      "@UNE@ @DÉFAITE@ @?@ NL @IMPOSSIBLE@ @!!@",
       "~MOUREZ~ ~.~ ~.~ ~.~",
       "AFFRONTEZ MA COLÈRE !"
     ]
@@ -360,8 +359,8 @@
     "NAME": "Brigand",
     "DIALOG": [
       "Donnez-moi votre or !",
-      "@NOOOoooon !@",
-      "Où est ma bombe de fumée... ? Voyons...",
+      "@NOOOoooon@ @!@",
+      "Où est mon fumigène... ? Voyons...",
       "Merci pour le flouze, hé hé."
     ]
   },
@@ -464,9 +463,9 @@
       "Séparation",
       "Bombe visqueuse"
     ],
-    "NAME": "Boss visqueux",
+    "NAME": "Parrain Slime",
     "DIALOG": [
-      "~Visqueux...~ NL #r~ÉCRASE !!!~",
+      "~Écraser...~ NL #r~ÉCRASER~ ~!!!~",
       ""
     ]
   },
@@ -476,7 +475,7 @@
       "Séparation",
       "Léchouille"
     ],
-    "NAME": "Visqueux acide (G)",
+    "NAME": "Slime acide (G)",
     "DIALOG": [
       ""
     ]
@@ -488,7 +487,7 @@
     ],
     "NAME": "Diablotin à bouclier",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@ ",
+      "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "~Au~ ~revoir...~",
       "C'est inutile..."
     ]
@@ -537,7 +536,7 @@
     "MOVES": [
       "RAYON LASER"
     ],
-    "NAME": "Robot en bronze",
+    "NAME": "Automate de bronze",
     "DIALOG": [
       ""
     ]
@@ -557,9 +556,9 @@
     ],
     "NAME": "Gros diablotin",
     "DIALOG": [
-      "@Les@ @voilà !@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron !@",
+      "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "Je vais chercher #ggrand #rfrère !",
-      "@Oh@ @non,@ NL @oh@ @non,@ NL @OH@ @NON !@"
+      "@Oh@ @non,@ NL @oh@ @non,@ NL @OH@ @NON@ @!@"
     ]
   },
   "Deca": {
@@ -598,7 +597,7 @@
       "Léchouille",
       "Séparation"
     ],
-    "NAME": "Visqueux épineux (G)",
+    "NAME": "Slime épineux (G)",
     "DIALOG": [
       ""
     ]
@@ -627,7 +626,7 @@
     ],
     "NAME": "Être sombre",
     "DIALOG": [
-      "Nouvelle croissance..."
+      "Résurrection..."
     ]
   },
   "Maw": {
@@ -636,7 +635,7 @@
     ],
     "NAME": "La gueule",
     "DIALOG": [
-      "@RRrrohrrRGHhh !!@"
+      "@RRrrohrrRGHhh@ @!!@"
     ]
   },
   "GremlinNob": {
@@ -646,7 +645,7 @@
     ],
     "NAME": "Diablotin bourgeois",
     "DIALOG": [
-      "@RRrroohrrRGHHhhh !!@"
+      "@RRrroohrrRGHHhhh@ @!!@"
     ]
   }
 }

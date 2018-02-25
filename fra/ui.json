@@ -67,7 +67,7 @@
   },
   "Legend": {
     "TEXT": [
-      "Inconnue",
+      "Inconnu",
       "???",
       "Une salle inconnue. NL NL Vous pourriez y trouver des monstres, des trésors, des boutiques et bien plus encore.",
       "Marchand",
@@ -142,7 +142,7 @@
       "Boire",
       "Défausser",
       "Je ne peux pas utiliser de potions !",
-      "Je ne peux pas le faire pendant le combat !"
+      "Je ne peux pas faire ça en combat !"
     ]
   },
   "RenamePanel": {
@@ -192,13 +192,13 @@
   "SingleViewRelicPopup": {
     "TEXT": [
       "Boss",
-      "Ordinaire",
+      "Commune",
       "Sans valeur",
       "Rare",
       "Boutique",
       "Événement",
-      "Classique",
-      "Inhabituelle",
+      "Basique",
+      "Peu commune",
       "Verrouillée",
       "Inconnue",
       " Relique",
@@ -218,7 +218,7 @@
       "Statut",
       "Munitions",
       "Je ne peux jouer des cartes que lors de mon tour.",
-      "Je suis #rEnchevêtré! NL Je ne peux jouer des Attaques.",
+      "Je suis #rEnchevêtré ! NL Je ne peux pas jouer d'Attaque.",
       "Pas assez #rd'Énergie.",
       "Pas assez de #rCharge.",
       "Je ne peux pas jouer NL cette carte."
@@ -291,7 +291,7 @@
       "Continuer",
       "Victoire ?",
       "Étages terminés",
-      "Boss terrassés",
+      "Boss tués",
       "Temps de jeu",
       "Temps de jeu",
       "Score",
@@ -337,9 +337,9 @@
       "Bonus de PV"
     ],
     "EXTRA_TEXT": [
-      "Élites de l'Exorde Tuées",
-      "Élites de la Ville Tuées",
-      "Élites de l'Au-Delà Tuées",
+      "Élites de l'Exorde Tués",
+      "Élites de la Ville Tués",
+      "Élites de l'Au-Delà Tués",
       "Bolide",
       "Vitesse de la Lumière",
       "Montagnard",
@@ -387,6 +387,8 @@
       "Passer",
       "Choisissez une Carte",
       "+2 PV Max",
+      "VOTEZ: ",
+      "s restantes."
     ]
   },
   "BossRelicSelectScreen": {
@@ -394,7 +396,9 @@
       "Confirmer",
       "Confirmer votre sélection",
       "Choisir une Relique",
-      "Passer"
+      "Passer",
+      "VOTEZ: ",
+      "s restantes."
     ]
   },
   "GridCardSelectScreen": {
@@ -442,14 +446,14 @@
       "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
       "Son",
       "Volume principal NL Volume musique NL Volume effets",
-      "Sons en arrière-plan",
+      "Sons d'Ambiance NL Désactiver lorsque le jeu est en arrière-plan",
       "Préférences",
       "Afficher le résumé des dégâts en doré NL Afficher les dégâts bloqués en bleu NL Désactiver la confirmation lors du choix d'1 carte",
-      "Astuces générales NL Astuces de carte",
-      "Astuces de pouvoir NL Astuces de Relique",
+      "Mode Rapide",
+      "",
       "Divers",
       "#rLangue :",
-      "Charger les données de jeu #b(?)",
+      "Envoyer des statistiques aux développeurs #b(?)",
       "Quitter le jeu",
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
@@ -472,7 +476,7 @@
       "Rouges",
       "Vertes",
       "Bleues",
-      "Sans couleur",
+      "Incolore",
       "Malédictions",
       "Statuts",
       "Voir l'amélioration"
@@ -504,7 +508,7 @@
   },
   "MenuButton": {
     "TEXT": [
-      "Bibliothèque de cartes",
+      "Collection de cartes",
       "Jouer",
       "Défi quotidien",
       "Collection de Reliques",
@@ -513,17 +517,18 @@
       "Statistiques",
       "Générique",
       "Quitter",
-      "Remarques de mise à jour",
+      "Notes de mise à jour",
       "Abandonner la partie",
       "Abandonner la partie (cliquez à nouveau pour confirmer)",
       "Paramètres",
-      "Historique des Tentatives"
+      "Historique des parties",
+      "Compendium"
     ]
   },
   "PatchNotesScreen": {
     "TEXT": [
       "Retour",
-      "#yRemarques de #ymise à jour",
+      "#yNotes #yde #ymise #yà #yjour",
       " NL (TEMPORAIRE : utilisez les flèches pour accéder aux historiques précédents)"
     ]
   },
@@ -568,20 +573,20 @@
       "La Silencieuse",
       "Corbot",
       "Retour",
-      "Mode Ascension (Niveau ",
-      ")",
+      "Ascension",
+      "Niveau ",
       "Mode Ascension",
-      "EXPÉRIMENTAL: Les tentatives deviennent plus difficiles à chaque victoire... (n'affecte pas les victoires successives)"
+      "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)"
     ]
   },
   "AbstractMonster": {
     "TEXT": [
       "Agressif",
       "Cet ennemi compte NL #yattaquer pour #b",
-      " points de dégâts #b",
+      " dégâts #b",
       " fois.",
       "Cet ennemi compte NL #yattaquer pour #b",
-      " point(s) de dégâts.",
+      " dégâts.",
       "Agressif",
       "Cet ennemi compte se #ybuffer et #yattaquer #b",
       " fois.",
@@ -646,7 +651,7 @@
   },
   "RestartForChangesEffect": {
     "TEXT": [
-      "Redémarrer le jeu pour que les changements à l'affichage prennent effet."
+      "Redémarrez le jeu pour que les changements d'affichage prennent effet."
     ]
   },
   "PutOnDeckAction": {
@@ -685,8 +690,15 @@
       "Coréen",
       "Polonais",
       "Russe",
-      "Espagnole",
-      "Hébreux"
+      "Espagnol",
+      "Hébreux",
+      "Turc",
+      "Suédois",
+      "Norvégien",
+      "Thaï",
+      "Serbe",
+      "Ukrainien",
+      "Vietnamien"
     ]
   },
   "UnlockTextEffect": {
@@ -789,7 +801,7 @@
       "Récupération des Données...",
       "Classements",
       "Pas Connecté à Steam",
-      "Aucune Score Disponible \n Go Slay the Spire !"
+      "Aucun Score Disponible \n Allez vaincre la Tour !"
     ]
   },
   "ExhumeAction": {
@@ -825,7 +837,7 @@
   },
   "AscensionTextEffect": {
     "TEXT": [
-      "Ascension Mode Niveau ",
+      "Mode Ascension Niveau ",
       " Déverrouillé !"
     ]
   },
@@ -840,16 +852,21 @@
   },
   "AscensionModeDescriptions": {
     "TEXT": [
-      "1. Les Élites apparaissent plus souvent.",
-      "2. Les ennemis normaux sont mortels.",
-      "3. Les Élites sont mortels.",
-      "4. Les Bosses sont mortels.",
-      "5. Vous vous soignez moins après un combats contre un Boss.",
-      "6. Commencez chaque tentative blessé.",
-      "7. Les ennemis normaux sont encore plus fort.",
-      "8. Les Élites sont encore plus fort.",
-      "9. Les Bosses sont encore plus fort.",
-      "10. Parasite !"
+      "Les Élites sont plus fréquents.",
+      "Les ennemis normaux font plus de dégâts.",
+      "Les Élites font plus de dégâts.",
+      "Les Boss font plus de dégâts.",
+      "Vous récupérez moins de vie après avoir battu un Boss.",
+      "Commencez chaque partie blessé.",
+      "Les ennemis normaux ont plus de vie.",
+      "Les Élites ont plus de vie.",
+      "Les Boss ont plus de vie.",
+      "Parasite !",
+      "Les potions sont moins efficaces.",
+      "Les cartes améliorées apparaissent moins souvent.",
+      "Les boss sont pauvres.",
+      "Commencez avec moins de PV max.",
+      "(Niveau Max) Les Évenements sont moins favorables."
     ]
   },
   "RunHistoryScreen": {
@@ -858,19 +875,106 @@
       "La Silencieuse",
       "",
       "Retour",
-      "Pas d'historique de tentatives trouvé. NL Go Slay the Spire!",
+      "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
-      "Vaincus à l'Étage ",
-      " par ",
+      "Vaincus à l'Étage %1$d par %2$s",
+      "Tentative abandonnée à l'Étage %d",
       "Victoire !",
       "Cartes",
-      "Reliques"
+      "Reliques",
+      "Basique",
+      "Commune",
+      "Peu commune",
+      "Rare",
+      "Spéciale",
+      "Malédiction",
+      "Boss",
+      "Boutique",
+      "Inconnue",
+      "%1$d %2$s",
+      "%1$s (%2$d):",
+      "Score: %d",
+      "Tous les personnages",
+      "Victoires et défaites",
+      "Victoires",
+      "Défaites"
     ]
   },
   "DeathScreenUi": {
     "TEXT": [
       "Mode Ascension Niveau ",
       " Déverrouillé !"
+    ]
+  },
+  "CreditsScreen": {
+    "TEXT": [
+      "Cliquez à nouveau pour revenir à l'écran titre"
+    ]
+  },
+  "TwitchVoter": {
+    "TEXT": [
+      "VOTEZ: "
+    ]
+  },
+  "DailyScreen": {
+    "TEXT": [
+      "Défi Quotidien",
+      "Connexion au Serveur...",
+      "Vous avez fini le défi du jour.",
+      "Retour",
+      "Démarrer",
+      "Personnage du jour: ",
+      "dd/MM/yyyy HH:mm:ss",
+      "Temps restant: ",
+      "#yÉtage #yAtteint : NL  ",
+      " NL NL  #yDeck : NL ",
+      " NL NL  #yReliques : NL  ",
+      " NL Défi du jour : NL #yClasse : NL ",
+      " NL #yModificateurs : ",
+      "Modificateurs : "
+    ]
+  },
+  "MenuPanels": {
+    "TEXT": [
+      "Jouer",
+      "",
+      "Partez à l'aventure et gravissez la Tour.",
+      "Défi Quotidien",
+      "",
+      "Un nouveau défi est disponible chaque jour.\n\nRivalisez avec les autres joueurs pour obtenir le meilleur score !",
+      "Ascension",
+      "",
+      "La Tour devient plus puissante à chaque victoire.\n\nTestez les limites de vos stratégies les plus folles.",
+      "Collection de cartes",
+      "",
+      "Consultez toutes les cartes que vous avez rencontrées dans la Tour.",
+      "Collection de Reliques",
+      "",
+      "Examinez les différents bibelots et artefacts ramassés au cours de vos parties.",
+      "Bestiaire",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Statistiques",
+      "",
+      "Consultez le progrès et les statistiques de chaque personnage.",
+      "Classements",
+      "",
+      "Comparez vos scores avec ceux de vos amis et des autres joueurs.",
+      "Historique des parties",
+      "",
+      "Revenez sur vos précédentes tentatives.",
+      "Paramètres de jeu",
+      "",
+      "Changez votre résolution et activez/désactivez des options.",
+      "Contrôles",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible.",
+      "Crédits",
+      "",
+      "Tous les gens qui ont contribué à Slay the Spire !",
+      "Inconnu",
+      "",
+      "Cette fonctionnalité n'est pas encore disponible."
     ]
   }
 }
