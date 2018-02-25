@@ -1,10 +1,10 @@
 {
   "AchievementGrid": {
     "NAMES": [
-      "Même pas mal",
+      "Même pas Mal",
       "Pureté",
       "Ramène-toi !",
-      "Le pacte",
+      "Le Pacte",
       "Adrénaline",
       "Puissance",
       "Dopé",
@@ -14,7 +14,7 @@
       "Peste",
       "Ninja",
       "Infini",
-      "Trop facile",
+      "Trop Facile",
       "Perfection",
       "Le Gardien",
       "Le Fantôme",
@@ -33,7 +33,7 @@
       "Ascension 0",
       "Ascension 10",
       "Minimaliste",
-      "Miam, un donut!"
+      "Miam, un Donut!"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -54,13 +54,13 @@
       "Vous avez vaincu le Gardien.",
       "Vous avez vaincu l'Hexaplasme.",
       "Vous avez vaincu le Parrain Slime.",
-      "Vous avez vaincu le Robot en bronze.",
+      "Vous avez vaincu le Robot de Bronze.",
       "Vous avez vaincu le Collecteur.",
       "Vous avez vaincu le Champion.",
       "Vous avez vaincu l'Éveillé.",
       "Vous avez vaincu Donu & Déca.",
       "Vous avez vaincu le Mange-époque.",
-      "Finissez le jeu avec le Soldat de fer.",
+      "Finissez le jeu avec le Soldat de Fer.",
       "Finissez le jeu avec la Silencieuse.",
       "Les détails concernant ce succès seront révélés une fois celui-ci débloqué.",
       "Finissez le jeu avec une seule Relique.",
@@ -104,7 +104,7 @@
     "NAMES": [
       "#yStatistiques #ygénérales",
       "#ySuccès",
-      "#rLe #rSoldat #rde #rfer",
+      "#rLe #rSoldat #rde #rFer",
       "#gLa #gSilencieuse",
       "#bCorbot"
     ],
