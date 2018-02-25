@@ -1,7 +1,7 @@
 {
   "Apology Slime": {
     "MOVES": [],
-    "NAME": "Slime désolé",
+    "NAME": "Slime Désolé",
     "DIALOG": [
       ""
     ]
@@ -10,7 +10,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Cœur corrompu",
+    "NAME": "Cœur Corrompu",
     "DIALOG": [
       ""
     ]
@@ -45,8 +45,8 @@
   },
   "Snecko": {
     "MOVES": [
-      "Regard déroutant",
-      "Fouet caudal",
+      "Regard Déroutant",
+      "Fouet Caudal",
       "Morsure"
     ],
     "NAME": "Serpolo",
@@ -57,9 +57,9 @@
   "GremlinWizard": {
     "MOVES": [
       "En chargement",
-      "Détonation ultime"
+      "Détonation Ultime"
     ],
-    "NAME": "Diablotin sorcier",
+    "NAME": "Diablotin Sorcier",
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "Chargement !",
@@ -88,13 +88,13 @@
   },
   "TheGuardian": {
     "MOVES": [
-      "Mode défensif",
-      "Heurt furieux",
+      "Mode Défensif",
+      "Heurt Furieux",
       "Roulade",
-      "Écrasement double",
+      "Écrasement Double",
       "Tourbillon",
       "Chargement",
-      "Canon à vapeur"
+      "Canon à Vapeur"
     ],
     "NAME": "Le Gardien",
     "DIALOG": [
@@ -113,7 +113,7 @@
     "MOVES": [
       "Griffe"
     ],
-    "NAME": "Diablotin fou",
+    "NAME": "Diablotin Fou",
     "DIALOG": [
       "@Les@ @voilà@ ! NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ @!@",
@@ -124,7 +124,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Diablotin sournois",
+    "NAME": "Diablotin Sournois",
     "DIALOG": [
       "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "@Je@ @vais@ @chercher@ NL @de@ @l'aide@ @!@",
@@ -133,8 +133,8 @@
   },
   "Cultist": {
     "MOVES": [
-      "Sombre frappe",
-      "Bénédiction tordue",
+      "Sombre Frappe",
+      "Bénédiction Tordue",
       "Incantation"
     ],
     "NAME": "Adepte",
@@ -148,7 +148,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Malabar enflammé",
+    "NAME": "Malabar Enflammé",
     "DIALOG": [
       ""
     ]
@@ -157,7 +157,7 @@
     "MOVES": [
       "Au combat !"
     ],
-    "NAME": "Diablotin en chef",
+    "NAME": "Diablotin en Chef",
     "DIALOG": [
       "N'abandonnez pas !",
       "Ce n'est pas fini !",
@@ -179,7 +179,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Tête géante",
+    "NAME": "Tête Géante",
     "DIALOG": [
       "~C'est~ ~l'heure~",
       "~Au~ ~revoir~",
@@ -211,14 +211,14 @@
     "MOVES": [
       "Léchouille"
     ],
-    "NAME": "Slime épineux (M)",
+    "NAME": "Slime Épineux (M)",
     "DIALOG": [
       ""
     ]
   },
   "SpikeSlime_S": {
     "MOVES": [],
-    "NAME": "Slime épineux (P)",
+    "NAME": "Slime Épineux (P)",
     "DIALOG": [
       ""
     ]
@@ -257,31 +257,31 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Tête de torche",
+    "NAME": "Tête de Torche",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_M": {
     "MOVES": [
-      "Crachat acide",
+      "Crachat Acide",
       "Léchouille"
     ],
-    "NAME": "Slime acide (M)",
+    "NAME": "Slime Acide (M)",
     "DIALOG": [
       ""
     ]
   },
   "AcidSlime_S": {
     "MOVES": [],
-    "NAME": "Slime acide (P)",
+    "NAME": "Slime Acide (P)",
     "DIALOG": [
       ""
     ]
   },
   "SnakePlant": {
     "MOVES": [
-      "Spores affaiblissantes"
+      "Spores Affaiblissantes"
     ],
     "NAME": "Serplante",
     "DIALOG": [
@@ -290,7 +290,7 @@
   },
   "Champ": {
     "MOVES": [
-      "Position défensive",
+      "Position Défensive",
       "Exécution",
       "Gifle"
     ],
@@ -319,7 +319,7 @@
     "MOVES": [
       "Progression"
     ],
-    "NAME": "Champi-bête",
+    "NAME": "Champi-Bête",
     "DIALOG": [
       ""
     ]
@@ -354,7 +354,7 @@
   "Looter": {
     "MOVES": [
       "Avancée",
-      "Vol à la tire"
+      "Vol à la Tire"
     ],
     "NAME": "Brigand",
     "DIALOG": [
@@ -375,7 +375,7 @@
   },
   "FuzzyLouseDefensive": {
     "MOVES": [
-      "Toile de crachat"
+      "Toile de Crachat"
     ],
     "NAME": "Poux",
     "DIALOG": [
@@ -404,7 +404,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Parasite en carapace",
+    "NAME": "Parasite en Carapace",
     "DIALOG": [
       ""
     ]
@@ -461,7 +461,7 @@
       "Écrasement",
       "Préparation",
       "Séparation",
-      "Bombe visqueuse"
+      "Bombe Visqueuse"
     ],
     "NAME": "Parrain Slime",
     "DIALOG": [
@@ -471,11 +471,11 @@
   },
   "AcidSlime_L": {
     "MOVES": [
-      "Crachat acide",
+      "Crachat Acide",
       "Séparation",
       "Léchouille"
     ],
-    "NAME": "Slime acide (G)",
+    "NAME": "Slime Acide (G)",
     "DIALOG": [
       ""
     ]
@@ -483,9 +483,9 @@
   "GremlinTsundere": {
     "MOVES": [
       "Protection",
-      "Heurt de bouclier"
+      "Heurt de Bouclier"
     ],
-    "NAME": "Diablotin à bouclier",
+    "NAME": "Diablotin à Bouclier",
     "DIALOG": [
       "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "~Au~ ~revoir...~",
@@ -494,7 +494,7 @@
   },
   "Lagavulin": {
     "MOVES": [
-      "Âme siphonneuse"
+      "Âme Siphonneuse"
     ],
     "NAME": "Lagavulin",
     "DIALOG": [
@@ -516,7 +516,7 @@
   },
   "Donu": {
     "MOVES": [
-      "Cercle de pouvoir"
+      "Cercle de Pouvoir"
     ],
     "NAME": "Donu",
     "DIALOG": [
@@ -536,7 +536,7 @@
     "MOVES": [
       "RAYON LASER"
     ],
-    "NAME": "Automate de bronze",
+    "NAME": "Automate de Bronze",
     "DIALOG": [
       ""
     ]
@@ -554,7 +554,7 @@
     "MOVES": [
       "Détruire"
     ],
-    "NAME": "Gros diablotin",
+    "NAME": "Gros Diablotin",
     "DIALOG": [
       "@Les@ @voilà@ @!@ NL @On@ @va@ @leur@ @montrer@ @qui@ @est@ @le@ @patron@ @!@",
       "Je vais chercher #ggrand #rfrère !",
@@ -574,15 +574,15 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Manuel d'assassinat",
+    "NAME": "Manuel d'Assassinat",
     "DIALOG": [
       ""
     ]
   },
   "AwakenedOne": {
     "MOVES": [
-      "Frappe d'âme",
-      "Sombre écho",
+      "Frappe d'Âme",
+      "Sombre Écho",
       "Purification",
       "Vase"
     ],
@@ -597,7 +597,7 @@
       "Léchouille",
       "Séparation"
     ],
-    "NAME": "Slime épineux (G)",
+    "NAME": "Slime Épineux (G)",
     "DIALOG": [
       ""
     ]
@@ -606,7 +606,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Orbe de feu",
+    "NAME": "Orbe de Feu",
     "DIALOG": [
       ""
     ]
@@ -615,7 +615,7 @@
     "MOVES": [
       ""
     ],
-    "NAME": "Gardien sphérique",
+    "NAME": "Gardien Sphérique",
     "DIALOG": [
       "~Intrus~ NL ~détecté~"
     ]
@@ -624,7 +624,7 @@
     "MOVES": [
       "Croque ! Croque !"
     ],
-    "NAME": "Être sombre",
+    "NAME": "Être Sombre",
     "DIALOG": [
       "Résurrection..."
     ]
@@ -633,17 +633,17 @@
     "MOVES": [
       ""
     ],
-    "NAME": "La gueule",
+    "NAME": "La Gueule",
     "DIALOG": [
       "@RRrrohrrRGHhh@ @!!@"
     ]
   },
   "GremlinNob": {
     "MOVES": [
-      "Heurt de crâne",
-      "Ruée de taureau"
+      "Heurt de Crâne",
+      "Ruée de Taureau"
     ],
-    "NAME": "Diablotin bourgeois",
+    "NAME": "Diablotin Bourgeois",
     "DIALOG": [
       "@RRrroohrrRGHHhhh@ @!!@"
     ]
