@@ -296,7 +296,7 @@
     "DESCRIPTION": "À la fin du tour, gagnez !M! d'Armure."
   },
   "Pommel Strike": {
-    "NAME": "Frappe de pommeau",
+    "NAME": "Frappe du pommeau",
     "DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! carte(s).",
     "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! carte(s)."
   },
