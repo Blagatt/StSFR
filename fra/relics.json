@@ -8,7 +8,7 @@
     ]
   },
   "Art of War": {
-    "NAME": "L'Art de la Guerre",
+    "NAME": "L'Art de la guerre",
     "FLAVOR": "Ce manuscrit antique contient la sagesse d'un temps révolu.",
     "DESCRIPTIONS": [
       "Si vous ne jouez aucune #yAttaque pendant votre tour, gagnez ",
@@ -26,7 +26,7 @@
     ]
   },
   "Bag of Marbles": {
-    "NAME": "Sac de Billes",
+    "NAME": "Sac de billes",
     "FLAVOR": "Un jeu autrefois populaire dans la ville. Les billes sont très utiles pour faire tomber les ennemis.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, appliquez #b",
@@ -34,7 +34,7 @@
     ]
   },
   "Bag of Preparation": {
-    "NAME": "Sac de Préparation",
+    "NAME": "Sac de préparation",
     "FLAVOR": "Un sac d'aventurier surdimensionné. Il présente de nombreuses poches et sangles.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, piochez #b",
@@ -42,7 +42,7 @@
     ]
   },
   "Bird Faced Urn": {
-    "NAME": "Urne à Tête d'Oiseau",
+    "NAME": "Urne à tête d'oiseau",
     "FLAVOR": "Sur cette urne est représenté le dieu corbeau Mazaleth à l'air farceur.",
     "DESCRIPTIONS": [
       "Lorsque vous jouez un #yPouvoir, récupérez #b",
@@ -50,7 +50,7 @@
     ]
   },
   "Black Blood": {
-    "NAME": "Sang Noir",
+    "NAME": "Sang noir",
     "FLAVOR": "La rage s'assombrit.",
     "DESCRIPTIONS": [
       "Remplace #rSang #rardent. À la fin du combat, récupérez #b",
@@ -58,14 +58,14 @@
     ]
   },
   "Black Star": {
-    "NAME": "Étoile Noire",
+    "NAME": "Étoile noire",
     "FLAVOR": "À l'origine, elle a été découverte dans la ville du serpent, à côté d'une unique bougie.",
     "DESCRIPTIONS": [
       "Obtenez maintenant #b2 #yReliques lorsque vous éliminez des #yÉlites."
     ]
   },
   "Blood Vial": {
-    "NAME": "Fiole de Sang",
+    "NAME": "Fiole de sang",
     "FLAVOR": "Une fiole contenant le sang d'un très vieux vampire pur.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, récupérez #b",
@@ -73,7 +73,7 @@
     ]
   },
   "Bloody Idol": {
-    "NAME": "Idole Sanglante",
+    "NAME": "Idole sanglante",
     "FLAVOR": "Un flot continu de sang s'écoule maintenant de l'idole.",
     "DESCRIPTIONS": [
       "Lorsque vous gagnez de #yl'or, récupérez #b",
@@ -81,7 +81,7 @@
     ]
   },
   "Blue Candle": {
-    "NAME": "Bougie Bleue",
+    "NAME": "Bougie bleue",
     "FLAVOR": "Sa flamme s'allume lorsque les ténèbres l'enveloppent.",
     "DESCRIPTIONS": [
       "Les cartes #yMalédiction peuvent désormais être jouées. NL NL Jouer une #yMalédiction vous fait perdre #b",
@@ -89,7 +89,7 @@
     ]
   },
   "Bottled Flame": {
-    "NAME": "Flamme Embouteillée",
+    "NAME": "Flamme embouteillée",
     "FLAVOR": "Dans cette bouteille brûle une flamme éternelle.",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, choisissez une carte Attaque. Au début de chaque combat, cette carte se trouve dans votre main.",
@@ -99,7 +99,7 @@
     ]
   },
   "Bottled Lightning": {
-    "NAME": "Foudre Embouteillée",
+    "NAME": "Foudre embouteillée",
     "FLAVOR": "En observant ce maelström tourbillonnant, vous apercevez une partie de vous-même qui vous fixe.",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, choisissez une carte Compétence. Au début de chaque combat, cette carte se trouve dans votre main.",
@@ -109,7 +109,7 @@
     ]
   },
   "Bronze Scales": {
-    "NAME": "Écailles en Bronze",
+    "NAME": "Écailles en bronze",
     "FLAVOR": "Les écailles tranchantes du Gardien. Elles s'assemblent de sorte à protéger leur utilisateur. ",
     "DESCRIPTIONS": [
       "Quand vous subissez des dégâts, infligez #b",
@@ -117,7 +117,7 @@
     ]
   },
   "Burning Blood": {
-    "NAME": "Sang Ardent",
+    "NAME": "Sang ardent",
     "FLAVOR": "Une rage éternelle brûle dans votre sang.",
     "DESCRIPTIONS": [
       "À la fin du combat, récupérez #b",
@@ -133,7 +133,7 @@
     ]
   },
   "Calling Bell": {
-    "NAME": "Cloche d'Appel",
+    "NAME": "Cloche d'appel",
     "FLAVOR": "Cette sombre cloche en fer a sonné 3 fois lorsque vous l'avez trouvée, mais elle est silencieuse depuis.",
     "DESCRIPTIONS": [
       "Obtenez #b3 #rMalédictions et #b3 #yReliques.",
@@ -151,7 +151,7 @@
     ]
   },
   "Centennial Puzzle": {
-    "NAME": "Énigme Centenaire",
+    "NAME": "Énigme centenaire",
     "FLAVOR": "Lorsque vous résolvez cette énigme, une puissante bouffée de chaleur envahit votre poitrine.",
     "DESCRIPTIONS": [
       "La première fois que vous perdez des PV lors de chaque combat, piochez #b",
@@ -159,14 +159,14 @@
     ]
   },
   "Chameleon Ring": {
-    "NAME": "Anneau de Caméléon",
+    "NAME": "Anneau de caméléon",
     "FLAVOR": "Sans valeur",
     "DESCRIPTIONS": [
       "Vous pouvez désormais #yPréparer #ydes #ypotions aux feux de camp."
     ]
   },
   "Champion Belt": {
-    "NAME": "Ceinture de Champion",
+    "NAME": "Ceinture de champion",
     "FLAVOR": "Cette ceinture ne saurait être portée que par les meilleurs.",
     "DESCRIPTIONS": [
       "Lorsque vous appliquez #yVulnérabilité, appliquez aussi #b",
@@ -174,7 +174,7 @@
     ]
   },
   "Charon's Ashes": {
-    "NAME": "Cendres de Charon",
+    "NAME": "Cendres de charon",
     "FLAVOR": "Charon était considéré comme le dieu de la résurrection, car il mourait et renaissait éternellement dans une explosion de flammes.",
     "DESCRIPTIONS": [
       "Lorsque vous #yÉpuisez une carte, infligez #b",
@@ -182,7 +182,7 @@
     ]
   },
   "Chemical X": {
-    "NAME": "Agent Chimique X",
+    "NAME": "Agent chimique X",
     "FLAVOR": "AVERTISSEMENT : ne pas mélanger avec du sucre, des épices ou tout ce qui est bon.",
     "DESCRIPTIONS": [
       "Lorsque vous jouez une carte coûtant #bX, ses effets sont augmentés de #b"
@@ -196,14 +196,14 @@
     ]
   },
   "The Courier": {
-    "NAME": "Le Coursier",
+    "NAME": "Le coursier",
     "FLAVOR": "L'animal de compagnie du Marchand !",
     "DESCRIPTIONS": [
       "Le Marchand n'est plus jamais à court de cartes, reliques ou potions."
     ]
   },
   "Cursed Key": {
-    "NAME": "Clé Maudite",
+    "NAME": "Clé maudite",
     "FLAVOR": "Vous ressentez l'énergie malveillante qui émane de cette clé. Tout pouvoir a un prix.",
     "DESCRIPTIONS": [
       " Lorsque vous ouvrez un coffre (sauf coffre de boss), recevez une #rMalédiction.",
@@ -213,21 +213,21 @@
     ]
   },
   "Dead Branch": {
-    "NAME": "Branche Morte",
+    "NAME": "Branche morte",
     "FLAVOR": "Une branche d'arbre issue d'une ère oubliée.",
     "DESCRIPTIONS": [
       "Lorsque vous #yÉpuisez une carte, ajoutez une carte aléatoire à votre main."
     ]
   },
   "Discerning Monocle": {
-    "NAME": "Monocle Clairvoyant",
+    "NAME": "Monocle clairvoyant",
     "FLAVOR": "Un monocle fort élégant.",
     "DESCRIPTIONS": [
       "Les prix du Marchand sont réduits de #b20 %."
     ]
   },
   "Dodecahedron": {
-    "NAME": "Dodécaèdre Runique",
+    "NAME": "Dodécaèdre runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "Si vous avez tous vos PV, gagnez ",
@@ -237,14 +237,14 @@
     ]
   },
   "Dream Catcher": {
-    "NAME": "Attrape-Rêves",
+    "NAME": "Attrape-rêves",
     "FLAVOR": "Les tribus du nord utilisaient souvent des attrape-rêves la nuit pour leur développement personnel.",
     "DESCRIPTIONS": [
       "Lorsque vous vous reposez, vous pouvez ajouter une carte à votre deck."
     ]
   },
   "Du-Vu Doll": {
-    "NAME": "Poupée Dou-Vau",
+    "NAME": "Poupée dou-vau",
     "FLAVOR": "Une poupée qui puise sa force dans les énergies malveillantes.",
     "DESCRIPTIONS": [
       "Pour chaque #yMalédiction dans votre deck, commencez chaque combat avec #b",
@@ -265,21 +265,21 @@
     ]
   },
   "Frozen Egg 2": {
-    "NAME": "Œuf Gelé",
+    "NAME": "Œuf gelé",
     "FLAVOR": "L'œuf est inerte et gelé, il n'éclora jamais.",
     "DESCRIPTIONS": [
       "Quand vous obtenez une carte Pouvoir, elle est #yAméliorée."
     ]
   },
   "Molten Egg 2": {
-    "NAME": "Œuf en Fusion",
+    "NAME": "Œuf en fusion",
     "FLAVOR": "L'œuf d'un Phénix. Il brille d'un rouge vif avec de la lave bouillante.",
     "DESCRIPTIONS": [
       "Quand vous obtenez une carte #yAttaque, elle est #yAméliorée."
     ]
   },
   "Toxic Egg 2": {
-    "NAME": "Œuf Toxique",
+    "NAME": "Œuf toxique",
     "FLAVOR": "\"Quelle merveilleuse découverte ! On dirait l'œuf inerte d'une créature magique. Qui ou qu'est-ce qui a créé ceci ?\" - Ranwid",
     "DESCRIPTIONS": [
       "Quand vous obtenez une carte #yCompétence, elle est #yAméliorée."
@@ -293,7 +293,7 @@
     ]
   },
   "Eternal Feather": {
-    "NAME": "Plume Éternelle",
+    "NAME": "Plume éternelle",
     "FLAVOR": "Cette plume semble être indestructible. De quel oiseau pourrait-elle bien provenir ? ",
     "DESCRIPTIONS": [
       "Pour chaque lot de #b",
@@ -302,7 +302,7 @@
     ]
   },
   "Frozen Egg": {
-    "NAME": "Œuf Gelé",
+    "NAME": "Œuf gelé",
     "FLAVOR": "Cet œuf inerte et gelé est condamné à ne jamais éclore.",
     "DESCRIPTIONS": [
       "Lorsque vous le ramassez, choisissez et #yAméliorez un #yPouvoir.",
@@ -310,7 +310,7 @@
     ]
   },
   "Frozen Eye": {
-    "NAME": "Œil Gelé",
+    "NAME": "Œil gelé",
     "FLAVOR": "SANS VALEUR",
     "DESCRIPTIONS": [
       "Vous pouvez voir votre #yPioche dans l'ordre."
@@ -338,14 +338,14 @@
     ]
   },
   "Golden Idol": {
-    "NAME": "Idole Dorée",
+    "NAME": "Idole dorée",
     "FLAVOR": "Vous vous sentez plus riche rien qu'en touchant cette idole en or massif.",
     "DESCRIPTIONS": [
       "Obtenez #b25 % #yd'or supplémentaire en éliminant vos ennemis."
     ]
   },
   "Gremlin Horn": {
-    "NAME": "Cor de Diablotin",
+    "NAME": "Cor de diablotin",
     "FLAVOR": "\"Les diablotins peuvent grandir jusqu'à leur mort. C'est remarquable.\" - Ranwid",
     "DESCRIPTIONS": [
       "Lorsqu'un ennemi meurt, gagnez ",
@@ -355,7 +355,7 @@
     ]
   },
   "Happy Flower": {
-    "NAME": "Fleur Joyeuse",
+    "NAME": "Fleur joyeuse",
     "FLAVOR": "Cette plante dont le bonheur ne tarit jamais est le nouvel objet favori des nobles.",
     "DESCRIPTIONS": [
       "Tous les #b",
@@ -365,14 +365,14 @@
     ]
   },
   "Ice Cream": {
-    "NAME": "Crème Glacée",
+    "NAME": "Crème glacée",
     "FLAVOR": "\"Délicieux !\"",
     "DESCRIPTIONS": [
       "Conservez désormais votre énergie entre chaque tour."
     ]
   },
   "Juzu Bracelet": {
-    "NAME": "Bracelet Juzu",
+    "NAME": "Bracelet juzu",
     "FLAVOR": "Il permet de repousser les inconnus.",
     "DESCRIPTIONS": [
       "Les salles #y? ne contiennent plus de monstres."
@@ -399,7 +399,7 @@
     ]
   },
   "Letter Opener": {
-    "NAME": "Coupe-Papier",
+    "NAME": "Coupe-papier",
     "FLAVOR": "Anormalement tranchant.",
     "DESCRIPTIONS": [
       "Chaque fois que vous jouez #b3 cartes Compétence en un tour, infligez #b",
@@ -407,21 +407,21 @@
     ]
   },
   "Living Blade": {
-    "NAME": "Lame Vivace",
+    "NAME": "Lame vivace",
     "FLAVOR": "SANS VALEUR",
     "DESCRIPTIONS": [
       "Vous pouvez obtenir n'importe quel nombre d'exemplaires de n'importe quelle carte."
     ]
   },
   "Lizard Tail": {
-    "NAME": "Queue de Lézard",
+    "NAME": "Queue de lézard",
     "FLAVOR": "Une fausse queue permettant de leurrer les ennemis pendant le combat.",
     "DESCRIPTIONS": [
       "Quand vous êtes sur le point de mourir, récupérez des PV pour atteindre #b50 % de vos PV max à la place (une seule fois)."
     ]
   },
   "Magic Flower": {
-    "NAME": "Fleur Magique",
+    "NAME": "Fleur magique",
     "FLAVOR": "Une fleur que beaucoup pensaient disparue, conservée en parfait état.",
     "DESCRIPTIONS": [
       "Les soins sont #b50 % plus efficaces pendant le combat."
@@ -435,7 +435,7 @@
     ]
   },
   "Mark of Pain": {
-    "NAME": "Marque de Douleur",
+    "NAME": "Marque de douleur",
     "FLAVOR": "Ce fer était utilisé par les tribus du nord pour marquer les guerriers ayant réussi à maîtriser la douleur en combat.",
     "DESCRIPTIONS": [
       "Gagnez [R] au début de chaque tour. Commencez chaque combat avec #b2 #rPlaies dans votre pioche."
@@ -451,7 +451,7 @@
     ]
   },
   "Meat on the Bone": {
-    "NAME": "Os à Viande",
+    "NAME": "Os à viande",
     "FLAVOR": "La viande ne cesse de se reformer.",
     "DESCRIPTIONS": [
       "Si vos PV sont inférieurs à #b50 % à la fin du combat, récupérez #b",
@@ -459,21 +459,21 @@
     ]
   },
   "Medical Kit": {
-    "NAME": "Trousse de Secours",
+    "NAME": "Trousse de secours",
     "FLAVOR": "\"Elle a tout ce qu'il vous faut ! Anti-démangeaison, anti-brûlure, anti-venin et plus encore !\"",
     "DESCRIPTIONS": [
       "Les cartes #yStatut peuvent désormais être jouées. Jouer une carte #yStatut vous fait #yÉpuiser cette carte."
     ]
   },
   "Membership Card": {
-    "NAME": "Carte d'Adhérent",
+    "NAME": "Carte d'adhérent",
     "FLAVOR": "\"Un abonnement bonus dédié à mes plus fidèles clients !\"",
     "DESCRIPTIONS": [
       "Aux prochains niveaux, le taux d'apparition des boutiques augmente de #b50 %. #yBONUS : Remise de #b20 % sur tous les produits !"
     ]
   },
   "Mercury Hourglass": {
-    "NAME": "Sablier de Mercure",
+    "NAME": "Sablier de mercure",
     "FLAVOR": "Un sablier enchanté qui s'écoule sans fin.",
     "DESCRIPTIONS": [
       "Au début de votre tour, infligez #b",
@@ -481,7 +481,7 @@
     ]
   },
   "Molten Egg": {
-    "NAME": "Œuf de Magma",
+    "NAME": "Œuf de magma",
     "FLAVOR": "Un œuf de phénix. Sa lave bouillonnante lui confère un éclat rougeoyant.",
     "DESCRIPTIONS": [
       "Lorsque vous le ramassez, choisissez et #yAméliorez une #yAttaque.",
@@ -489,7 +489,7 @@
     ]
   },
   "Mummified Hand": {
-    "NAME": "Main Momifiée",
+    "NAME": "Main momifiée",
     "FLAVOR": "Elle tressaute régulièrement, surtout lorsque votre pouls est élevé.",
     "DESCRIPTIONS": [
       "Lorsque vous jouez un #yPouvoir, le coût d'une carte aléatoire de votre main passe à #y0 pour le reste du tour."
@@ -512,7 +512,7 @@
     ]
   },
   "Nine Lives": {
-    "NAME": "Neuf Vies",
+    "NAME": "Neuf vies",
     "FLAVOR": "SANS VALEUR",
     "DESCRIPTIONS": [
       "Quand vous êtes sur le point de mourir, récupérez tous vos PV à la place. NL (Fonctionne #b9 fois.)",
@@ -522,7 +522,7 @@
     ]
   },
   "Ninja Scroll": {
-    "NAME": "Parchemin de Ninja",
+    "NAME": "Parchemin de ninja",
     "FLAVOR": "Contient des secrets d'assassin.",
     "DESCRIPTIONS": [
       "Commencez chaque combat avec #b",
@@ -537,14 +537,14 @@
     ]
   },
   "Nullstone Periapt": {
-    "NAME": "Amulette d'Annulation",
+    "NAME": "Amulette d'annulation",
     "FLAVOR": "SANS VALEUR",
     "DESCRIPTIONS": [
       "Annule le prochain #yDébuff infligé par un ennemi. NL Se recharge en #b10 tours."
     ]
   },
   "Oddly Smooth Stone": {
-    "NAME": "Pierre Étrangement Lisse",
+    "NAME": "Pierre étrangement lisse",
     "FLAVOR": "Vous n'avez jamais rien vu d'aussi lisse et immaculé. Ce doit être l'œuvre des Anciens.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, gagnez #b",
@@ -552,14 +552,14 @@
     ]
   },
   "Odd Mushroom": {
-    "NAME": "Champignon Étrange",
+    "NAME": "Champignon étrange",
     "FLAVOR": "\"Après avoir consommé ce trichellum parastius, je me suis senti plus imposant et moins... susceptible.\" - Ranwid ",
     "DESCRIPTIONS": [
       "Sous #yVulnérabilité, les dégâts subis augmentent de #b25 % au lieu de #b50 %."
     ]
   },
   "Old Coin": {
-    "NAME": "Vieille Pièce",
+    "NAME": "Vieille pièce",
     "FLAVOR": "Les pièces uniques sont très prisées par les marchands en raison de leur valeur historique et de leur composition rare.",
     "DESCRIPTIONS": [
       "Gagnez #b300 #yd'or."
@@ -583,7 +583,7 @@
     ]
   },
   "Ornamental Fan": {
-    "NAME": "Éventail Décoratif",
+    "NAME": "Éventail décoratif",
     "FLAVOR": "Cet éventail s'ouvre et se durcit à mesure que le sang coule.",
     "DESCRIPTIONS": [
       "Chaque fois que vous jouez #b3 #yAttaques en un tour, gagnez #b",
@@ -615,21 +615,21 @@
     ]
   },
   "Paper Crane": {
-    "NAME": "Jrue en Papier",
+    "NAME": "Jrue en papier",
     "FLAVOR": "L'origami d'une créature oubliée.",
     "DESCRIPTIONS": [
       "Les dégâts infligés par les ennemis sous #yFaiblesse sont réduits de #b50 % au lieu de #b25 %."
     ]
   },
   "Paper Frog": {
-    "NAME": "Jrenouille en Papier",
+    "NAME": "Jrenouille en papier",
     "FLAVOR": "Le papier se plie et se déplie continuellement pour prendre la forme d'une petite créature.",
     "DESCRIPTIONS": [
       "Les dégâts subis par les ennemis sous #yVulnérabilité augmentent de #b75 % au lieu de #b50 %."
     ]
   },
   "Peace Pipe": {
-    "NAME": "Calumet de la Paix",
+    "NAME": "Calumet de la paix",
     "FLAVOR": "Il désencombre l'esprit et purifie l'âme.",
     "DESCRIPTIONS": [
       "Vous pouvez désormais retirer des cartes de votre deck aux feux de camp."
@@ -643,14 +643,14 @@
     ]
   },
   "Pen Nib": {
-    "NAME": "Pointe de Stylo",
+    "NAME": "Pointe de stylo",
     "FLAVOR": "À travers la pointe, vous apercevez toutes les personnes tuées par son ancien propriétaire. Quelle violence...",
     "DESCRIPTIONS": [
       "Toutes les #b10es #yAttaques que vous jouez infligent le double de dégâts."
     ]
   },
   "Philosopher's Stone": {
-    "NAME": "Pierre Philosophale",
+    "NAME": "Pierre philosophale",
     "FLAVOR": "Une énergie pure émane de la pierre et amplifie la puissance de tous ceux qui s'en approchent.",
     "DESCRIPTIONS": [
       " TOUS les ennemis commencent avec #b2 de #yForce.",
@@ -660,28 +660,28 @@
     ]
   },
   "Prayer Wheel": {
-    "NAME": "Moulin à Prières",
+    "NAME": "Moulin à prières",
     "FLAVOR": "Son cylindre ne s'arrête jamais de tourner.",
     "DESCRIPTIONS": [
       "Les coffres qui ne proviennent pas de boss contiennent aussi des cartes."
     ]
   },
   "Question Card": {
-    "NAME": "Carte d'Interrogation",
+    "NAME": "Carte d'interrogation",
     "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Le grand Kublai",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une carte comme récompense, choisissez parmi #b4 cartes au lieu de #b3."
     ]
   },
   "Red Circlet": {
-    "NAME": "Bandeau Rouge",
+    "NAME": "Bandeau rouge",
     "FLAVOR": "Il n'y a plus de relique. Impressionnant !",
     "DESCRIPTIONS": [
       "C'est vraiment joli."
     ]
   },
   "Red Mask": {
-    "NAME": "Masque Rouge",
+    "NAME": "Masque rouge",
     "FLAVOR": "Ce masque très élégant appartient au chef des bandits aux masques rouges. Cela fait-il de vous leur chef ?",
     "DESCRIPTIONS": [
       "Au début de chaque combat, appliquez #b",
@@ -689,7 +689,7 @@
     ]
   },
   "Red Skull": {
-    "NAME": "Crâne Rouge",
+    "NAME": "Crâne rouge",
     "FLAVOR": "Un petit crâne recouvert de peintures décoratives.",
     "DESCRIPTIONS": [
       "Quand vos PV sont inférieurs à #b50 %, vous avez #b",
@@ -697,7 +697,7 @@
     ]
   },
   "Regal Pillow": {
-    "NAME": "Oreiller Royal",
+    "NAME": "Oreiller royal",
     "FLAVOR": "Vous pouvez enfin vous reposer confortablement.",
     "DESCRIPTIONS": [
       "Récupérez #b",
@@ -705,13 +705,13 @@
     ]
   },
   "Ring of the Serpent": {
-    "NAME": "Anneau du Cobra",
+    "NAME": "Anneau du cobra",
     "DESCRIPTIONS": [
       "Remplace l'#ganneau #gdu #gserpent. Quand vous tuez un ennemi #yd'Élite, augmentez vos PV max de #b"
     ]
   },
   "Runic Cube": {
-    "NAME": "Cube Runique",
+    "NAME": "Cube runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "Quand vous perdez des PV, piochez #b",
@@ -720,7 +720,7 @@
     ]
   },
   "Runic Dome": {
-    "NAME": "Dôme Runique",
+    "NAME": "Dôme runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "au début de chaque tour. Vous ne pouvez plus voir les #bIntentions des ennemis.",
@@ -730,7 +730,7 @@
     ]
   },
   "Runic Pyramid": {
-    "NAME": "Pyramide Runique",
+    "NAME": "Pyramide runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
       "À la fin de votre tour, votre main n'est plus défaussée. NL Piochez #b",
@@ -738,7 +738,7 @@
     ]
   },
   "Self Forming Clay": {
-    "NAME": "Argile Autoformante",
+    "NAME": "Argile autoformante",
     "FLAVOR": "\"Que c'est curieux ! Elle prend forme toute seule, selon mes pensées ! De la télépoterie ?\" - Ranwid",
     "DESCRIPTIONS": [
       "Quand vous perdez des PV en combat, gagnez #b",
@@ -762,14 +762,14 @@
     ]
   },
   "Singing Bowl": {
-    "NAME": "Bol Chantant",
+    "NAME": "Bol chantant",
     "FLAVOR": "Au contact d'un maillet, cet artéfact peut faire résonner une belle mélodie.",
     "DESCRIPTIONS": [
       "Lorsque vous passez une carte comme récompense, augmentez vos PV Max de #b2."
     ]
   },
   "Smiling Mask": {
-    "NAME": "Masque Souriant",
+    "NAME": "Masque souriant",
     "FLAVOR": "Masque porté par le Marchand. Il doit en avoir d'autres...",
     "DESCRIPTIONS": [
       "Le coût du service de retrait de carte du Marchand passe à #b",
@@ -777,7 +777,7 @@
     ]
   },
   "Ring of the Snake": {
-    "NAME": "Anneau du Serpent",
+    "NAME": "Anneau du serpent",
     "FLAVOR": "Fait à partir d'un fossile de serpent. Il représente le talent de la chasseresse.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, piochez #b",
@@ -785,14 +785,14 @@
     ]
   },
   "Snecko Eye": {
-    "NAME": "Œil de Snecko",
+    "NAME": "Œil de snecko",
     "FLAVOR": "L'œil d'un snecko déchu. Il est bien plus gros qu'on ne pourrait l'imaginer.",
     "DESCRIPTIONS": [
       "Piochez #b2 cartes supplémentaires à chaque tour. Commencez chaque combat avec #yConfusion."
     ]
   },
   "Snake Skull": {
-    "NAME": "Crâne de Snecko",
+    "NAME": "Crâne de snecko",
     "FLAVOR": "Un crâne de snecko en parfait état. Il est étrangement propre et lisse, au point que la poussière et la saleté en tombent mystérieusement.",
     "DESCRIPTIONS": [
       "Lorsque vous appliquez #yPoison, appliquez #b",
@@ -810,14 +810,14 @@
     ]
   },
   "Spirit Poop": {
-    "NAME": "Caca d'Esprit",
+    "NAME": "Caca d'esprit",
     "FLAVOR": "Les restes carbonisés de votre offrande aux esprits.",
     "DESCRIPTIONS": [
       "Désagréable."
     ]
   },
   "Strange Spoon": {
-    "NAME": "Étrange Cuillère",
+    "NAME": "Étrange cuillère",
     "FLAVOR": "Quand vous fixez la cuillère, elle semble se tordre et s'entortiller sous vos yeux.",
     "DESCRIPTIONS": [
       "Les cartes à #yÉpuiser ont #b50 % de chance d'être défaussées à la place."
@@ -831,7 +831,7 @@
     ]
   },
   "Sundial": {
-    "NAME": "Cadran Solaire",
+    "NAME": "Cadran solaire",
     "FLAVOR": "\"La folle obsession des premiers hommes pour le temps les a poussés à voir le ciel comme un guide, espérant de lui quelque chose d'éternel.\" - Zoroth",
     "DESCRIPTIONS": [
       "Tous les #b",
@@ -841,7 +841,7 @@
     ]
   },
   "Ancient Tea Set": {
-    "NAME": "Ancien Service à Thé",
+    "NAME": "Service à thé antique",
     "FLAVOR": "Il vous garantit une excellente nuit de repos.",
     "DESCRIPTIONS": [
       "Après avoir atteint un site de repos, commencez le prochain combat avec : [R] [R] .",
@@ -912,14 +912,14 @@
     ]
   },
   "The Specimen": {
-    "NAME": "Le Spécimen",
+    "NAME": "Le spécimen",
     "FLAVOR": "\"Fascinant ! J'ai trouvé une créature mutante présentant d'impressionnantes propriétés toxiques. J'en garde un échantillon pour l'examiner plus tard.\" - Ranwid",
     "DESCRIPTIONS": [
       "Lorsqu'un ennemi meurt, son #yPoison est transféré à un ennemi aléatoire."
     ]
   },
   "Thread and Needle": {
-    "NAME": "Fil et Aiguille",
+    "NAME": "Fil et aiguille",
     "FLAVOR": "Vous enveloppez le fil magique autour de votre corps et ce dernier se durcit.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, gagnez #b",
@@ -954,7 +954,7 @@
     ]
   },
   "Toolbox": {
-    "NAME": "Boîte à Outils",
+    "NAME": "Boîte à outils",
     "FLAVOR": "À chaque travail son outil.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, ajoutez une carte incolore aléatoire à votre main."
@@ -969,7 +969,7 @@
     ]
   },
   "Tough Bandages": {
-    "NAME": "Bandages Rugueux",
+    "NAME": "Bandages rugueux",
     "FLAVOR": "La perte renforce.",
     "DESCRIPTIONS": [
       "Lorsque vous défaussez une carte pendant votre tour, gagnez #b",
@@ -977,7 +977,7 @@
     ]
   },
   "Toxic Egg": {
-    "NAME": "Œuf Toxique",
+    "NAME": "Œuf toxique",
     "FLAVOR": "\"Quelle merveilleuse découverte ! Ce doit être l'œuf inerte d'une créature magique. Mais qui a bien pu créer ceci ?\" - Ranwid",
     "DESCRIPTIONS": [
       "Lorsque vous le ramassez, choisissez et #yAméliorez une #yCompétence.",
@@ -985,7 +985,7 @@
     ]
   },
   "Toy Ornithopter": {
-    "NAME": "Petit Ornithoptère",
+    "NAME": "Petit ornithoptère",
     "FLAVOR": "\"Ce petit jouet est le compagnon idéal de tout aventurier solitaire !\"",
     "DESCRIPTIONS": [
       "Lorsque vous utilisez une potion, récupérez #b",
@@ -993,7 +993,7 @@
     ]
   },
   "Unceasing Top": {
-    "NAME": "Toupie Perpétuelle",
+    "NAME": "Toupie perpétuelle",
     "FLAVOR": "La toupie continue à tourner sans jamais s'arrêter, comme dans un rêve.",
     "DESCRIPTIONS": [
       "Lorsque vous n'avez plus de carte en main, piochez une carte."
@@ -1008,7 +1008,7 @@
     ]
   },
   "Velvet Choker": {
-    "NAME": "Ras-de-Cou en Velours",
+    "NAME": "Ras-de-cou en velours",
     "FLAVOR": "\"Un pouvoir immense, mais bien trop limité.\" - Le grand Kublai",
     "DESCRIPTIONS": [
       "Vous ne pouvez pas jouer plus de #b",
@@ -1028,7 +1028,7 @@
     ]
   },
   "Whetstone": {
-    "NAME": "Pierre à Aiguiser",
+    "NAME": "Pierre à aiguiser",
     "FLAVOR": "\"La chair ne bat jamais le fer.\" - Le grand Kublai",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, #yAméliorez #b",
@@ -1044,7 +1044,7 @@
     ]
   },
   "White Beast Statue": {
-    "NAME": "Statue Blanche Bestiale",
+    "NAME": "Statue blanche bestiale",
     "FLAVOR": "La petite statue blanche d'une créature que vous n'avez jamais vue.",
     "DESCRIPTIONS": [
       "Obtenez toujours des potions après un combat."
@@ -1059,7 +1059,7 @@
     ]
   },
   "Bottled Tornado": {
-    "NAME": "Tornade Embouteillée",
+    "NAME": "Tornade embouteillée",
     "FLAVOR": "Test relic.",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, choisissez une carte Pouvoir. Au début de chaque combat, cette carte se trouve dans votre main.",
@@ -1069,7 +1069,7 @@
     ]
   },
   "War Paint": {
-    "NAME": "Peinture de Guerre",
+    "NAME": "Peinture de guerre",
     "FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, #yAméliorez #b",
@@ -1077,7 +1077,7 @@
     ]
   },
   "Darkstone Periapt": {
-    "NAME": "Amulette de Pierre Noire",
+    "NAME": "Amulette de pierre noire",
     "FLAVOR": "Missing description.",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une #yMalédiction, augmentez vos PV Max de #b"
