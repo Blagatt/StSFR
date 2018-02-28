@@ -768,8 +768,8 @@
   },
   "Jack Of All Trades": {
     "NAME": "Polyvalence",
-    "DESCRIPTION": "Ajoutez !M! carte(s) incolore(s) aléatoire(s) à votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Add !M! random colorless cards to your hand. NL Exhaust."
+    "DESCRIPTION": "Ajoutez !M! carte incolore aléatoire à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez !M! cartes incolores aléatoires à votre main. NL Épuisement."
   },
   "Demon Form": {
     "NAME": "Forme Démoniaque",
