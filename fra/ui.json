@@ -715,7 +715,7 @@
   "AbstractPlayer": {
     "TEXT": [
       "Bloqué",
-      "le Soldat de Fer",
+      "le Soldat de fer",
       "la Silencieuse",
       "the Gunner"
     ]
@@ -812,7 +812,7 @@
   },
   "LeaderboardFilters": {
     "TEXT": [
-      "Le Soldat de Fer",
+      "Le Soldat de fer",
       "La Silencieuse",
       "3rd Char. DO NOT TRANSLATE",
       "Étage Atteint Moyen (Sur les 20 Dernières Tentatives)",
@@ -872,7 +872,7 @@
   },
   "RunHistoryScreen": {
     "TEXT": [
-      "Le Soldat de Fer",
+      "Le Soldat de fer",
       "La Silencieuse",
       "",
       "Retour",
