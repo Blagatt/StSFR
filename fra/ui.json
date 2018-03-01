@@ -698,7 +698,8 @@
       "Thaï",
       "Serbe",
       "Ukrainien",
-      "Vietnamien"
+      "Vietnamien",
+      "Hongrois"
     ]
   },
   "UnlockTextEffect": {
@@ -897,7 +898,12 @@
       "Tous les personnages",
       "Victoires et défaites",
       "Victoires",
-      "Défaites"
+      "Défaites",
+      "Défi",
+      "Tout mode de jeu",
+      "Normal",
+      "Ascension",
+      "Défi quotidien"
     ]
   },
   "DeathScreenUi": {
@@ -920,7 +926,7 @@
     "TEXT": [
       "Défi Quotidien",
       "Connexion au Serveur...",
-      "Vous avez fini le défi du jour.",
+      "#yRemarque: Vous avez fini le défi du jour. NL Seul le premier score est envoyé.",
       "Retour",
       "Démarrer",
       "Personnage du jour: ",

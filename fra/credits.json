@@ -45,16 +45,6 @@
       "Bruce Brenneise"
     ]
   },
-  "LOC_ZHS": {
-    "HEADER": "Traduction en Chinois (Simplifié)",
-    "NAMES": [
-      "Sound of Mystery"
-    ]
-  },
-  "LOC_ZHT": {
-    "HEADER": "Traduction en Chinois (Traditionnel)",
-    "NAMES": []
-  },
   "LOC_FRA": {
     "HEADER": "Traduction en Français",
     "NAMES": [
@@ -64,10 +54,21 @@
       "Vincent \"Hénip\" Barthoux",
       "Alexandre \"Judgy\" Gaubert",
       "Vincent \"MissingNoShiny\" Larcin",
+      "Nicky \"Qazahar\" Dehout",
       "Julien \"RoPeTTe\" Ropero",
       "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort"
     ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Traduction en Chinois (Simplifié)",
+    "NAMES": [
+      "Sound of Mystery"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Traduction en Chinois (Traditionnel)",
+    "NAMES": []
   },
   "LOC_DEU": {
     "HEADER": "Traduction en Allemand",
@@ -92,21 +93,53 @@
   "LOC_KOR": {
     "HEADER": "Traduction en Coréen",
     "NAMES": [
-      "Translation Manager:",
+      "Responsable de la traduction:",
       "Eteriny",
-      "Translation:",
+      "Traduction:",
       "Simcoding",
       "DesFrog",
       "insight",
       "K4lium",
       "hina",
-      "Steam Page Translation:",
+      "Traduction de la page Steam:",
       "GyeRyak"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Traduction en Norvégien",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Traduction en Portugais du Brésil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
     ]
   },
   "LOC_POL": {
     "HEADER": "Traduction en Polonais",
-    "NAMES": []
+    "NAMES": [
+      "Traduction et Coordination:",
+      "Stanis³aw \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Traductions additionnelles:",
+      "Adrian \"xeros\" Rolka",
+      "Relecture:",
+      "Oskar \"volf3n\" Nowak",
+      "Suggestions et Retours:",
+      "Kasper \"Awokado\" Beræ",
+      "Pawe³ \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogus³awski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafa³ \"SponTon83\" Szyszko"
+    ]
   },
   "LOC_RUS": {
     "HEADER": "Traduction en Russe",
