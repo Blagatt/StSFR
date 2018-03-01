@@ -1070,7 +1070,7 @@
   },
   "War Paint": {
     "NAME": "Peinture de guerre",
-    "FLAVOR": "Missing description.",
+    "FLAVOR": "Jadis, les Soldats de fer utilisaient de la peinture de guerre enchantée pour se protéger avant de charger au combat.",
     "DESCRIPTIONS": [
       "Lorsque vous la ramassez, #yAméliorez #b",
       " #yCompétences aléatoires."
@@ -1078,7 +1078,7 @@
   },
   "Darkstone Periapt": {
     "NAME": "Amulette de pierre noire",
-    "FLAVOR": "Missing description.",
+    "FLAVOR": "Cette amulette absorbe le pouvoir d'énergies démoniaques et le convertit en vitalité pour son porteur.",
     "DESCRIPTIONS": [
       "Lorsque vous recevez une #yMalédiction, augmentez vos PV Max de #b"
     ]
