@@ -65,6 +65,6 @@
   },
   "Midas": {
     "NAME": "Midas",
-    "DESCRIPTION": "Les ennemis donne 200% d'or, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
+    "DESCRIPTION": "Les ennemis donnent 200% d'or en plus, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
   }
 }
