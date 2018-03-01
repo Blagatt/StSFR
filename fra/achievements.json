@@ -33,7 +33,7 @@
       "Ascension 0",
       "Ascension 10",
       "Minimaliste",
-      "Miam, un Donut!"
+      "Miam, un Donut !"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -60,7 +60,7 @@
       "Vous avez vaincu l'Éveillé.",
       "Vous avez vaincu Donu & Déca.",
       "Vous avez vaincu le Mange-époque.",
-      "Finissez le jeu avec le Soldat de Fer.",
+      "Finissez le jeu avec le Soldat de fer.",
       "Finissez le jeu avec la Silencieuse.",
       "Les détails concernant ce succès seront révélés une fois celui-ci débloqué.",
       "Finissez le jeu avec une seule Relique.",
@@ -96,15 +96,15 @@
       "Étages terminés : #y",
       "Boss tués : #y",
       "Ennemis tués : #y",
-      "Victoires Successives: #y",
-      "Meilleur Score: #y"
+      "Victoires successives: #y",
+      "Meilleur score: #y"
     ]
   },
   "StatsScreen": {
     "NAMES": [
       "#yStatistiques #ygénérales",
       "#ySuccès",
-      "#rLe #rSoldat #rde #rFer",
+      "#rLe #rSoldat #rde #rfer",
       "#gLa #gSilencieuse",
       "#bCorbot"
     ],
