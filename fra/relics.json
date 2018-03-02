@@ -454,7 +454,7 @@
     "NAME": "Os à viande",
     "FLAVOR": "La viande ne cesse de se reformer.",
     "DESCRIPTIONS": [
-      "Si vos PV sont inférieurs à #b50 % à la fin du combat, récupérez #b",
+      "Si vos PV sont inférieurs ou égaux à #b50 % à la fin du combat, récupérez #b",
       " PV."
     ]
   },
