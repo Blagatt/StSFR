@@ -199,7 +199,7 @@
     "NAME": "Le coursier",
     "FLAVOR": "L'animal de compagnie du Marchand !",
     "DESCRIPTIONS": [
-      "Le Marchand n'est plus jamais à court de cartes, reliques ou potions. Les prix sont réduits de #b20%."
+      "Le Marchand n'est plus jamais à court de cartes, reliques ou potions et ses prix sont réduits de #b20%."
     ]
   },
   "Cursed Key": {
