@@ -454,7 +454,7 @@
     "NAME": "Os à viande",
     "FLAVOR": "La viande ne cesse de se reformer.",
     "DESCRIPTIONS": [
-      "Si vos PV sont inférieurs à #b50 % à la fin du combat, récupérez #b",
+      "Si vos PV sont inférieurs ou égaux à #b50 % à la fin du combat, récupérez #b",
       " PV."
     ]
   },
@@ -692,7 +692,7 @@
     "NAME": "Crâne rouge",
     "FLAVOR": "Un petit crâne recouvert de peintures décoratives.",
     "DESCRIPTIONS": [
-      "Quand vos PV sont inférieurs à #b50 %, vous avez #b",
+      "Quand vos PV sont inférieurs ou égaux à #b50 %, vous avez #b",
       " de #yForce supplémentaire."
     ]
   },
