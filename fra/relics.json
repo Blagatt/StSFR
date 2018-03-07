@@ -670,7 +670,7 @@
     "NAME": "Carte d'interrogation",
     "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Le grand Kublai",
     "DESCRIPTIONS": [
-      "Lorsque vous recevez une carte comme récompense, choisissez parmi #b4 cartes au lieu de #b3."
+      "Lorsque vous choisissez une carte comme récompense, vous avez un choix supplémentaire."
     ]
   },
   "Red Circlet": {

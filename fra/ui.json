@@ -108,7 +108,7 @@
   "Rest Option": {
     "TEXT": [
       "Repos",
-      "Vous récupérez 20 % de vos PV max (",
+      "Vous récupérez 100 % de vos PV max (",
       " PV de ",
       "Vous récupérez 30 % de vos PV max ("
     ]
@@ -938,7 +938,7 @@
       " NL Défi du jour : NL #yClasse : NL ",
       " NL #yModificateurs : ",
       "Modificateurs : ",
-      "Leaderboards"
+      "Classements"
     ]
   },
   "MenuPanels": {
