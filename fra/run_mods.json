@@ -1,47 +1,27 @@
 {
   "Cursed Run": {
     "NAME": "Course Maudite",
-    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit."
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre religue de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
   },
   "Elite Swarm": {
-    "NAME": "Armée d'Élites",
+    "NAME": "Big Game Hunter",
     "DESCRIPTION": "La Tour est remplie d'Élites."
-  },
-  "Greed": {
-    "NAME": "Avarice",
-    "DESCRIPTION": "Vous ne pouvez pas passer les récompenses."
-  },
-  "Growing Enemies": {
-    "NAME": "Ennemis grandissants",
-    "DESCRIPTION": "Les ennemis deviennent plus forts à chaque tour."
   },
   "Heirloom": {
     "NAME": "Héritage",
     "DESCRIPTION": "Commencez avec une relique rare aléatoire."
   },
-  "Lethal Enemies": {
-    "NAME": "Ennemis mortels",
-    "DESCRIPTION": "Tous les ennemis commencent avec +3 de Force."
+  "Lethality": {
+    "NAME": "Lethality",
+    "DESCRIPTION": "Vous commencez chaque combats avec 3 de Force. Tous les ennemis commencent avec 3 de Force."
   },
   "Night Terrors": {
     "NAME": "Terreurs nocturnes",
-    "DESCRIPTION": "Se reposer aux feux de camps soigne 20% de vos PV max, au lieu de 30%."
+    "DESCRIPTION": "Se reposer aux feux de camps soigne 100% de vos PV max, mais vous perdez 5 PV max."
   },
-  "Restless Journey": {
-    "NAME": "Voyage épuisant",
-    "DESCRIPTION": "Vous ne vous soignez plus quand vous entrez dans un nouveau niveau."
-  },
-  "Slow Start": {
-    "NAME": "Départ tardif",
-    "DESCRIPTION": "Commencez avec une carte Frappe et une carte Défense en plus."
-  },
-  "Tough Enemies": {
-    "NAME": "Ennemis coriaces",
-    "DESCRIPTION": "Les ennemis ont 25% de PV en plus."
-  },
-  "Diverse": {
-    "NAME": "Différent",
-    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
+  "Insanity": {
+    "NAME": "Démence",
+    "DESCRIPTION": "Commencez avec un deck de 50 cartes aléatoires."
   },
   "Shiny": {
     "NAME": "Doré !",
@@ -51,13 +31,13 @@
     "NAME": "All Star",
     "DESCRIPTION": "Commencez avec 2 cartes incolores."
   },
-  "Vintage": {
-    "NAME": "Vintage",
-    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+  "Diverse": {
+    "NAME": "Différent",
+    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
   },
   "Uncertain Future": {
-    "NAME": "Futur incertain",
-    "DESCRIPTION": "La carte n'affiche que des ?."
+    "NAME": "Avenir certain",
+    "DESCRIPTION": "La carte ne contient qu'un seul chemin."
   },
   "Binary": {
     "NAME": "Binaire",
@@ -66,5 +46,17 @@
   "Midas": {
     "NAME": "Midas",
     "DESCRIPTION": "Les ennemis donnent 200% d'or en plus, mais vous ne pouvez plus améliorer de cartes aux feux de camps."
+  },
+  "Terminal": {
+    "NAME": "Incurable",
+    "DESCRIPTION": "Quand vous entrez dans une salle, perdez 1 HP max. Commencez chaque combat avec 5 d'Armure plaquée."
+  },
+  "Time Dilation": {
+    "NAME": "Dilatation temporelle",
+    "DESCRIPTION": "Tous les ennemis sont lents."
+  },
+  "Vintage": {
+    "NAME": "Vintage",
+    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
   }
 }
