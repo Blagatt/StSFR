@@ -1,10 +1,10 @@
 {
   "Cursed Run": {
     "NAME": "Course Maudite",
-    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre religue de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
+    "DESCRIPTION": "À chaque fois que vous battez un boss, devenez Maudit. Votre relique de départ est remplacée par Clé maudite, Amulette de pierre noire et Poupée dou-vau"
   },
   "Elite Swarm": {
-    "NAME": "Big Game Hunter",
+    "NAME": "Chasseur de gros gibier",
     "DESCRIPTION": "La Tour est remplie d'Élites."
   },
   "Heirloom": {
@@ -12,8 +12,8 @@
     "DESCRIPTION": "Commencez avec une relique rare aléatoire."
   },
   "Lethality": {
-    "NAME": "Lethality",
-    "DESCRIPTION": "Vous commencez chaque combats avec 3 de Force. Tous les ennemis commencent avec 3 de Force."
+    "NAME": "Létalité",
+    "DESCRIPTION": "Vous commencez chaque combat avec 3 de Force. Tous les ennemis commencent avec 3 de Force."
   },
   "Night Terrors": {
     "NAME": "Terreurs nocturnes",
@@ -36,12 +36,12 @@
     "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
   },
   "Uncertain Future": {
-    "NAME": "Avenir certain",
+    "NAME": "Fatalité",
     "DESCRIPTION": "La carte ne contient qu'un seul chemin."
   },
   "Binary": {
     "NAME": "Binaire",
-    "DESCRIPTION": "Vous ne choisisez qu'entre 2 cartes, au lieu de 3."
+    "DESCRIPTION": "Vous ne choisisez qu'entre 2 cartes après un combat, au lieu de 3."
   },
   "Midas": {
     "NAME": "Midas",
@@ -49,14 +49,14 @@
   },
   "Terminal": {
     "NAME": "Incurable",
-    "DESCRIPTION": "Quand vous entrez dans une salle, perdez 1 HP max. Commencez chaque combat avec 5 d'Armure plaquée."
+    "DESCRIPTION": "Quand vous entrez dans une salle, perdez 1 PV max. Commencez chaque combat avec 5 d'Armure plaquée."
   },
   "Time Dilation": {
     "NAME": "Dilatation temporelle",
-    "DESCRIPTION": "Tous les ennemis sont lents."
+    "DESCRIPTION": "Tous les ennemis sont Ralentis."
   },
   "Vintage": {
     "NAME": "Vintage",
-    "DESCRIPTION": "Les prix du Marchand sont augmentés de 25%."
+    "DESCRIPTION": "Les ennemis donnent des Reliques au lieu de cartes."
   }
 }
