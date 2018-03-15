@@ -327,7 +327,7 @@
     "NAME": "Gingembre",
     "FLAVOR": "Un ingrédient puissant utilisé dans de nombreuses boissons tonifiantes.",
     "DESCRIPTIONS": [
-      "Les ennemis ne peuvent plus vous #yAffaiblir."
+      "Vous ne pouvez plus être #yAffaibli."
     ]
   },
   "Girya": {
