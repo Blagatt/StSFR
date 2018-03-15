@@ -555,7 +555,7 @@
     "NAME": "Champignon étrange",
     "FLAVOR": "\"Après avoir consommé ce trichellum parastius, je me suis senti plus imposant et moins... susceptible.\" - Ranwid ",
     "DESCRIPTIONS": [
-      "Sous #yVulnérabilité, les dégâts subis augmentent de #b25 % au lieu de #b50 %."
+      "Sous #yVulnérabilité, vous ne subissez plus que #b25 % de dégâts supplémentaires au lieu de #b50 %."
     ]
   },
   "Old Coin": {
