@@ -849,7 +849,7 @@
   },
   "All Out Attack": {
     "NAME": "Attaque suprême",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Piochez 1 carte en moins au prochain tour."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Défaussez une carte aléatoire de votre main."
   },
   "Flying Knee": {
     "NAME": "Coup de genou",

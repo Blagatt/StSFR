@@ -983,5 +983,28 @@
       "",
       "Cette fonctionnalité n'est pas encore disponible."
     ]
+  },
+  "AttackFromDeckToHandAction": {
+    "TEXT": [
+      "Choisissez une Attaque à ajouter à votre main"
+    ]
+  },
+  "RunHistoryPathNodes": {
+    "TEXT": [
+      "Inconnu",
+      "Ennemi",
+      "Elite",
+      "Événement",
+      "Boss",
+      "Coffre",
+      "Coffre de Boss",
+      "Feu de camp",
+      "Marchand",
+      "Inconnu (Ennemi)",
+      "Inconnu (Marchand)",
+      "Inconnu (Coffre)",
+      "Étage %1$s - %2$s",
+      "Étage %s"
+    ]
   }
 }
