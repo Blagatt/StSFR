@@ -986,25 +986,25 @@
   },
   "AttackFromDeckToHandAction": {
     "TEXT": [
-      "Choose an Attack to Add to Your Hand"
+      "Choisissez une Attaque à ajouter à votre main"
     ]
   },
   "RunHistoryPathNodes": {
     "TEXT": [
-      "Unknown",
-      "Enemy",
+      "Inconnu",
+      "Ennemi",
       "Elite",
-      "Event",
+      "Événement",
       "Boss",
-      "Treasure",
-      "Boss Treasure",
-      "Rest",
-      "Merchant",
-      "Unknown (Enemy)",
-      "Unknown (Merchant)",
-      "Unknown (Treasure)",
-      "Floor %1$s - %2$s",
-      "Floor %s"
+      "Coffre",
+      "Coffre de Boss",
+      "Feu de camp",
+      "Marchand",
+      "Inconnu (Ennemi)",
+      "Inconnu (Marchand)",
+      "Inconnu (Coffre)",
+      "Étage %1$s - %2$s",
+      "Étage %s"
     ]
   }
 }
