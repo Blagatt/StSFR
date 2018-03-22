@@ -744,5 +744,11 @@
       "À la fin du tour, gagne #b",
       " de #yForce."
     ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Réduit TOUS les dégâts subis et la perte de PV à #b1."
+    ]
   }
 }
