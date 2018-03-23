@@ -866,5 +866,22 @@
   "Expertise": {
     "NAME": "Expertise",
     "DESCRIPTION": "Piochez des cartes jusqu'à en avoir !M! dans votre main."
+  },
+  "Ghostly": {
+    "NAME": "Évanescent",
+    "DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement. NL Éthérée.",
+    "UPGRADE_DESCRIPTION": "Gagnez 1 Intangible. NL Épuisement."
+  },
+  "Slimed": {
+    "NAME": "Englué",
+    "DESCRIPTION": "Épuisement."
+  },
+  "Void": {
+    "NAME": "Néant",
+    "DESCRIPTION": "Injouable. NL Lorsce que vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
+  },
+  "AscendersBane": {
+    "NAME": "Fléau du grimpeur",
+    "DESCRIPTION": "Injouable. NL Ne peut pas être retirée du deck."
   }
 }
