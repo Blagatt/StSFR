@@ -733,13 +733,13 @@
     ]
   },
   "Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Concile des fantômes",
     "DESCRIPTIONS": [
-      "Placeholder 1",
-      "Placeholder 2",
-      "Placeholder 3",
-      "Placeholder 4",
-      "Placeholder 5"
+      "Alors que vous continuez votre ascension, #p~une~ #p~épaisse~ #p~fumée~ #p~noire~ commence à émaner du sol et des murs autour de vous, se regroupant en trois formes masquées qui commencent à parler. NL NL ~\"Encore~ ~un~ ~pantin~ ~de~ ~Neow~ ~je~ ~pense.\"~ NL #r@\"EN@ #r@EFFET!@ #r@ELLE@ #r@CHOISIT@ #r@TOUJOURS@ #r@LES@ #r@MEILLEURS@ #r@JOUETS!\"@ NL NL Vous remarquez un sourire surdimensionné alors que le troisième s'adresse à vous. NL \"Ne fais pas attention à eux... Voudrais-tu goûter à notre #y~pouvoir?\"~",
+      "",
+      "#y\"Excellent!\" NL Pendant que la forme fantômatique parle, vous remarquez que sa bouche s'ouvre de plus en plus large. #p~L'épaisse~ #p~fumée~ #p~noire~ se déverse et enveloppe la pièce. Vous ne pouvez plus rien voir ni respirer... NL NL Juste avant que vous perdiez connaissance, la sensation s'arrête. Quoi qu'étaient ces choses, elles sont désormais parties. Vous continuez, vous sentant plutôt vide.",
+      "\"Quelle déception...\" NL ~\"Vous~ ~nous~ ~rejoindrez~ ~tôt~ ~ou~ ~tard.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL Les formes s'effacent, ne laissant derrière elles que leur rire inquiétant résonner dans vos oreilles.",
+      ""
     ],
     "OPTIONS": [
       "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
