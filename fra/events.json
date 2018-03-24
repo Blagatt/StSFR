@@ -742,12 +742,12 @@
       ""
     ],
     "OPTIONS": [
-      "[Accept] #g #gall #gDefends. #gObtain #g5 #gGhostly. #rLose #r",
-      "% #rMax #rHP.",
-      "[Refuse]",
-      "[Lose ",
-      "] #gRemove #gall #gDefends. #gObtain #g5 #gGhostly.",
-      "[Leave]"
+      "[Accepter]  #gObtenez #g5 #gApparition. #rPerdez #r",
+      " #r% #rde #rvos #rPV #rmax.",
+      "[Refuser]",
+      "",
+      "",
+      "[Partir]"
     ]
   }
 }
