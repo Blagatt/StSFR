@@ -749,5 +749,17 @@
       "",
       "[Partir]"
     ]
+  },
+  "SecretPortal": {
+    "NAME": "Secret Portal",
+    "DESCRIPTIONS": [
+      "Before you is a sight that seems out of place in the alien landscape around you. Strangely placed into one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL You aren't sure where it leads, but maybe it could speed your journey through the Spire.",
+      "Jumping through the portal, your sense of time and space is completely torn apart. NL NL As you reorient yourself to the new surroundings, you realize that right before you is a fearsome battle.",
+      "Careful and cautious seems the better approach for reaching the top of the Spire. Ignoring the portal you continue on."
+    ],
+    "OPTIONS": [
+      "[Enter the Portal] IMMEDIATELY travel to the boss.",
+      "[Leave]"
+    ]
   }
 }
