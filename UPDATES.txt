@@ -1,10 +1,20 @@
 Updates for Translators!
 
+3/23/2018:
+cards.json
+    "AscendersBane"
+events.json
+    "Council of Ghosts"
+
+----------------------------------
+
 3/22/2018:
 cards.json
 	"Ghostly"
 events.json
 	No need to localize "Ghosts" yet.
+
+----------------------------------
 
 3/21/2018:
 cards.json
