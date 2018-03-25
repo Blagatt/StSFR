@@ -1,10 +1,25 @@
 Updates for Translators!
 
+3/24/2018:
+ui.json
+	"OptionsPanel"
+		"Show Card Quick Select Keys"
+cards.json
+	"Evolve"
+		"DESCRIPTION": "Whenever you draw a Status, draw !M! card.",
+    	"UPGRADE_DESCRIPTION": "Whenever you draw a Status, draw !M! cards."
+    "AscendersBane"
+    	DESCRIPTION": "Unplayable. NL Ethereal. NL Cannot be removed from your deck."
+events.json
+	"SecretPortal"
+
+----------------------------------
+
 3/23/2018:
 cards.json
-    "AscendersBane"
+	"AscendersBane"
 events.json
-    "Council of Ghosts"
+	"Council of Ghosts"
 
 ----------------------------------
 
@@ -13,8 +28,6 @@ cards.json
 	"Ghostly"
 events.json
 	No need to localize "Ghosts" yet.
-
-----------------------------------
 
 3/21/2018:
 cards.json
