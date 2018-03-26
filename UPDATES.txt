@@ -1,5 +1,11 @@
 Updates for Translators!
 
+3/25/2018:
+powers.json
+	"Explosion"
+
+----------------------------------
+
 3/24/2018:
 ui.json
 	"OptionsPanel"
