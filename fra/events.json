@@ -749,5 +749,17 @@
       "",
       "[Partir]"
     ]
+  },
+  "SecretPortal": {
+    "NAME": "Portail secret",
+    "DESCRIPTIONS": [
+      "Devant vous se dresse quelque chose qui retient votre attention dans le paysage extraterrestre. Étrangement placée dans l'un des murs vivants de l'Au-delà se trouve une arche de pierre remplie par un #p~portail~ #p~magique~ #p~tourbillonant.~ NL NL Vous n'êtes pas sûr d'où il mène, mais peut-être peut-il accélérer votre voyage dans la Tour.",
+      "Sautant au travers du portail, vous sentez le continuum espace-temps se déchirer. NL NL Alors que vous tentez de vous orienter dans ce nouvel environnement, vous réalisez qu'une bataille effrayante vous attend.",
+      "La prudence semble être la meilleure approche pour atteindre le sommet de la Tour. Vous ignorez le portail et continuez."
+    ],
+    "OPTIONS": [
+      "[Entrer dans le portail] Téléportez-vous IMMÉDIATEMENT jusqu'au boss.",
+      "[Partir]"
+    ]
   }
 }
