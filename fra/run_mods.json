@@ -62,5 +62,9 @@
   "Vintage": {
     "NAME": "Vintage",
     "DESCRIPTION": "Les ennemis donnent des Reliques au lieu de cartes."
+  },
+  "Draft": {
+    "NAME": "Tirage",
+    "DESCRIPTION": "Constituez votre deck de départ en choisissant 1 carte parmi 3, 15 fois."
   }
 }
