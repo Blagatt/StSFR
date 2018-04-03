@@ -29,11 +29,11 @@
   },
   "Allstar": {
     "NAME": "All Star",
-    "DESCRIPTION": "Commencez avec 2 cartes incolores."
+    "DESCRIPTION": "Commencez avec 5 cartes incolores."
   },
   "Diverse": {
     "NAME": "Différent",
-    "DESCRIPTION": "Commencez avec 2 cartes d'une autre classe."
+    "DESCRIPTION": "Toutes les cartes sont disponibles, peu-importe votre personnage."
   },
   "Uncertain Future": {
     "NAME": "Fatalité",
