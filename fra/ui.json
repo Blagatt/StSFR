@@ -581,7 +581,7 @@
       "Seed ",
       "Seed aléatoire",
       "La seed de départ est utilisé pour générer les éléments aléatoires de cette partie.",
-      "Définir la Seed"
+      "Définir la seed"
     ]
   },
   "AbstractMonster": {
@@ -1023,7 +1023,7 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Entrez une nouvelle Seed",
+      "Entrez une nouvelle seed",
       "Confirmer",
       "Annuler"
     ]
