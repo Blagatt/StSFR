@@ -579,9 +579,9 @@
       "Mode Ascension",
       "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)",
       "Seed ",
-      "Random Seed",
-      "The starting seed is used to determine what randomly appears in the run.",
-      "Set Seed"
+      "Seed aléatoire",
+      "Le seed de départ est utilisé pour générer aléatoirement les éléments de cette partie.",
+      "Définir le Seed"
     ]
   },
   "AbstractMonster": {
@@ -1024,8 +1024,8 @@
     "TEXT": [
       "0000000000",
       "Enter a new Seed",
-      "Confirm",
-      "Cancel"
+      "Confirmer",
+      "Annuler"
     ]
   }
 }
