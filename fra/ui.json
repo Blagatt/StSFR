@@ -580,8 +580,8 @@
       "Les tentatives deviennent plus difficiles à chaque victoire... (Les victoires successives ne sont pas affectées)",
       "Seed ",
       "Seed aléatoire",
-      "Le seed de départ est utilisé pour générer aléatoirement les éléments de cette partie.",
-      "Définir le Seed"
+      "La seed de départ est utilisé pour générer les éléments aléatoires de cette partie.",
+      "Définir la Seed"
     ]
   },
   "AbstractMonster": {
@@ -1023,7 +1023,7 @@
   "SeedPanel": {
     "TEXT": [
       "0000000000",
-      "Enter a new Seed",
+      "Entrez une nouvelle Seed",
       "Confirmer",
       "Annuler"
     ]
