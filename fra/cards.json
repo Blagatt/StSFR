@@ -813,8 +813,8 @@
   },
   "Evolve": {
     "NAME": "Évolution",
-    "DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes.",
-    "UPGRADE_DESCRIPTION": "Quand vous piochez une carte carte de Statut, piochez !M! cartes."
+    "DESCRIPTION": "Quand vous piochez une carte Statut, piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Quand vous piochez une carte Statut, piochez !M! cartes."
   },
   "Burn": {
     "NAME": "Brûlure",

@@ -240,8 +240,8 @@
   "Evolve": {
     "NAME": "Évolution",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une carte de #yStatut, piochez une carte.",
-      "Lorsque vous piochez une carte de #yStatut, piochez #b",
+      "Lorsque vous piochez une carte #yStatut, piochez une carte.",
+      "Lorsque vous piochez une carte #yStatut, piochez #b",
       " cartes."
     ]
   },
