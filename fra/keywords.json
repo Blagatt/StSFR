@@ -173,16 +173,16 @@
     },
     "DAZED": {
       "NAMES": [
-        "dazed"
+        "hébètement"
       ],
-      "DESCRIPTION": "Dazed are unplayable status cards."
+      "DESCRIPTION": "Les hébètements sont des cartes status non jouables."
     },
     "BURN": {
       "NAMES": [
-        "burn",
-        "burns"
+        "brûlure",
+        "brûlures"
       ],
-      "DESCRIPTION": "Burns are unplayable status cards that damage you."
+      "DESCRIPTION": "Les brûlures sont des cartes status qui vous ingligent des dégâts."
     }
   }
 }

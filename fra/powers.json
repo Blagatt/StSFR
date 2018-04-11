@@ -752,10 +752,10 @@
     ]
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
+    "NAME": "Forme spectrale",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b ",
-      " Dexterity."
+      "À la fin de votre tour, perdez #b",
+      " de Dextérité."
     ]
   }
 }

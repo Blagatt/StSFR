@@ -6,7 +6,7 @@
   },
   "Immolate": {
     "NAME": "Immolation",
-    "DESCRIPTION": "Épuisez 1 carte. Si Statut ou Malédiction, infligez !D! dégât(s) à TOUS les ennemis."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Ajoutez une Brûlure à votre pioche."
   },
   "Regret": {
     "NAME": "Regret",
@@ -184,7 +184,7 @@
   },
   "Reckless Charge": {
     "NAME": "Charge imprudente",
-    "DESCRIPTION": "Subissez 1 de Vulnérabilité. NL Infligez !D! dégât(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébètement à votre pioche."
   },
   "Decay": {
     "NAME": "Déclin",
@@ -885,7 +885,7 @@
     "DESCRIPTION": "Injouable. NL Éthérée. NL Ne peut pas être retirée du deck."
   },
   "Wraith Form v2": {
-    "NAME": "Wraith Form",
-    "DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity."
+    "NAME": "Forme spectrale",
+    "DESCRIPTION": "Gagnez !M! Intangible. NL à la fin de votre tour, perdez 1 de Dexterité."
   }
 }
