@@ -54,7 +54,7 @@
   },
   "Anger": {
     "NAME": "Colère",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Placez une copie de cette carte dans votre défausse."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez une copie de cette carte à votre défausse."
   },
   "Storm of Steel": {
     "NAME": "Tempête d'acier",
@@ -273,7 +273,7 @@
   },
   "Endless Agony": {
     "NAME": "Agonie éternelle",
-    "DESCRIPTION": "Ajoutez une copie de cette carte dans votre main quand vous la piochez. NL Infligez !D! dégât(s). NL Épuisement."
+    "DESCRIPTION": "Ajoutez une copie de cette carte à votre main quand vous la piochez. NL Infligez !D! dégât(s). NL Épuisement."
   },
   "Berserk": {
     "NAME": "Folie furieuse",
@@ -638,8 +638,8 @@
   },
   "Transmutation": {
     "NAME": "Transmutation",
-    "DESCRIPTION": "Ajoutez X cartes incolores dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées dans votre main. NL Épuisement."
+    "DESCRIPTION": "Ajoutez X cartes incolores à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez X cartes incolores améliorées à votre main. NL Épuisement."
   },
   "Backstab": {
     "NAME": "Trahison",
