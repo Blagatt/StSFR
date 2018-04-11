@@ -77,7 +77,7 @@
       "NAMES": [
         "statut"
       ],
-      "DESCRIPTION": "Les cartes de statut sont enlevées à la fin du combat."
+      "DESCRIPTION": "Les cartes Statut sont enlevées à la fin du combat."
     },
     "STRENGTH": {
       "NAMES": [
@@ -132,7 +132,7 @@
         "plaie",
         "plaies"
       ],
-      "DESCRIPTION": "Les plaies sont des cartes statut injouables."
+      "DESCRIPTION": "Les plaies sont des cartes Statut injouables."
     },
     "FRAIL": {
       "NAMES": [
@@ -152,16 +152,6 @@
       ],
       "DESCRIPTION": "Quand vous piochez une carte, son coût est rendu aléatoire."
     },
-    "FIRE": {
-      "NAMES": [
-        "fire",
-        "fired",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF",
-        "DONT TRANSLATE FIRED STUFF"
-      ],
-      "DESCRIPTION": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
     "TODO": {
       "NAMES": [
         "todo",
@@ -180,6 +170,19 @@
         "intangible"
       ],
       "DESCRIPTION": "Réduit TOUS les dégâts subis et la perte de PV à #b1."
+    },
+    "DAZED": {
+      "NAMES": [
+        "hébètement"
+      ],
+      "DESCRIPTION": "Les hébètements sont des cartes Statut non jouables."
+    },
+    "BURN": {
+      "NAMES": [
+        "brûlure",
+        "brûlures"
+      ],
+      "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous ingligent des dégâts."
     }
   }
 }

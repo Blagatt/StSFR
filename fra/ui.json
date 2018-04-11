@@ -477,9 +477,9 @@
       "Rouges",
       "Vertes",
       "Bleues",
-      "Incolore",
+      "Incolores",
       "Malédictions",
-      "Statuts",
+      "Statut",
       "Voir l'amélioration"
     ]
   },
@@ -909,7 +909,8 @@
       "Normal",
       "Ascension",
       "Défi quotidien",
-      "Seed: %s"
+      "Seed: %s",
+      "Seed personnalisé: %s"
     ]
   },
   "DeathScreenUi": {
