@@ -1,5 +1,18 @@
 Updates for Translators!
 
+04/11/2018:
+powers.json
+	"Wraith Form v2"
+events.json
+	"SensoryStone"
+		"heads towards a Spire" -> "heads towards the Spire"
+ui.json
+	"CardLibSortHeader"
+		"Cost"
+		"Jump To:"
+
+----------------------------------
+
 04/10/2018:
 cards.json
 	"Wraith Form v2"
