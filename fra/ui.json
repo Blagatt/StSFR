@@ -487,7 +487,9 @@
     "TEXT": [
       "Rareté",
       "Type",
-      "A-Z"
+      "A-Z",
+      "Cost",
+      "Jump To:"
     ]
   },
   "EarlyAccessPopup": {
