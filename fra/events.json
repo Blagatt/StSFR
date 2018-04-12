@@ -15,8 +15,8 @@
       "Vous ne voyez rien d'utile. Vous prenez le chemin de la sortie, tandis que les flammes du fourneau projettent des #p~ombres~ #p~étranges~ sur les parois de la cabane..."
     ],
     "OPTIONS": [
-      "[Utiliser la forge] #gAméliorez #gune #gcarte. #r25 #r% : #rvous #rrecevez : #rMalédiction #r- #rBlessure.",
-      "[Fouiller] #gObtenez #gune #gRelique. #r75 #r% : #rvous #rrecevez : #rMalédiction #r- #rNormalité.",
+      "[Utiliser la forge] #gAméliorez #gune #gcarte. #r25# #r% #r: #rvous #rrecevez #r: #rMalédiction #r- #rBlessure.",
+      "[Fouiller] #gObtenez #gune #gRelique. #r75 #r% #r: #rvous #rrecevez #r: #rMalédiction #r- #rNormalité.",
       "[Partir]",
       "Choisissez une carte à Améliorer.",
       "[Verrouillé] Nécessite : Une carte améliorable"
@@ -91,7 +91,7 @@
     "OPTIONS": [
       "[Prier] #gGagnez #g",
       " #gd'or.",
-      "[Profaner] #gGagnez #g250 #gd'or. #rRecevez : #rMalédiction #r- #rRegret.",
+      "[Profaner] #gGagnez #g250 #gd'or. #rRecevez #r: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
   },
@@ -213,7 +213,7 @@
       "La curiosité est un vilain défaut."
     ],
     "OPTIONS": [
-      "[Ouvrir la sphère] #rCombattez. #gRécompense : #gRelique",
+      "[Ouvrir la sphère] #rCombattez. #gRécompense #r: #gRelique",
       "[Partir]",
       "[Combattre]"
     ]
@@ -228,7 +228,7 @@
     "OPTIONS": [
       "[Plouf] #rPerdez #rune #rcarte #rrare #raléatoire.",
       "[Atterrir tête la première] #rSubissez #r",
-      " #rdégâts. #rRecevez : #rMalédiction #r- #rBlessure.",
+      " #rdégâts. #rRecevez #r: #rMalédiction #r- #rBlessure.",
       "[Partir]"
     ]
   },
@@ -257,9 +257,9 @@
     ],
     "OPTIONS": [
       "...",
-      "[Céder à la folie] #gRecevez : #g2 #gde #gFolie. #rPerdez #r",
+      "[Céder à la folie] #gRecevez #g: #g2 #gde #gFolie. #rPerdez #r",
       " #rPV.",
-      "[Vous concentrer] #rRecevez : #rMalédiction #r- #rSouffrance. #gRécupérez #g",
+      "[Vous concentrer] #rRecevez #r: #rMalédiction #r- #rSouffrance. #gRécupérez #g",
       "[Partir]",
       " #gPV."
     ]
@@ -279,7 +279,7 @@
       " #gPV.",
       "[Beignet] #gPV #gmax #g+",
       ".",
-      "[Boîte] #gRecevez #gune #gRelique. #rRecevez : #rMalédiction #r- #rRegret.",
+      "[Boîte] #gRecevez #gune #gRelique. #rRecevez #r: #rMalédiction #r- #rRegret.",
       "[Partir]"
     ]
   },
@@ -292,11 +292,11 @@
       "Vous n'avez pas confiance en ce #b\"Clerc\" et quittez les lieux."
     ],
     "OPTIONS": [
-      "[Soin] #y35 #yd'or : #grécupérez #g",
+      "[Soin] #y35 #yd'or #y: #grécupérez #g",
       "[Verrouillé] Nécessite : ",
       " or",
       "[Purification] #y",
-      " #yd'or : #gretirez #gune #gcarte #gde #gvotre #gdeck.",
+      " #yd'or #y: #gretirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite : 50 d'or",
       "[Partir]",
       "Choisissez la carte à retirer.",
@@ -323,7 +323,7 @@
       "[Partir]",
       "[Combattre]",
       "[Continuer] #gTrouvez #gdu #gbutin. #r",
-      " #r% : #rle #rmonstre #rrevient."
+      " #r% #r: #rle #rmonstre #rrevient."
     ]
   },
   "Golden Idol": {
@@ -339,7 +339,7 @@
     "OPTIONS": [
       "[Prendre] #gRecevez #gune #gidole #gdorée. #rDéclenchez #run #rpiège.",
       "[Partir]",
-      "[Courir à toutes jambes] #rRecevez : #rMalédiction #r- #rBlessure.",
+      "[Courir à toutes jambes] #rRecevez #r: #rMalédiction #r- #rBlessure.",
       "[Détruire] #rSubissez #r",
       " #rdégâts.",
       "[Vous cacher] #rVos #rPV #rmax #rsont #rréduits #rde #r",
@@ -393,7 +393,7 @@
     ],
     "OPTIONS": [
       "[D'accord] #gRecevez #g",
-      " #gd'or. #rRecevez : #rMalédiction #r- #rDoute.",
+      " #gd'or. #rRecevez #r: #rMalédiction #r- #rDoute.",
       "[Pas d'accord]",
       "[Continuer]",
       "[Partir]"
@@ -426,7 +426,7 @@
     "OPTIONS": [
       "[Piétiner] #rMettez #rles #rchampignons #ren #rcolère.",
       "[Manger] #gRécupérez #g",
-      " #gPV. #rRecevez : #rMalédiction #r- #rParasite.",
+      " #gPV. #rRecevez #r: #rMalédiction #r- #rParasite.",
       "[Combattre]",
       "[Partir]"
     ]
@@ -483,7 +483,7 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or : #gRecevez #gune #gRelique.",
+      " #yd'or #y: #gRecevez #gune #gRelique.",
       "[Verrouillé] Nécessite : ",
       " or",
       "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla #rD.O.P.E.",
@@ -516,7 +516,7 @@
     ],
     "OPTIONS": [
       "[Offrir de l'or] #y",
-      " #yd'or : #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
+      " #yd'or #y: #gRetirez #gune #gcarte #gde #gvotre #gdeck.",
       "[Verrouillé] Nécessite : ",
       " or",
       "[Continuer]",
@@ -556,7 +556,7 @@
     ],
     "OPTIONS": [
       "[Payer] #y",
-      " #yd'or : #gobtenez #gde #gla #gD.O.P.E.",
+      " #yd'or #y: #gobtenez #gde #gla #gD.O.P.E.",
       "[Verrouillé] Nécessite : ",
       " or",
       "[Partir]",
@@ -578,7 +578,7 @@
       " #rPerdez #r",
       " #rPV.",
       "[Verrouillé] Nécessite : Humanité.",
-      "[Profaner] #rRecevez : #rMalédiction #r- #rDéclin."
+      "[Profaner] #rRecevez #r: #rMalédiction #r- #rDéclin."
     ]
   },
   "Knowing Skull": {
@@ -658,10 +658,10 @@
     "OPTIONS": [
       "[Continuer]",
       "[Meurtrier] #yPariez #y",
-      " #yd'or - #g70 #g% : #ggagnez #g",
+      " #yd'or - #g70 #g% #g: #ggagnez #g",
       " #gd'or.",
       "[Propriétaire] #yPariez #y",
-      " #yd'or - #g30 #g% : #ggagnez #g",
+      " #yd'or - #g30 #g% #g: #ggagnez #g",
       "[Observer]",
       "[Partir]"
     ]
@@ -693,7 +693,7 @@
     ],
     "OPTIONS": [
       "[Ouvrir le cercueil] #gRecevez #gune #gRelique. #r",
-      " #r% : #rrecevez : #rMalédiction #r- #rSouffrance.",
+      " #r% #r: #rrecevez #r: #rMalédiction #r- #rSouffrance.",
       "[Partir]"
     ]
   },
