@@ -909,8 +909,8 @@
       "Normal",
       "Ascension",
       "Défi quotidien",
-      "Seed: %s",
-      "Seed personnalisé: %s"
+      "Seed : %s",
+      "Seed personnalisée : %s"
     ]
   },
   "DeathScreenUi": {
@@ -936,7 +936,7 @@
       "#yRemarque: Vous avez fini le défi du jour. NL Seul le premier score est envoyé.",
       "Retour",
       "Démarrer",
-      "Personnage du jour: ",
+      "Personnage du jour : ",
       "dd/MM/yyyy HH:mm:ss",
       "Temps restant: ",
       "#yÉtage #yAtteint : NL  ",
