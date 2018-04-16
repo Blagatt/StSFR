@@ -268,7 +268,7 @@
     "NAME": "Œuf gelé",
     "FLAVOR": "L'œuf est inerte et gelé, il n'éclora jamais.",
     "DESCRIPTIONS": [
-      "Quand vous obtenez une carte Pouvoir, elle est #yAméliorée."
+      "Quand vous obtenez une carte #yPouvoir, elle est #yAméliorée."
     ]
   },
   "Molten Egg 2": {
