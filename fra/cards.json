@@ -601,7 +601,7 @@
   },
   "Clumsy": {
     "NAME": "Maladresse",
-    "DESCRIPTION": "Injouable. NL Épuisement à la fin de votre tour."
+    "DESCRIPTION": "Injouable. NL Éthérée."
   },
   "Searing Blow": {
     "NAME": "Coup brûlant",
@@ -886,6 +886,6 @@
   },
   "Wraith Form v2": {
     "NAME": "Forme spectrale",
-    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dexterité."
+    "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dextérité."
   }
 }
