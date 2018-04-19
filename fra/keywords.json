@@ -9,6 +9,8 @@
     "BLOCK": {
       "NAMES": [
         "armure",
+        "l'armure",
+        "d'armure",
         "bloque"
       ],
       "DESCRIPTION": "Bloque les dégâts jusqu'au prochain tour."
