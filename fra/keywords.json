@@ -109,7 +109,13 @@
     "UPGRADE": {
       "NAMES": [
         "amélioration",
-        "améliorez"
+        "améliorez",
+        "améliorée",
+        "améliorées",
+        "améliorer",
+        "d'améliorer",
+        "améliorable",
+        "améliorez-les"
       ],
       "DESCRIPTION": "Améliorer une carte la rend plus puissante. Une carte ne peut être améliorée qu'une fois."
     },
