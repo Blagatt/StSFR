@@ -949,7 +949,7 @@
       " NL #yModificateurs : ",
       "Modificateurs : ",
       "Classements",
-      "*Achievements are off for Daily Climb."
+      "*Les succés ne sont pas débloqué pendant les défis quotidens."
     ]
   },
   "MenuPanels": {
@@ -1031,7 +1031,7 @@
       "Entrez une nouvelle seed",
       "Confirmer",
       "Annuler",
-      "*Achievements and Leaderboards are disabled if a custom Seed is used."
+      "*Les succés et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
     ]
   }
 }
