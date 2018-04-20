@@ -703,10 +703,11 @@
       "Suédois",
       "Norvégien",
       "Thaï",
-      "Serbe",
+      "Serbe (Cyrillique)",
       "Ukrainien",
       "Vietnamien",
-      "Hongrois"
+      "Hongrois",
+      "Serbe (Latin)"
     ]
   },
   "UnlockTextEffect": {
@@ -947,7 +948,8 @@
       " NL Défi du jour : NL #yClasse : NL ",
       " NL #yModificateurs : ",
       "Modificateurs : ",
-      "Classements"
+      "Classements",
+      "*Les succès sont désactivés pendant les défis quotidens."
     ]
   },
   "MenuPanels": {
@@ -1028,7 +1030,8 @@
       "0000000000",
       "Entrez une nouvelle seed",
       "Confirmer",
-      "Annuler"
+      "Annuler",
+      "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
     ]
   }
 }
