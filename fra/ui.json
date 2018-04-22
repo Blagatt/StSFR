@@ -191,17 +191,17 @@
   },
   "SingleViewRelicPopup": {
     "TEXT": [
-      "Boss",
-      "Commune",
-      "Sans valeur",
-      "Rare",
-      "Boutique",
-      "Événement",
-      "Basique",
-      "Peu commune",
-      "Verrouillée",
-      "Inconnue",
-      " Relique",
+      "Relique de Boss",
+      "Relique commune",
+      "Relique sans valeur",
+      "Relique Rare",
+      "Relique du Marchand",
+      "Relique Événement",
+      "Relique basique",
+      "Relique peu commune",
+      "Relique verrouillée",
+      "Relique inconnue",
+      "",
       "Cette Relique doit être déverrouillée.",
       "Cette Relique doit être découverte."
     ]
