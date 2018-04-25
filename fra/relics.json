@@ -1101,7 +1101,7 @@
     "NAME": "Emotion Chip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Au début de chaque tours, si vous avez subis des dégâts au tour précédent, déclenche la capassité passive de TOUTES vos Orbes."
+      "Au début de chaque tour, si vous avez subis des dégâts au tour précédent, déclenche la capassité passive de TOUS vos Orbes."
     ]
   },
   "Runic Capacitor": {
@@ -1122,7 +1122,7 @@
     "NAME": "Batterie nucléaire",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yPlasma."
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yPlasmique."
     ]
   },
   "Symbiotic Virus": {
