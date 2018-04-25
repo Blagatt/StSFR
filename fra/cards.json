@@ -885,9 +885,9 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. Après avoir été jouée, l'Armure de cette carte augmente de !M! définitivement. Épuisement."
   },
   "Darkness": {
-    "NAME": "Darkness",
-    "DESCRIPTION": "Apply !M! Weak. NL Channel !M! Dark.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
+    "NAME": "Ténèbres",
+    "DESCRIPTION": "Appliquez !M! Faiblesse. NL Canalisez !M! Orbe Obscur.",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! Faiblesse. NL Appliquez !M! Vulnérable. NL Canalisez !M! Orbe Obscure."
   },
   "Recycle": {
     "NAME": "Recyclage",
@@ -898,16 +898,16 @@
     "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Biased Cognition": {
-    "NAME": "Biased Cognition",
-    "DESCRIPTION": "Gain !M! Focus. NL At the start of each turn, lose 1 Focus."
+    "NAME": "Cognition Biaisée(?)",
+    "DESCRIPTION": "Gagnez !M! Concentration. NL Au début de chaque tour, perdez 1 Concentration."
   },
   "Allocate": {
-    "NAME": "Allocate",
-    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
+    "NAME": "Attribution",
+    "DESCRIPTION": "Gagnez !M! Concentration. NL Perdez 1 Force. NL Perdez 1 Dextérité."
   },
   "Channel": {
-    "NAME": "Canalisationl",
-    "DESCRIPTION": "Quand vous jouez un Pouvoir ce tour, gagnez !M! d'Armure."
+    "NAME": "Channel",
+    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
   },
   "Hologram": {
     "NAME": "Hologramme",
@@ -928,8 +928,8 @@
   },
   "Chaos": {
     "NAME": "Chaos",
-    "DESCRIPTION": "Channel !M! random Orb.",
-    "UPGRADE_DESCRIPTION": "Channel !M! random Orbs."
+    "DESCRIPTION": "Canalisez !M! Orbes aléatoires.",
+    "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes aléatoires."
   },
   "Thunder Strike": {
     "NAME": "Thunder Strike",
@@ -947,9 +947,9 @@
     "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
   },
   "Impulse": {
-    "NAME": "Impulse",
-    "DESCRIPTION": "Use the passive effect of all of your Channeled Orbs. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Use the passive effect of all of your Channeled Orbs."
+    "NAME": "Impulsion",
+    "DESCRIPTION": "Utilisez la capacité passive de chaque Orbes Canalisés. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Utilisez la capacité passive de chaque Orbes Canalisés."
   },
   "Multi-Cast": {
     "NAME": "Multi-Cast",
@@ -977,11 +977,11 @@
     "DESCRIPTION": "Au début de chaque tour, ajoutez un Pouvoir aléatoire à votre main."
   },
   "Stack": {
-    "NAME": "Stack",
-    "DESCRIPTION": "Gain Block equal to the number of cards in your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain Block equal to the number of cards in your discard pile +3.",
+    "NAME": "Empilement(?)",
+    "DESCRIPTION": "Gagnez autant d'Armure que de cartes de votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure que de cartes de votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gains !B! Block.)"
+      " NL (Gagnez !B! d'Armure.)"
     ]
   },
   "Hello World": {
@@ -1201,14 +1201,14 @@
     "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
   },
   "Tempest": {
-    "NAME": "Tempest",
-    "DESCRIPTION": "Channel X Lightning. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel X+1 Lightning. NL Exhaust."
+    "NAME": "Tempête",
+    "DESCRIPTION": "Canalisez X Obre(s) Foudre. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Canalisez X+1 Obre(s) Foudre. NL Épuisement."
   },
   "Rainbow": {
-    "NAME": "Rainbow",
-    "DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Lightning, 1 Frost, and 1 Dark."
+    "NAME": "Arc-en-ciel",
+    "DESCRIPTION": "Canalisez 1 Obre Foudre, 1 Obre Glace, et 1 Orbe Obscur. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Canalisez 1 Obre Foudre, 1 Obre Glace, et 1 Orbe Obscur."
   },
   "Capacitor": {
     "NAME": "Capacitor",
@@ -1221,8 +1221,8 @@
     "UPGRADE_DESCRIPTION": "Innate. NL Draw !M! additional card at the start of each turn."
   },
   "Magnetism": {
-    "NAME": "Magnetism",
-    "DESCRIPTION": "At the start of each turn, add a random colorless card to your hand."
+    "NAME": "Magnétisme",
+    "DESCRIPTION": "Au début de chaque tour, ajoutez une carte incolore aléatoire à votre main."
   },
   "Double Energy": {
     "NAME": "Double Energy",
@@ -1230,8 +1230,8 @@
     "UPGRADE_DESCRIPTION": "Double your Energy."
   },
   "Echo Form": {
-    "NAME": "Echo Form",
-    "DESCRIPTION": "The first card you play each turn is played twice."
+    "NAME": "Forme d'Echo(?)",
+    "DESCRIPTION": "Chaque tour, la première carte que vous jouez est jouée deux fois."
   },
   "Axe Kick": {
     "NAME": "Axe Kick",
