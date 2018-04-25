@@ -795,11 +795,11 @@
     ]
   },
   "Hello": {
-    "NAME": "Hello",
+    "NAME": "Bonjour",
     "DESCRIPTIONS": [
-      "At the start of your turn, add #b",
-      " random Common cards to your hand.",
-      " random Common card to your hand."
+      "Au début de chaque tour, ajoutez #b",
+      " cartes Communes aléatoire à votre main.",
+      " carte Commune aléatoire à votre main."
     ]
   },
   "Buffer": {
@@ -807,7 +807,7 @@
     "DESCRIPTIONS": [
       "Empêche votre prochaine perte de PV.",
       "Empêche vos #b",
-      " prochaines pertes de PV.."
+      " prochaines pertes de PV."
     ]
   },
   "No Attack": {
@@ -817,10 +817,10 @@
     ]
   },
   "StaticDischarge": {
-    "NAME": "Static Discharge",
+    "NAME": "Décharge statique",
     "DESCRIPTIONS": [
-      "When receiving #yAttack damage, #yChannel #b",
-      " #yLightning."
+      "Quand vous recevez des dégâts d'une #yAttaque, #yCanalisez #b",
+      " de #yFoudre."
     ]
   },
   "Storm": {
@@ -865,9 +865,9 @@
   "Machine Learning": {
     "NAME": "Machine Learning",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " additional card at the start of each turn.",
-      " additional cards at the start of each turn."
+      "Piochez #b",
+      " carte additionnelle au début de chaque tour.",
+      " cartes additionnelles au début de chaque tour."
     ]
   },
   "Magnetism": {
@@ -878,11 +878,11 @@
     ]
   },
   "Echo Form": {
-    "NAME": "Echo Form",
+    "NAME": Écho",
     "DESCRIPTIONS": [
-      "The first card you play each turn is played #b",
-      " extra time.",
-      " extra times."
+      "La promière carte que vous jouez chaque tour est jouée #b",
+      " fois supplémentaire.",
+      " fois supplémentaires."
     ]
   }
 }
