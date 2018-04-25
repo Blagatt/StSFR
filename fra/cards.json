@@ -1178,7 +1178,7 @@
     "DESCRIPTION": "Infligezl !D! dégât(s). NL Placez la prochaine carte que vous jouez ce tour au sommet de votre pioche."
   },
   "Amplify": {
-    "NAME": Amplification",
+    "NAME": "Amplification",
     "DESCRIPTION": "Ce tour, votre prochain Pouvoir est joué deux fois.",
     "UPGRADE_DESCRIPTION": "Ce tour, vos !M! prochains Pouvoirs sont joués deux fois."
   },
@@ -1207,8 +1207,8 @@
   },
   "Rainbow": {
     "NAME": "Arc-en-ciel",
-    "DESCRIPTION": "Canalisez NL 1 Obre Kéraunique, NL 1 Obre Glacière, NL et 1 Orbe Obscur. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Canalisez NL 1 Obre Kéraunique, NL 1 Obre Glacière, NL et 1 Orbe Obscur."
+    "DESCRIPTION": "Canalisez NL 1 Obre Kéraunique, NL 1 Obre Glaciaire, NL et 1 Orbe Obscur. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Canalisez NL 1 Obre Kéraunique, NL 1 Obre Glaciaire, NL et 1 Orbe Obscur."
   },
   "Capacitor": {
     "NAME": "Condensateur",
