@@ -228,7 +228,7 @@
 		"canalisé",
 		"canalisés"
       ],
-      "DESCRIPTION": "Cannaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre première Orbe est automatiquement #yActionné pour faire de la place."
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #Invoqué pour faire de la place."
     },
     "VOID": {
       "NAMES": [
