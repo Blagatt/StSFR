@@ -213,14 +213,14 @@
         "kéraunique",
         "kéraunique+"
       ],
-      "DESCRIPTION": "Orbe: Inflige des dégât à un ennemi àléatoire."
+      "DESCRIPTION": "Orbe: Inflige des dégâts à un ennemi aléatoire."
     },
     "DARK": {
       "NAMES": [
         "obscur",
         "obscur+"
       ],
-      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
     },
     "CHANNEL": {
       "NAMES": [
@@ -229,14 +229,14 @@
         "canalisé",
         "canalisés"
       ],
-      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #Invoqué pour faire de la place."
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yInvoqué pour faire de la place."
     },
     "VOID": {
       "NAMES": [
         "néant",
         "néants"
       ],
-      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consome de l'énergie quand elles sont piochées."
+      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consomme de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [
