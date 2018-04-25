@@ -881,8 +881,8 @@
     "DESCRIPTION": "Gagnez !M! Intangible. NL À la fin de votre tour, perdez 1 de Dextérité."
   },
   "Genetic Algorithm": {
-    "NAME": "Genetic Algorithm",
-    "DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. Exhaust."
+    "NAME": "Algorithme génétique",
+    "DESCRIPTION": "Gagnez !B! d'Armure. Après avoir été jouée, l'Armure de cette carte augmente de !M! définitivement. Épuisement."
   },
   "Darkness": {
     "NAME": "Darkness",
@@ -890,8 +890,8 @@
     "UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Channel !M! Dark."
   },
   "Recycle": {
-    "NAME": "Recycle",
-    "DESCRIPTION": "Exhaust a card. NL Gain [B] equal to its cost."
+    "NAME": "Recyclage",
+    "DESCRIPTION": "Épuisez une carte. NL Gagnez autant de [B] que son coût."
   },
   "Static Discharge": {
     "NAME": "Static Discharge",
@@ -906,25 +906,25 @@
     "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Strength. NL Lose 1 Dexterity."
   },
   "Channel": {
-    "NAME": "Channel",
-    "DESCRIPTION": "Whenever you play a Power card this turn, gain !M! Block."
+    "NAME": "Canalisationl",
+    "DESCRIPTION": "Quand vous jouez un Pouvoir ce tour, gagnez !M! d'Armure."
   },
   "Hologram": {
-    "NAME": "Hologram",
-    "DESCRIPTION": "Gain !B! Block. NL Return a random card from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return a card from your discard pile to your hand."
+    "NAME": "Hologramme",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte aléatoire de votre défausse à votre main.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Retournez une carte de votre défausse à votre main."
   },
   "Conserve Battery": {
-    "NAME": "Conserve Battery",
-    "DESCRIPTION": "Gain !B! Block. NL Energy is conserved for next turn."
+    "NAME": "Économie d'énergie",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Énergie est conservée à la fin de ce tour."
   },
   "FTL": {
     "NAME": "FTL",
     "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
   },
   "Seek": {
-    "NAME": "Seek",
-    "DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+    "NAME": "Recherche",
+    "DESCRIPTION": "Choisissez !M! cartes de votre pioche et ajoutez-les à votre main. NL Épuisement."
   },
   "Chaos": {
     "NAME": "Chaos",
@@ -939,8 +939,8 @@
     ]
   },
   "Undo": {
-    "NAME": "Undo",
-    "DESCRIPTION": "Set your HP to what it was last turn. NL Exhaust."
+    "NAME": "Annuler",
+    "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
   },
   "Beam Cell": {
     "NAME": "Beam Cell",
@@ -957,24 +957,24 @@
     "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
   },
   "Sunder": {
-    "NAME": "Sunder",
-    "DESCRIPTION": "Deal !D! damage. NL If this kills the enemy, gain [B] [B] [B]."
+    "NAME": "Désassemblage",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi succombe, gagnez [B] [B] [B]."
   },
   "Winter": {
     "NAME": "Winter",
     "DESCRIPTION": "At the start of your turn, if you have an Orb slot, Channel 1 Frost."
   },
   "Go for the Eyes": {
-    "NAME": "Go for the Eyes",
-    "DESCRIPTION": "Deal !D! damage. If the enemy intends to attack, apply !M! Weak."
+    "NAME": "Vise les yeux",
+    "DESCRIPTION": "Infligez !D! dégât(s). Si l'ennemi compte attaquer, appliquez !M! de Faiblesse."
   },
   "Steam Power": {
-    "NAME": "Steam Power",
-    "DESCRIPTION": "Draw !M! cards. NL Add a Burn into your discard pile."
+    "NAME": "Machine à vapeur",
+    "DESCRIPTION": "Piochez !M! cartes. NL Ajoutez une Brûlure à votre défausse."
   },
   "Creative AI": {
-    "NAME": "Creative AI",
-    "DESCRIPTION": "At the start of each turn, add a random Power card to your hand."
+    "NAME": "IA créative",
+    "DESCRIPTION": "Au début de chaque tour, ajoutez un Pouvoir aléatoire à votre main."
   },
   "Stack": {
     "NAME": "Stack",
@@ -990,8 +990,8 @@
     "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
   },
   "Reboot": {
-    "NAME": "Reboot",
-    "DESCRIPTION": "Shuffle all of your cards into your draw pile, then draw !M! cards. NL Exhaust."
+    "NAME": "Redémarrage",
+    "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
     "NAME": "Redo",
@@ -1002,12 +1002,12 @@
     "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
   },
   "Self Repair": {
-    "NAME": "Self Repair",
-    "DESCRIPTION": "At the end of combat, heal !M! HP."
+    "NAME": "Autoréparation",
+    "DESCRIPTION": "À la fin du combat, récupérez !M! PV."
   },
   "Cache": {
-    "NAME": "Cache",
-    "DESCRIPTION": "At the end of your turn, choose !M! card from your draw pile and place it on top."
+    "NAME": "Mémoire cache",
+    "DESCRIPTION": "À la fin de votre tour, choisissez !M! cartes de votre pioche et placez-les au dessus."
   },
   "Loop": {
     "NAME": "Loop",
