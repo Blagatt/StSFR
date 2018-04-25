@@ -894,8 +894,8 @@
     "DESCRIPTION": "Épuisez une carte. NL Gagnez autant de [B] que son coût."
   },
   "Static Discharge": {
-    "NAME": "Static Discharge",
-    "DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
+    "NAME": "Static Discharge(?)",
+    "DESCRIPTION": "Quand vous recevez des dégâts, Canalisez !M! Orbe Kéraunique."
   },
   "Biased Cognition": {
     "NAME": "Cognition Biaisée(?)",
@@ -920,7 +920,7 @@
   },
   "FTL": {
     "NAME": "FTL",
-    "DESCRIPTION": "Deal !D! damage. If you have played less than !M! cards this turn, draw 1 card."
+    "DESCRIPTION": "Infligez !D! dégâts. Si vuos avez joué moins de !M! cartes ce tours, piochez une carte."
   },
   "Seek": {
     "NAME": "Recherche",
@@ -932,10 +932,10 @@
     "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes aléatoires."
   },
   "Thunder Strike": {
-    "NAME": "Thunder Strike",
-    "DESCRIPTION": "Deal damage equal to your Focus to a random enemy !M! times.",
+    "NAME": "Coup de tonnerre",
+    "DESCRIPTION": "Infligez des dégâts égaux à votre Concentration sur un ennemi aléatoire !M! fois.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Deals !D! damage.)"
+      " NL (Inglige !D! dégâts.)"
     ]
   },
   "Undo": {
@@ -943,8 +943,8 @@
     "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
   },
   "Beam Cell": {
-    "NAME": "Beam Cell",
-    "DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable."
+    "NAME": "Beam Cell(?)",
+    "DESCRIPTION": "Ingligez !D! dégâts et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
     "NAME": "Impulsion",
@@ -952,9 +952,9 @@
     "UPGRADE_DESCRIPTION": "Utilisez la capacité passive de chaque Orbes Canalisés."
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Evoke your next Orb X times.",
-    "UPGRADE_DESCRIPTION": "Evoke your next Orb X+1 times."
+    "NAME": "Multi-Cast(?)",
+    "DESCRIPTION": "Invoquez votre prochain Orbe X fois.",
+    "UPGRADE_DESCRIPTION": "Invoquez votre prochain Orbe X fois."
   },
   "Sunder": {
     "NAME": "Désassemblage",
@@ -1010,8 +1010,8 @@
     "DESCRIPTION": "À la fin de votre tour, choisissez !M! cartes de votre pioche et placez-les au dessus."
   },
   "Loop": {
-    "NAME": "Loop",
-    "DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb."
+    "NAME": "Boucle(?)",
+    "DESCRIPTION": "Au début de votre tour, déclenchez la capacité passive de votre prochain Orbe."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1023,57 +1023,57 @@
     "DESCRIPTION": "Piochez !M! cartes."
   },
   "Hyperbeam": {
-    "NAME": "Hyperbeam",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Lose !M! Focus."
+    "NAME": "Hyperbeam(?)",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Perdez !M! Concentration."
   },
   "Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Deal !M! damage to ALL enemies for each Power played this combat.",
+    "NAME": "Nova(?)",
+    "DESCRIPTION": "Infligez !M! dégâts pour chaque pouvoir joué dans ce combat.",
     "EXTENDED_DESCRIPTION": [
-      " NL Exhaust.",
-      " NL Deals !D! damage."
+      " NL Épuisement.",
+      " NL Infligez !D! dégâts."
     ]
   },
   "Turbo": {
     "NAME": "TURBO",
-    "DESCRIPTION": "Gain [B] [B]. NL Add a Void into your discard pile.",
-    "UPGRADE_DESCRIPTION": "Gain [B] [B] [B]. NL Add a Void into your discard pile."
+    "DESCRIPTION": "Gagnez [B] [B]. NL Ajoutez un Néant dans votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez [B] [B] [B]. NL Ajoutez un Néant dans votre défausse."
   },
   "All For One": {
-    "NAME": "All For One",
-    "DESCRIPTION": "Deal !D! damage. Put all Cost 0 cards from your discard pile into your hand."
+    "NAME": "Tous pour un",
+    "DESCRIPTION": "Infligez !D! dégâts. Placez toutes les cartes coûtant 0 de votre défausse dans votre main."
   },
   "Blaster": {
-    "NAME": "Blaster",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb."
+    "NAME": "Blaster(?)",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Gagnez [B] pour chaque Orbe canalisé."
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Evoke all of your Orbs. Increase your max Orb count by the number of Orbs Evoked."
+    "DESCRIPTION": "Invoquez toutes vos Orbes. Gagnez autant d'emplacement d'Orbe que d'Orbe invoqué."
   },
   "Barrage": {
     "NAME": "Barrage",
-    "DESCRIPTION": "Deal !D! damage for each Channeled Orb."
+    "DESCRIPTION": "Infligez !D! dégâts pour chaque Orbe canalisé."
   },
   "Reprogram": {
-    "NAME": "Reprogram",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. You may discard any of them."
+    "NAME": "Reprogram(?)",
+    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Vous pouvez les défausser."
   },
   "Rip and Tear": {
-    "NAME": "Rip and Tear",
-    "DESCRIPTION": "Deal !D! damage to !M! random targets."
+    "NAME": "Déchirer et arracher",
+    "DESCRIPTION": "Infligez !D! dégâts à !M! ennemis aléatoires."
   },
   "Ball Lightning": {
-    "NAME": "Ball Lightning",
-    "DESCRIPTION": "Deal !D! damage. Channel !M! Lightning."
+    "NAME": "Ball Lightning(?)",
+    "DESCRIPTION": "Infligez !D! dégâts. Canalisez !M! Orbe Kéraunique."
   },
   "Meteor Strike": {
-    "NAME": "Meteor Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Channel !M! Plasma."
+    "NAME": "Frappe de météor",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Canalisez !M! Orbe Plasmique."
   },
   "Auto Shields": {
-    "NAME": "Auto-Shields",
-    "DESCRIPTION": "If you have 0 Block, gain !B! Block."
+    "NAME": "Auto-Boucliers(?)",
+    "DESCRIPTION": "Si vous n'avez pas d'Armure, gagnez !B! d'Armure."
   },
   "Gash": {
     "NAME": "Entaille",
@@ -1107,17 +1107,17 @@
     "UPGRADE_DESCRIPTION": "Quand vous jouez un Pouvoir, piochez !M! cartes."
   },
   "Streamline": {
-    "NAME": "Streamline",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you play Streamline, reduce its cost by !M! for this combat."
+    "NAME": "Fuselage",
+    "DESCRIPTION": "Infligez !D! dégâts. NL À chaque fois que vous jouez Fuselage, son coût est réduit de !M!."
   },
   "Primitive Tech": {
     "NAME": "Technologie primitive",
     "DESCRIPTION": "Quand vous jouez une carte de rareté Commune, piochez !M! cartes."
   },
   "Coolheaded": {
-    "NAME": "Coolheaded",
-    "DESCRIPTION": "Channel 1 Frost. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Draw !M! cards."
+    "NAME": "Coolheaded(?)",
+    "DESCRIPTION": "Canalisez 1 Orbe Glaciaire. NL Piochez !M! cartes.",
+    "UPGRADE_DESCRIPTION": "Canalisez 1 Orbe Glaciaire. NL Piochez !M! cartes."
   },
   "Sweeping Beam": {
     "NAME": "Faisceau balayant",
@@ -1159,7 +1159,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Convecteur temporel",
-    "DESCRIPTION": "Remplacez tous les Orbes par des Orbes Plasmiques."
+    "DESCRIPTION": "Remplacez T les Orbes par des Orbes Plasmiques."
   },
   "White Noise": {
     "NAME": "Bruit blanc",
@@ -1197,8 +1197,8 @@
   },
   "Overclock": {
     "NAME": "Overclock",
-    "DESCRIPTION": "Gain !B! Block. Upgrade a random Orb.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. Upgrade all Orbs."
+    "DESCRIPTION": "Gagnez !B! d'Armure. Améliorez un Orbe aléatoire.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. Améliorez tous vos Orbes."
   },
   "Tempest": {
     "NAME": "Tempête",
