@@ -194,45 +194,47 @@
     },
     "FROST": {
       "NAMES": [
-        "frost",
-        "frost+"
+        "glace",
+        "glace+"
       ],
-      "DESCRIPTION": "Orb: Gains #yBlock."
+      "DESCRIPTION": "Orbe: Procure de #yl'Armure."
     },
     "EVOKE": {
       "NAMES": [
-        "evoke",
-        "evoked"
+        "actionnez",
+		"actionné"
       ],
-      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+      "DESCRIPTION": "Utilise votre Orbe le plus à droite et actionne son passif."
     },
     "LIGHTNING": {
       "NAMES": [
-        "lightning",
-        "lightning+"
+        "foudre",
+        "foudre+"
       ],
-      "DESCRIPTION": "Orb: Deals damage to random enemies."
+      "DESCRIPTION": "Orbe: Inglige des dégât à un ennemie àléatoire."
     },
     "DARK": {
       "NAMES": [
-        "dark",
-        "dark+"
+        "obscur",
+        "obscur+"
       ],
-      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yactionné, inflige des dégâts à l'ennemie qui a le moins de PV."
     },
     "CHANNEL": {
       "NAMES": [
-        "channel",
-        "channeled"
+        "canaliser",
+        "canalisez",
+		"canalisé",
+		"canalisés"
       ],
-      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+      "DESCRIPTION": "Cannaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre première Orbe est automatiquement #yActionné pour faire de la place."
     },
     "VOID": {
       "NAMES": [
-        "void",
-        "voids"
+        "néant",
+        "néants"
       ],
-      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consome de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [
@@ -245,13 +247,13 @@
         "plasma",
         "plasma+"
       ],
-      "DESCRIPTION": "Orb: Gains Energy."
+      "DESCRIPTION": "Orbe: Procure de l'Énergie."
     },
     "FOCUS": {
       "NAMES": [
-        "focus"
+        "concentration"
       ],
-      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
+      "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
     }
   }
 }
