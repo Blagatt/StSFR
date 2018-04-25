@@ -194,31 +194,32 @@
     },
     "FROST": {
       "NAMES": [
-        "glace",
-        "glace+"
+        "glaciaire",
+        "glaciaire+"
       ],
       "DESCRIPTION": "Orbe: Procure de #yl'Armure."
     },
     "EVOKE": {
       "NAMES": [
-        "actionnez",
-		"actionné"
+        "invoquez",
+		"invoqué",
+		"invoqués"
       ],
-      "DESCRIPTION": "Utilise votre Orbe le plus à droite et actionne son passif."
+      "DESCRIPTION": "Invoquez votre Orbe le plus à droite puis détruisez-le."
     },
     "LIGHTNING": {
       "NAMES": [
-        "foudre",
-        "foudre+"
+        "kéraunique",
+        "kéraunique+"
       ],
-      "DESCRIPTION": "Orbe: Inglige des dégât à un ennemie àléatoire."
+      "DESCRIPTION": "Orbe: Inflige des dégât à un ennemie àléatoire."
     },
     "DARK": {
       "NAMES": [
         "obscur",
         "obscur+"
       ],
-      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yactionné, inflige des dégâts à l'ennemie qui a le moins de PV."
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yinvoqué, inflige des dégâts à l'ennemie qui a le moins de PV."
     },
     "CHANNEL": {
       "NAMES": [
@@ -244,8 +245,8 @@
     },
     "PLASMA": {
       "NAMES": [
-        "plasma",
-        "plasma+"
+        "plasmique",
+        "plasmique+"
       ],
       "DESCRIPTION": "Orbe: Procure de l'Énergie."
     },

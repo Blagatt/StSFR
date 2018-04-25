@@ -1087,7 +1087,7 @@
     "NAME": "Cœur fissuré",
     "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il parrait fissurée.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yde #yFoudre."
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
     ]
   },
   "Inserter": {
@@ -1101,7 +1101,7 @@
     "NAME": "Emotion Chip",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Au début de chaque tours, si vous avez subis des dégâts au tour précédent, déclenche le passif de TOUTES vos Orbes."
+      "Au début de chaque tours, si vous avez subis des dégâts au tour précédent, déclenche la capassité passive de TOUTES vos Orbes."
     ]
   },
   "Runic Capacitor": {
@@ -1122,7 +1122,7 @@
     "NAME": "Batterie nucléaire",
     "FLAVOR": "Ooooh...",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yde #yPlasma."
+      "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yPlasma."
     ]
   },
   "Symbiotic Virus": {
@@ -1136,7 +1136,7 @@
     "NAME": "Cable plaqué-or",
     "FLAVOR": "\"Intéressant! Même les robots de combat sont affecté par l'effet placebo.\" - Ranwid",
     "DESCRIPTIONS": [
-      "Votre Orbe le plus à droite déclenche son passif une fois supplémentaire."
+      "Votre Orbe le plus à droite déclenche sa capacité passive une fois supplémentaire."
     ]
   },
   "DataDisk": {
