@@ -203,7 +203,8 @@
       "NAMES": [
         "invoquez",
 		"invoqué",
-		"invoqués"
+		"invoqués",
+		"invocation"
       ],
       "DESCRIPTION": "Invoquez votre Orbe le plus à droite puis détruisez-le."
     },
@@ -212,14 +213,14 @@
         "kéraunique",
         "kéraunique+"
       ],
-      "DESCRIPTION": "Orbe: Inflige des dégât à un ennemie àléatoire."
+      "DESCRIPTION": "Orbe: Inflige des dégât à un ennemi àléatoire."
     },
     "DARK": {
       "NAMES": [
         "obscur",
         "obscur+"
       ],
-      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yinvoqué, inflige des dégâts à l'ennemie qui a le moins de PV."
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tours. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
     },
     "CHANNEL": {
       "NAMES": [
