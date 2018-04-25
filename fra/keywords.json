@@ -191,6 +191,67 @@
         "brûlures"
       ],
       "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous ingligent des dégâts."
+    },
+    "FROST": {
+      "NAMES": [
+        "frost",
+        "frost+"
+      ],
+      "DESCRIPTION": "Orb: Gains #yBlock."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "evoke",
+        "evoked"
+      ],
+      "DESCRIPTION": "Consume your rightmost Orb and use its Evoke effect."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "lightning",
+        "lightning+"
+      ],
+      "DESCRIPTION": "Orb: Deals damage to random enemies."
+    },
+    "DARK": {
+      "NAMES": [
+        "dark",
+        "dark+"
+      ],
+      "DESCRIPTION": "Orb: Increases damage every turn. When #yEvoked, deals damage to the enemy with the least HP."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "channel",
+        "channeled"
+      ],
+      "DESCRIPTION": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically #yEvoked to make room."
+    },
+    "VOID": {
+      "NAMES": [
+        "void",
+        "voids"
+      ],
+      "DESCRIPTION": "Voids are unplayable status cards that consume energy when drawn."
+    },
+    "OPENER": {
+      "NAMES": [
+        "opener"
+      ],
+      "DESCRIPTION": "Opener cards may only be played as the first card each turn."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasma",
+        "plasma+"
+      ],
+      "DESCRIPTION": "Orb: Gains Energy."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "focus"
+      ],
+      "DESCRIPTION": "Focus increases the effectiveness of #yChanneled Orbs."
     }
   }
 }
