@@ -795,7 +795,7 @@
     ]
   },
   "Hello": {
-    "NAME": "Bonjour",
+    "NAME": "Hello",
     "DESCRIPTIONS": [
       "Au début de chaque tour, ajoutez #b",
       " cartes Communes aléatoire à votre main.",
@@ -819,7 +819,7 @@
   "StaticDischarge": {
     "NAME": "Décharge statique",
     "DESCRIPTIONS": [
-      "Quand vous recevez des dégâts d'une #yAttaque, #yCanalisez #b",
+      "Quand vous subissez des dégâts d'une #yAttaque, #yCanalisez #b",
       " de #yFoudre."
     ]
   },

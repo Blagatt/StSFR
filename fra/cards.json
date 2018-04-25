@@ -977,29 +977,29 @@
     "DESCRIPTION": "Au début de chaque tour, ajoutez un Pouvoir aléatoire à votre main."
   },
   "Stack": {
-    "NAME": "Empilement(?)",
-    "DESCRIPTION": "Gagnez autant d'Armure que de cartes de votre défausse.",
-    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure que de cartes de votre défausse + 3.",
+    "NAME": "Pile",
+    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes de votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes de votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez !B! d'Armure.)"
     ]
   },
   "Hello World": {
     "NAME": "Hello World",
-    "DESCRIPTION": "At the start of your turn, add a random Common card into your hand.",
-    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, add a random Common card into your hand."
+    "DESCRIPTION": "Au début de chaque tour, ajoutez une carte Commune aléatoire à votre main.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Au début de chaque tour, ajoutez une carte Commune aléatoire à votre main."
   },
   "Reboot": {
     "NAME": "Redémarrage",
     "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
-    "NAME": "Redo",
-    "DESCRIPTION": "Evoke your next Orb. NL Channel the Orb that was just Evoked."
+    "NAME": "Rétablir",
+    "DESCRIPTION": "Invoquez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Invoquer."
   },
   "Prime": {
-    "NAME": "Prime",
-    "DESCRIPTION": "Whenever you Channel an Orb, draw !M! card."
+    "NAME": "Préparation",
+    "DESCRIPTION": "Quand vous Canalisez un Orbe, piochez !M! cartes."
   },
   "Self Repair": {
     "NAME": "Autoréparation",
@@ -1015,12 +1015,12 @@
   },
   "Glacier": {
     "NAME": "Glacier",
-    "DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Channel !M! Frost."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires."
   },
   "Skim": {
     "NAME": "Skim",
-    "DESCRIPTION": "Draw !M! cards."
+    "DESCRIPTION": "Piochez !M! cartes."
   },
   "Hyperbeam": {
     "NAME": "Hyperbeam",
@@ -1076,21 +1076,21 @@
     "DESCRIPTION": "If you have 0 Block, gain !B! Block."
   },
   "Gash": {
-    "NAME": "Gash",
-    "DESCRIPTION": "Deal !D! damage. NL All Gash cards deal !M! additional damage this combat."
+    "NAME": "Entaille",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégâts supplémentaires ce combat."
   },
   "Melter": {
-    "NAME": "Melter",
-    "DESCRIPTION": "Remove all Block from an enemy. NL Deal !D! damage."
+    "NAME": "Fusion",
+    "DESCRIPTION": "Enlevez toute l'Armure de l'ennemi. NL Infligez !D! dégât(s)."
   },
   "Chill": {
-    "NAME": "Chill",
-    "DESCRIPTION": "Channel !M! Frost for each enemy in combat. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+    "NAME": "Frisson",
+    "DESCRIPTION": "Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement."
   },
   "Reinforced Body": {
-    "NAME": "Reinforced Body",
-    "DESCRIPTION": "Gain !B! Block X times."
+    "NAME": "Renforcement",
+    "DESCRIPTION": "gagnez !B! d'Armure X fois."
   },
   "Cold Snap": {
     "NAME": "Vague de froid",
