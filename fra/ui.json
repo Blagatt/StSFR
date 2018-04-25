@@ -281,11 +281,6 @@
       "Dupliquer"
     ]
   },
-  "HiddenChamberAction": {
-    "TEXT": [
-      "Dupliquer"
-    ]
-  },
   "DeathScreen": {
     "TEXT": [
       "Continuer",
@@ -439,8 +434,8 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
-      "Menu du jeu",
+      "",
+      "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
       "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
@@ -575,7 +570,7 @@
       "Commencer",
       "Le Soldat de fer",
       "La Silencieuse",
-      "Corbot",
+      "Le Défectueux",
       "Retour",
       "Ascension",
       "Niveau ",
@@ -726,7 +721,7 @@
       "Bloqué",
       "le Soldat de fer",
       "la Silencieuse",
-      "the Gunner"
+      "le Défectueux"
     ]
   },
   "ExhaustAction": {
@@ -823,7 +818,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "3rd Char. DO NOT TRANSLATE",
+      "Le Défectueux",
       "Étage atteint moyen (sur les 20 dernières tentatives)",
       "Score moyen (sur les 20 dernières tentatives)",
       "Meilleure série de victoires",
@@ -883,7 +878,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "",
+      "Le Défectueux",
       "Retour",
       "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
