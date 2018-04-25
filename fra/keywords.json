@@ -202,9 +202,9 @@
     "EVOKE": {
       "NAMES": [
         "invoquez",
-		"invoqué",
-		"invoqués",
-		"invocation"
+        "invoqué",
+        "invoqués",
+        "invocation"
       ],
       "DESCRIPTION": "Invoquez votre Orbe le plus à droite puis détruisez-le."
     },
@@ -226,8 +226,8 @@
       "NAMES": [
         "canaliser",
         "canalisez",
-		"canalisé",
-		"canalisés"
+        "canalisé",
+        "canalisés"
       ],
       "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #Invoqué pour faire de la place."
     },
