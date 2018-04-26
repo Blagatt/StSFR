@@ -857,7 +857,7 @@
   "Conserve": {
     "NAME": "Économie",
     "DESCRIPTIONS": [
-      "L' #yÉnergie est conservée ce tour.",
+      "L' #yÉnergie est conservée pour le prochain tour.",
       "L' #yÉnergie est conservée pour les #b",
       " prochains tours."
     ]
