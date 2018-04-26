@@ -928,7 +928,7 @@
   },
   "Chaos": {
     "NAME": "Chaos",
-    "DESCRIPTION": "Canalisez !M! Orbes aléatoires.",
+    "DESCRIPTION": "Canalisez !M! Orbe aléatoire.",
     "UPGRADE_DESCRIPTION": "Canalisez !M! Orbes aléatoires."
   },
   "Thunder Strike": {
@@ -1015,8 +1015,8 @@
   },
   "Glacier": {
     "NAME": "Glacier",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s).",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s)."
   },
   "Skim": {
     "NAME": "Skim",
@@ -1077,16 +1077,16 @@
   },
   "Gash": {
     "NAME": "Entaille",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégâts supplémentaires ce combat."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégât(s) supplémentaires ce combat."
   },
   "Melter": {
-    "NAME": "Fusion",
+    "NAME": "Fondeur",
     "DESCRIPTION": "Enlevez toute l'Armure de l'ennemi. NL Infligez !D! dégât(s)."
   },
   "Chill": {
     "NAME": "Frisson",
-    "DESCRIPTION": "Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement."
+    "DESCRIPTION": "Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement."
   },
   "Reinforced Body": {
     "NAME": "Renforcement",
@@ -1094,7 +1094,7 @@
   },
   "Cold Snap": {
     "NAME": "Vague de froid",
-    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! de Glace."
+    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe(s) Glaciaire(s)."
   },
   "Buffer": {
     "NAME": "Tampon",
@@ -1159,7 +1159,7 @@
   },
   "Flux Capacitor": {
     "NAME": "Convecteur temporel",
-    "DESCRIPTION": "Remplacez tous les Orbes par des Orbes Plasmiques."
+    "DESCRIPTION": "Remplacez tous vos Orbes par des Orbes Plasmiques."
   },
   "White Noise": {
     "NAME": "Bruit blanc",
@@ -1188,7 +1188,7 @@
   },
   "Zap": {
     "NAME": "Électrisation",
-    "DESCRIPTION": "Canalisez !M! Orbes Kérauniques."
+    "DESCRIPTION": "Canalisez !M! Orbe(s) Kéraunique(s)."
   },
   "Energy Pulse": {
     "NAME": "Impulsion d'énergie",
@@ -1217,8 +1217,8 @@
   },
   "Machine Learning": {
     "NAME": "Machine Learning",
-    "DESCRIPTION": "Piochez !M! cartes supplémentaires au début de chaque tour.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Piochez !M! cartes supplémentaires au début de chaque tour."
+    "DESCRIPTION": "Piochez !M! carte supplémentaire au début de chaque tour.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Piochez !M! carte supplémentaire au début de chaque tour."
   },
   "Magnetism": {
     "NAME": "Magnétisme",
