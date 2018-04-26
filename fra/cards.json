@@ -47,7 +47,7 @@
   },
   "Underhanded Strike": {
     "NAME": "Frappe sournoise",
-    "DESCRIPTION": "Infligez !D! dégat(s). NL Si vous avez défaussé une carte ce tour, gagnez [G] [G].",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez défaussé une carte ce tour, gagnez [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -882,7 +882,7 @@
   },
   "Genetic Algorithm": {
     "NAME": "Algorithme génétique",
-    "DESCRIPTION": "Gagnez !B! d'Armure. Après avoir été jouée, l'Armure de cette carte augmente de !M! définitivement. Épuisement."
+    "DESCRIPTION": "Gagnez !B! d'Armure. Après avoir été jouée, l'Armure de cette carte augmente de !M! définitivement. NL Épuisement."
   },
   "Darkness": {
     "NAME": "Ténèbres",
@@ -935,7 +935,7 @@
     "NAME": "Coup de tonnerre",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique pendant ce combat.",
     "EXTENDED_DESCRIPTION": [
-      " (Channeled !M! Lightning.)"
+      " (!M! Orbes Kérauniques Canalisés.)"
     ]
   },
   "Undo": {
@@ -1061,7 +1061,7 @@
   },
   "Rip and Tear": {
     "NAME": "Arracher et déchirer",
-    "DESCRIPTION": "Infligez !D! dégât(s) à !M! ennemi(s) aléatoire(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois."
   },
   "Ball Lightning": {
     "NAME": "Foudre en boule",
@@ -1151,16 +1151,16 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez !M! dégats à TOUS les ennemis pour chaque Orbe Glaciaire canalisé pendant le combat.",
+    "DESCRIPTION": "Infligez des dégâts équivalent à 2 fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Ingligez !D! dégats.)",
+      " NL (!M! Orbes Glaciaires Canalisés.)",
       "."
     ],
-    "UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies."
+    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalent à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
   },
   "Flux Capacitor": {
     "NAME": "Convecteur temporel",
-    "DESCRIPTION": "Remplacez tous vos Orbes par des Orbes Plasmiques."
+    "DESCRIPTION": "Remplacez tous vos Orbes Canalisés par des Orbes Plasmiques. NL Épuisement."
   },
   "White Noise": {
     "NAME": "Bruit blanc",

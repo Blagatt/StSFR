@@ -1091,8 +1091,8 @@
     ]
   },
   "Inserter": {
-    "NAME": "Inserter (?)",
-    "FLAVOR": "Refroidir le cœur empêchera les dégâts importants. (?)",
+    "NAME": "Inserter",
+    "FLAVOR": "Manquant.",
     "DESCRIPTIONS": [
       "Tous les #2 tours, gagnez #b1 emplacement d'Orbe."
     ]
