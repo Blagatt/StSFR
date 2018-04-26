@@ -1,5 +1,31 @@
 Updates for Translators!
 
+04/26/2018:
+cards.json
+	"Ice Wall"
+		Descriptions now say Deprecated.
+	"Flux Capacitor"
+		Now exhausts: "DESCRIPTION": "Replace all Channeled Orbs with Plasma. NL Exhaust."
+	"Rip and Tear"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+	"Genetic Algorithm"
+		Adding a newline for Exhaust.
+		"DESCRIPTION": "Gain !B! Block. When played, permanently increase this card's Block by !M!. NL Exhaust."
+	"Blizzard"
+		Description updates.
+		"DESCRIPTION": "Deal damage equal to twice the Frost Channeled this combat to ALL enemies.",
+		"UPGRADE_DESCRIPTION": "Deal damage equal !M! times the Frost Channeled this combat to ALL enemies.",
+	"Thunder Strike"
+		EXTENDED_DESCRIPTION: " (Channeled !M! Lightning.)"
+relics.json
+	"Inserter"
+		Description was incorrect, placeholder inserted for now.
+	"Symbiotic Virus"
+		Typo fix: badbad
+		 "FLAVOR": "A little bit of #rbad can do a lot of #ggood...",
+		 
+----------------------------------
+
 04/25/2018:
 cards.json
 	"Fission"
