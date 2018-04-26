@@ -1151,12 +1151,12 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez des dégâts équivalent à 2 fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez des dégâts équivalents à 2 fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " NL (!M! Orbes Glaciaires Canalisés.)",
       "."
     ],
-    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalent à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
+    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
   },
   "Flux Capacitor": {
     "NAME": "Convecteur temporel",
