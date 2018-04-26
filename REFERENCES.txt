@@ -27,6 +27,7 @@ RELICS
 	Du-Vu Doll: References Voodoo doll.
 	Enchiridion: References the Enchirdion, specifically the one from Adventure Time.
 	Golden Idol/Bloody Idol: References the Golden Idol from Spelunky.
+	Gold-Plated Cables: Flavor text references plating cables with gold to improve them (hint: it doesn't).
 	Happy Flower: References the Sunflower from Plants vs Zombies.
 	Lee's Waffle: References Lee, friend of the developer- he had a waffle machine at work.
 	Necronomicon: References the Necronomicon from Evil Dead.

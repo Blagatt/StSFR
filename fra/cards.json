@@ -933,10 +933,7 @@
   },
   "Thunder Strike": {
     "NAME": "Coup de tonnerre",
-    "DESCRIPTION": "Infligez des dégâts équivalents à votre Concentration à un ennemi aléatoire !M! fois.",
-    "EXTENDED_DESCRIPTION": [
-      " NL (Inflige !D! dégât(s).)"
-    ]
+    "DESCRIPTION": "Infligez des dégâts équivalents à votre Concentration à un ennemi aléatoire !M! fois."
   },
   "Undo": {
     "NAME": "Annuler",

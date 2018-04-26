@@ -1,4 +1,33 @@
 Updates for Translators!
+
+04/25/2018:
+cards.json
+	"Fission"
+		Clarifying description a bit.
+	"Blizzard"
+		Reworked. Updates to both Description and Extended Description
+	"Blaster"
+		Now exhausts:
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain [B] for each Channeled Orb. NL Exhaust."
+	"Thunder Strike"
+		Reworked.
+		Extended Description removed.
+	"Overclock"
+		"Deprecated."
+	"Winter"
+		"Deprecated."
+	"Cache"
+		"Deprecated."
+	"Primitive Tech"
+		"Deprecated."
+	"Channel"
+		"Deprecated."
+ui.json
+	"CharacterOption"
+		"This character is unlocked by reaching the top of the Spire." -> "This character is unlocked by completing a run with the Silent"
+		 
+----------------------------------
+
 04/24/2018:
 achievements.json
 	"Sapphire"
