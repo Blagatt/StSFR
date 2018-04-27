@@ -886,8 +886,8 @@
   },
   "Darkness": {
     "NAME": "Ténèbres",
-    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Canalisez !M! Orbe(s) Obscur(s).",
-    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse. NL Appliquez !M! de Vulnérabilité. NL Canalisez !M! Orbe(s) Obscur(s)."
+    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Canalisez !M! Orbe Obscur.",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse et !M! de Vulnérabilité. NL Canalisez !M! Orbe Obscur."
   },
   "Recycle": {
     "NAME": "Recyclage",
@@ -903,7 +903,7 @@
   },
   "Allocate": {
     "NAME": "Attribution",
-    "DESCRIPTION": "Gagnez !M! Concentration. NL Perdez 1 Force. NL Perdez 1 Dextérité."
+    "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 de Force. NL Perdez 1 de Dextérité."
   },
   "Channel": {
     "NAME": "Deprecated.",
@@ -933,7 +933,7 @@
   },
   "Thunder Strike": {
     "NAME": "Coup de tonnerre",
-    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique pendant ce combat.",
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique Canalisé ce combat.",
     "EXTENDED_DESCRIPTION": [
       " (!M! Orbes Kérauniques Canalisés.)"
     ]
@@ -1015,8 +1015,8 @@
   },
   "Glacier": {
     "NAME": "Glacier",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s).",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbe(s) Glaciaire(s)."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires."
   },
   "Skim": {
     "NAME": "Skim",
@@ -1065,7 +1065,7 @@
   },
   "Ball Lightning": {
     "NAME": "Foudre en boule",
-    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe(s) Kéraunique(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe Kéraunique."
   },
   "Meteor Strike": {
     "NAME": "Chute de météorite",
@@ -1085,8 +1085,8 @@
   },
   "Chill": {
     "NAME": "Frisson",
-    "DESCRIPTION": "Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe(s) Glaciaire(s) pour chaque ennemi dans ce combat. NL Épuisement."
+    "DESCRIPTION": "Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement."
   },
   "Reinforced Body": {
     "NAME": "Renforcement",
@@ -1094,7 +1094,7 @@
   },
   "Cold Snap": {
     "NAME": "Vague de froid",
-    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe(s) Glaciaire(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). Canalisez !M! Orbe Glaciaire."
   },
   "Buffer": {
     "NAME": "Tampon",
@@ -1168,7 +1168,7 @@
   },
   "Fusion": {
     "NAME": "Fusion",
-    "DESCRIPTION": "Canalisez !M! Orbe(s) Plasmique(s)."
+    "DESCRIPTION": "Canalisez !M! Orbe Plasmique."
   },
   "Doom and Gloom": {
     "NAME": "Pessimisme",
@@ -1189,7 +1189,7 @@
   },
   "Zap": {
     "NAME": "Électrisation",
-    "DESCRIPTION": "Canalisez !M! Orbe(s) Kéraunique(s)."
+    "DESCRIPTION": "Canalisez !M! Orbe Kéraunique."
   },
   "Energy Pulse": {
     "NAME": "Impulsion d'énergie",
