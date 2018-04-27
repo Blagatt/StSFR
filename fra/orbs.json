@@ -24,7 +24,7 @@
   "Lightning": {
     "DESCRIPTION": [
       "#yPassif: À la fin du tour, infligez #b",
-      " dégâts à un ennemi aléatoire. NL #Invocation: Infligez #b",
+      " dégâts à un ennemi aléatoire. NL #yInvocation: Infligez #b",
       " dégâts à un ennemi aléatoire."
     ],
     "NAME": "Kéraunique"
