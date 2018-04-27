@@ -1094,7 +1094,7 @@
     "NAME": "Inserter (?)",
     "FLAVOR": "Manquant.",
     "DESCRIPTIONS": [
-      "Tous les #2 tours, gagnez #b1 emplacement d'Orbe."
+      "Tous les #b2 tours, gagnez #b1 emplacement d'Orbe."
     ]
   },
   "Emotion Chip": {

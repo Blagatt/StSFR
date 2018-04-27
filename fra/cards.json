@@ -1077,7 +1077,7 @@
   },
   "Gash": {
     "NAME": "Entaille",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégât(s) supplémentaires ce combat."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Toutes les cartes Entaille font !M! dégâts supplémentaires ce combat."
   },
   "Melter": {
     "NAME": "Fondeur",
@@ -1086,7 +1086,7 @@
   "Chill": {
     "NAME": "Frisson",
     "DESCRIPTION": "Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Inné. NL Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement."
+    "UPGRADE_DESCRIPTION": "Inné. Canalisez !M! Orbe Glaciaire pour chaque ennemi dans ce combat. NL Épuisement."
   },
   "Reinforced Body": {
     "NAME": "Renforcement",
@@ -1151,9 +1151,10 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez des dégâts équivalents à 2 fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+	"UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
-      " NL (!M! Orbes Glaciaires Canalisés.)",
+      " NL ( !M! Orbes Glaciaires.)",
       "."
     ],
     "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
