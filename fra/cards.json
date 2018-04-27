@@ -1069,7 +1069,7 @@
   },
   "Meteor Strike": {
     "NAME": "Chute de météorite",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez !M! Orbe(s) Plasmique(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez !M! Orbes Plasmiques."
   },
   "Auto Shields": {
     "NAME": "Bouclier automatique",
@@ -1172,7 +1172,7 @@
   },
   "Doom and Gloom": {
     "NAME": "Pessimisme",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Canalisez !M! Orbe(s) Obscur(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Canalisez !M! Orbe Obscur."
   },
   "Rebound": {
     "NAME": "Rebond",

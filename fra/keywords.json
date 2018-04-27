@@ -195,9 +195,7 @@
     "FROST": {
       "NAMES": [
         "glaciaire",
-        "glaciaire+",
-        "glaciaires",
-        "glaciaires+"
+        "glaciaires"
       ],
       "DESCRIPTION": "Orbe: Procure de #yl'Armure."
     },
@@ -213,18 +211,15 @@
     "LIGHTNING": {
       "NAMES": [
         "kéraunique",
-        "kéraunique+",
         "kérauniques",
-        "kérauniques+"
+		"kéraunique(s)"
       ],
       "DESCRIPTION": "Orbe: Inflige des dégâts à un ennemi aléatoire."
     },
     "DARK": {
       "NAMES": [
         "obscur",
-        "obscur+",
-        "obscurs",
-        "obscurs+"
+        "obscurs"
       ],
       "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
     },
@@ -253,9 +248,7 @@
     "PLASMA": {
       "NAMES": [
         "plasmique",
-        "plasmique+",
-        "plasmiques",
-        "plasmiques+"
+        "plasmiques"
       ],
       "DESCRIPTION": "Orbe: Procure de l'Énergie."
     },
