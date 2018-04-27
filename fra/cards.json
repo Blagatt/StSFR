@@ -999,7 +999,7 @@
   },
   "Prime": {
     "NAME": "Préparation",
-    "DESCRIPTION": "Quand vous Canalisez un Orbe, piochez !M! cartes."
+    "DESCRIPTION": "Quand vous Canalisez un Orbe, piochez !M! carte."
   },
   "Self Repair": {
     "NAME": "Autoréparation",
@@ -1121,7 +1121,7 @@
   },
   "Sweeping Beam": {
     "NAME": "Faisceau balayant",
-    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Piochez !M! cartes."
+    "DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. NL Piochez !M! carte."
   },
   "Storm": {
     "NAME": "Orage",
