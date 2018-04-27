@@ -1154,7 +1154,7 @@
     "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
 	"UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
-      " NL ( !M! Orbes Glaciaires.)",
+      " ( !M! Orbes Glaciaires.)",
       "."
     ],
     "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
