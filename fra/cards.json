@@ -902,7 +902,7 @@
     "DESCRIPTION": "Gagnez !M! de Concentration. NL Au début de chaque tour, perdez 1 de Concentration."
   },
   "Allocate": {
-    "NAME": "Attribution",
+    "NAME": "Allocation",
     "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 de Force. NL Perdez 1 de Dextérité."
   },
   "Channel": {
@@ -1057,7 +1057,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogrammation",
-    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe laquelle d'entre elles."
+    "DESCRIPTION": "Regardez les !M! premières cartes de votre pioche. Défaussez n'importe lesquelles."
   },
   "Rip and Tear": {
     "NAME": "Arracher et déchirer",
