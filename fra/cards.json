@@ -943,7 +943,7 @@
     "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
   },
   "Beam Cell": {
-    "NAME": "Beam Cell (?)",
+    "NAME": "Faisceau Cellulaire",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
