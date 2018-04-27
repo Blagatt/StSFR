@@ -281,11 +281,6 @@
       "Dupliquer"
     ]
   },
-  "HiddenChamberAction": {
-    "TEXT": [
-      "Dupliquer"
-    ]
-  },
   "DeathScreen": {
     "TEXT": [
       "Continuer",
@@ -439,8 +434,8 @@
   },
   "OptionsPanel": {
     "TEXT": [
-      "REMARQUE : les options en ROUGE ne sont pas encore implémentées.",
-      "Menu du jeu",
+      "",
+      "Options de jeu",
       "Graphismes",
       "Résolution : NL Fréquence d'images max :",
       "Plein écran NL Plein écran fenêtré (recommandé) NL Tremblement de l'écran",
@@ -458,7 +453,8 @@
       "Sauvegarder et quitter",
       "NL NL Synchronisation verticale",
       "Mode artistique du testeur",
-      "Montrer les raccourcis de sélection de cartes"
+      "Montrer les raccourcis de sélection de cartes",
+      "Input Settings"
     ]
   },
   "SettingsScreen": {
@@ -559,7 +555,7 @@
       "Verrouillé",
       "Ce personnage peut être déverrouillé en terminant une partie.",
       "Ce personnage n'est pas disponible en accès anticipé.",
-      "Ce personnage peut être déverrouillé en atteignant le haut de la Tour.",
+      "Ce personnage peut être déverrouillé en terminant une partie avec la Silencieuse.",
       "PV : ",
       "Or : ",
       " À déverrouiller",
@@ -574,7 +570,7 @@
       "Commencer",
       "Le Soldat de fer",
       "La Silencieuse",
-      "Corbot",
+      "Le Défectueux",
       "Retour",
       "Ascension",
       "Niveau ",
@@ -725,7 +721,7 @@
       "Bloqué",
       "le Soldat de fer",
       "la Silencieuse",
-      "the Gunner"
+      "le Défectueux"
     ]
   },
   "ExhaustAction": {
@@ -822,7 +818,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "3rd Char. DO NOT TRANSLATE",
+      "Le Défectueux",
       "Étage atteint moyen (sur les 20 dernières tentatives)",
       "Score moyen (sur les 20 dernières tentatives)",
       "Meilleure série de victoires",
@@ -882,7 +878,7 @@
     "TEXT": [
       "Le Soldat de fer",
       "La Silencieuse",
-      "",
+      "Le Défectueux",
       "Retour",
       "Pas d'historique de parties trouvé. NL Allez vaincre la Tour !",
       "Niveau d'Ascension : ",
@@ -986,7 +982,7 @@
       "Changez votre résolution et activez/désactivez des options.",
       "Contrôles",
       "",
-      "Cette fonctionnalité n'est pas encore disponible.",
+      "Modifier les contrôles au clavier ou à la manette.",
       "Crédits",
       "",
       "Tous les gens qui ont contribué à Slay the Spire !",
@@ -1032,6 +1028,60 @@
       "Confirmer",
       "Annuler",
       "*Les succès et le partage de votre score sont désactivés si vous utilisez une Seed personnalisée."
+    ]
+  },
+  "InputKeyNames": {
+    "TEXT_DICT": {
+      "Escape": "Échap",
+      "Forward Delete": "Suppr",
+      "Delete": "Retour arrière"
+    }
+  },
+  "ReprogramAction": {
+    "TEXT": [
+      "Défausser"
+    ]
+  },
+  "InputSettingsScreen": {
+    "TEXT": [
+      "Contrôles",
+      "Paramètres de jeu",
+      "Retour (?)",
+      "Commandes (?)",
+      "Clavier",
+      "Manette (Bientôt)",
+      "Réinitialiser",
+      "Confirmer",
+      "Annuler / Quitter",
+      "Carte",
+      "Deck",
+      "Pioche",
+      "Défausse",
+      "Cartes épuisées",
+      "Fin du tour",
+      "Gauche",
+      "Droite",
+      "Sélectionner la carte n°1",
+      "Sélectionner la carte n°2",
+      "Sélectionner la carte n°3",
+      "Sélectionner la carte n°4",
+      "Sélectionner la carte n°5",
+      "Sélectionner la carte n°6",
+      "Sélectionner la carte n°7",
+      "Sélectionner la carte n°8",
+      "Sélectionner la carte n°9",
+      "Sélectionner la carte n°10"
+    ]
+  },
+  "CacheAction": {
+    "TEXT": [
+      "Choisissez une carte à placer au dessus de votre pioche.",
+      "Choisissez les cartes à placer au dessus de votre pioche."
+    ]
+  },
+  "HiddenChamberAction": {
+    "TEXT": [
+      ""
     ]
   }
 }
