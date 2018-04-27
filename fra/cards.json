@@ -953,8 +953,8 @@
   },
   "Multi-Cast": {
     "NAME": "Multi-Cast",
-    "DESCRIPTION": "Invoquez votre prochain Orbe X fois.",
-    "UPGRADE_DESCRIPTION": "Invoquez votre prochain Orbe X+1 fois."
+    "DESCRIPTION": "Activez votre prochain Orbe X fois.",
+    "UPGRADE_DESCRIPTION": "Activez votre prochain Orbe X+1 fois."
   },
   "Sunder": {
     "NAME": "Désassemblage",
@@ -995,7 +995,7 @@
   },
   "Redo": {
     "NAME": "Rétablir",
-    "DESCRIPTION": "Invoquez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Invoquer."
+    "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
     "NAME": "Préparation",
@@ -1049,7 +1049,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Invoquez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Invoqué d'Orbes."
+    "DESCRIPTION": "Activez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Activé d'Orbes."
   },
   "Barrage": {
     "NAME": "Barrage",
@@ -1130,7 +1130,7 @@
   },
   "Dualcast": {
     "NAME": "Dualcast",
-    "DESCRIPTION": "Invoquez votre prochain Orbe 2 fois."
+    "DESCRIPTION": "Activez votre prochain Orbe 2 fois."
   },
   "Ice Wall": {
     "NAME": "Mur de glace",
@@ -1237,6 +1237,6 @@
   },
   "Axe Kick": {
     "NAME": "Coup de pied en marteau",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Invoquez votre prochain Orbe."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Activez votre prochain Orbe."
   }
 }
