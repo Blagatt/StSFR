@@ -17,7 +17,8 @@
     },
     "CURSE": {
       "NAMES": [
-        "malédiction"
+        "malédiction",
+		"malédictions"
       ],
       "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
@@ -89,7 +90,8 @@
     },
     "TRANSFORM": {
       "NAMES": [
-        "transforme",
+        "transformer",
+		"transforme",
         "transformez"
       ],
       "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
@@ -201,10 +203,10 @@
     },
     "EVOKE": {
       "NAMES": [
-        "activez",
+        "activation",
         "activé",
         "activés",
-        "activation"
+        "activez"
       ],
       "DESCRIPTION": "Utilisez la capacité d'Activation de votre Orbe le plus à droite puis détruisez-le."
     },
