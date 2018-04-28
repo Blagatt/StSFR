@@ -1152,7 +1152,7 @@
   "Blizzard": {
     "NAME": "Blizzard",
     "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": ""Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Canalisés.)",
       "."
