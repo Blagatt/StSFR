@@ -1085,7 +1085,7 @@
   },
   "Cracked Core": {
     "NAME": "Cœur fissuré",
-    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il parrait fissurée.",
+    "FLAVOR": "La mystérieuse forme vitale qui alimente le robot de combat dans la Tour. Il paraît fissuré.",
     "DESCRIPTIONS": [
       "Au début de chaque combat, #yCanalisez #b1 #yOrbe #yKéraunique."
     ]
