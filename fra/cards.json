@@ -1152,12 +1152,11 @@
   "Blizzard": {
     "NAME": "Blizzard",
     "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-	"UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Glaciaires.)",
       "."
-    ],
-    "UPGRADE_DESCRIPTION": "Infligez des dégâts équivalents à !M! fois vos Orbes Glaciaires Canalisés pendant ce combat à TOUS les ennemis."
+    ]
   },
   "Flux Capacitor": {
     "NAME": "Convecteur temporel",
@@ -1233,10 +1232,15 @@
   },
   "Echo Form": {
     "NAME": "Écho",
-    "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois."
+    "DESCRIPTION": "La première carte que vous jouez chaque tour est jouée deux fois.",
+    "UPGRADE_DESCRIPTION": "The first card you play each turn is played twice."
   },
   "Axe Kick": {
     "NAME": "Coup de pied en marteau",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Invoquez votre prochain Orbe."
+  },
+  "Scrape": {
+    "NAME": "Scrape",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Discard any non-cost 0 cards drawn this way."
   }
 }
