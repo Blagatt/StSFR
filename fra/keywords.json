@@ -237,7 +237,7 @@
         "néant",
         "néants"
       ],
-      "DESCRIPTION": "Les cartes Néant sont des Statut injouable qui consomme de l'énergie quand elles sont piochées."
+      "DESCRIPTION": "Les Néant sont des cartes Statut injouable qui consomme de l'énergie quand elles sont piochées."
     },
     "OPENER": {
       "NAMES": [
