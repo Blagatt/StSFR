@@ -201,12 +201,12 @@
     },
     "EVOKE": {
       "NAMES": [
-        "invoquez",
-        "invoqué",
-        "invoqués",
-        "invocation"
+        "activez",
+        "activé",
+        "activés",
+        "activation"
       ],
-      "DESCRIPTION": "Invoquez votre Orbe le plus à droite puis détruisez-le."
+      "DESCRIPTION": "Utilisez la capacité d'Activation de votre Orbe le plus à droite puis détruisez-le."
     },
     "LIGHTNING": {
       "NAMES": [
@@ -221,7 +221,7 @@
         "obscur",
         "obscurs"
       ],
-      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yinvoqué, inflige des dégâts à l'ennemi qui a le moins de PV."
+      "DESCRIPTION": "Orbe: Augmente les dégâts chaque tour. Quand il est #yactivé, inflige des dégâts à l'ennemi qui a le moins de PV."
     },
     "CHANNEL": {
       "NAMES": [
@@ -230,7 +230,7 @@
         "canalisé",
         "canalisés"
       ],
-      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yInvoqué pour faire de la place."
+      "DESCRIPTION": "Canaliser un Orbe le place dans votre premier emplacement vide. Si vous n'avez pas d'emplacement vide, votre premier Orbe est automatiquement #yActivé pour faire de la place."
     },
     "VOID": {
       "NAMES": [

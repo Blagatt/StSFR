@@ -952,9 +952,9 @@
     "UPGRADE_DESCRIPTION": "Utilisez la capacité passive de chaque Orbe Canalisé."
   },
   "Multi-Cast": {
-    "NAME": "Multi-Cast",
-    "DESCRIPTION": "Invoquez votre prochain Orbe X fois.",
-    "UPGRADE_DESCRIPTION": "Invoquez votre prochain Orbe X+1 fois."
+    "NAME": "Activation multiple",
+    "DESCRIPTION": "Activez votre prochain Orbe X fois.",
+    "UPGRADE_DESCRIPTION": "Activez votre prochain Orbe X+1 fois."
   },
   "Sunder": {
     "NAME": "Désassemblage",
@@ -995,7 +995,7 @@
   },
   "Redo": {
     "NAME": "Rétablir",
-    "DESCRIPTION": "Invoquez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Invoquer."
+    "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
     "NAME": "Préparation",
@@ -1019,7 +1019,7 @@
     "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Canalisez !M! Orbes Glaciaires."
   },
   "Skim": {
-    "NAME": "Skim",
+    "NAME": "Parcourir",
     "DESCRIPTION": "Piochez !M! cartes."
   },
   "Hyperbeam": {
@@ -1049,7 +1049,7 @@
   },
   "Fission": {
     "NAME": "Fission",
-    "DESCRIPTION": "Invoquez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Invoqué d'Orbes."
+    "DESCRIPTION": "Activez tous vos Orbes. Gagnez autant d'emplacements d'Orbe que vous avez Activé d'Orbes."
   },
   "Barrage": {
     "NAME": "Barrage",
@@ -1129,8 +1129,8 @@
     "UPGRADE_DESCRIPTION": "Inné. NL Quand vous jouez un Pouvoir, Canalisez 1 Orbe Kéraunique."
   },
   "Dualcast": {
-    "NAME": "Dualcast",
-    "DESCRIPTION": "Invoquez votre prochain Orbe 2 fois."
+    "NAME": "Activation double",
+    "DESCRIPTION": "Activez votre prochain Orbe 2 fois."
   },
   "Ice Wall": {
     "NAME": "Mur de glace",
@@ -1237,10 +1237,11 @@
   },
   "Axe Kick": {
     "NAME": "Coup de pied en marteau",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Invoquez votre prochain Orbe."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Activez votre prochain Orbe."
   },
   "Scrape": {
     "NAME": "Éraflure",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez toutes celles qui ne coûtent pas 0."
+
   }
 }
