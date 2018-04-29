@@ -180,7 +180,7 @@
   },
   "Reckless Charge": {
     "NAME": "Charge imprudente",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébètement à votre pioche."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Ajoutez un Hébétement à votre pioche."
   },
   "Decay": {
     "NAME": "Déclin",
@@ -228,7 +228,7 @@
   },
   "Body Slam": {
     "NAME": "Plaquage",
-    "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuel.",
+    "DESCRIPTION": "Infligez un total de dégâts égal à votre Armure actuelle.",
     "UPGRADE_DESCRIPTION": " NL (Infligez !D! dégât(s).)"
   },
   "True Grit": {
@@ -293,8 +293,8 @@
   },
   "Pommel Strike": {
     "NAME": "Frappe du pommeau",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte(s).",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte(s)."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes."
   },
   "Pain": {
     "NAME": "Douleur",
@@ -370,7 +370,7 @@
   },
   "Sever Soul": {
     "NAME": "Scission d'âme",
-    "DESCRIPTION": "Épuisez toutes les cartes de votre main (sauf Attaque). NL Infligez !D! dégât(s)."
+    "DESCRIPTION": "Épuisez toutes les cartes de votre main (sauf Attaques). NL Infligez !D! dégât(s)."
   },
   "Whirlwind": {
     "NAME": "Tourbillon",
@@ -378,7 +378,7 @@
   },
   "Warcry": {
     "NAME": "Cri de guerre",
-    "DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
+    "DESCRIPTION": "Piochez !M! carte. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Placez une carte de votre main sur le haut de la pioche. NL Épuisement."
   },
   "PiercingWail": {
@@ -474,7 +474,7 @@
     "DESCRIPTION": "Appliquez 99 de Vulnérabilité. NL Épuisement."
   },
   "Dazed": {
-    "NAME": "Hébètement",
+    "NAME": "Hébétement",
     "DESCRIPTION": "Injouable. NL Éthérée."
   },
   "Barricade": {

@@ -39,7 +39,9 @@
         "épuisement",
         "épuisé",
         "épuisée",
-        "épuisez"
+        "épuisez",
+		"s'épuise",
+		"s'épuisent"
       ],
       "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
@@ -183,9 +185,9 @@
     },
     "DAZED": {
       "NAMES": [
-        "hébètement"
+        "hébétement"
       ],
-      "DESCRIPTION": "Les hébètements sont des cartes Statut non jouables."
+      "DESCRIPTION": "Les hébétements sont des cartes Statut non jouables."
     },
     "BURN": {
       "NAMES": [
