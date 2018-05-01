@@ -1083,5 +1083,21 @@
     "TEXT": [
       ""
     ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Épuisement"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "Cet ennemi compte attaquer !"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choissisez une carte à ajouter dans votre main",
+      "Choisissez les cartes à ajouter dans votre main"
+    ]
   }
 }

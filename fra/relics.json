@@ -547,7 +547,7 @@
     "NAME": "Pierre étrangement lisse",
     "FLAVOR": "Vous n'avez jamais rien vu d'aussi lisse et immaculé. Ce doit être l'œuvre des Anciens.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
+      "Commencez chaque combat avec #b",
       " de #yDextérité."
     ]
   },
@@ -1003,7 +1003,7 @@
     "NAME": "Vajra",
     "FLAVOR": "Une relique décorative offerte aux guerriers qui se couvrent de gloire au combat.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
+      "Commencez chaque combat avec #b",
       " de #yForce."
     ]
   },
@@ -1092,7 +1092,7 @@
   },
   "Inserter": {
     "NAME": "Bras robotisé",
-    "FLAVOR": "Manquant.",
+    "FLAVOR": "Avancer. Prendre. Empiler. Répéter.",
     "DESCRIPTIONS": [
       "Tous les #b2 tours, gagnez #b1 emplacement d'Orbe."
     ]
@@ -1143,8 +1143,8 @@
     "NAME": "Disque dur",
     "FLAVOR": "Ce disque dur contient de précieuses informations sur les oiseaux et les serpents.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b",
-      " #yConcentration."
+      "Commencez chaque combat avec #b",
+      " de #yConcentration."
     ]
   }
 }

@@ -880,9 +880,15 @@
   "Echo Form": {
     "NAME": "Écho",
     "DESCRIPTIONS": [
-      "La promière carte que vous jouez chaque tour est jouée #b",
-      " fois supplémentaire.",
-      " fois supplémentaires."
+      "La première carte que vous jouez chaque tour est jouée deux fois.",
+      "Les #b",
+      " premières cartes que vous jouez chaque tour sont jouées deux fois."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Vérouiller",
+    "DESCRIPTIONS": [
+      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi."
     ]
   }
 }
