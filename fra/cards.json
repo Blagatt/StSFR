@@ -895,7 +895,8 @@
   },
   "Static Discharge": {
     "NAME": "Décharge statique",
-    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe(s) Kéraunique(s)."
+    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe(s) Kéraunique(s).",
+    "UPGRADE_DESCRIPTION": "Whenever you take attack damage, Channel !M! Lightning."
   },
   "Biased Cognition": {
     "NAME": "Biais cognitif",
@@ -1242,6 +1243,17 @@
   "Scrape": {
     "NAME": "Éraflure",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez toutes celles qui ne coûtent pas 0."
-
+  },
+  "Consume": {
+    "NAME": "Consume",
+    "DESCRIPTION": "Gain !M! Focus. NL Lose 1 Orb Slot."
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTION": "Deal !D! damage. NL This turn, Lightning and Dark Orbs target this enemy."
+  },
+  "Reprieve": {
+    "NAME": "Reprieve",
+    "DESCRIPTION": "If an enemy does not intend to attack, gain !M! Focus."
   }
 }

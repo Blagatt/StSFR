@@ -884,5 +884,11 @@
       " fois supplémentaire.",
       " fois supplémentaires."
     ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy."
+    ]
   }
 }

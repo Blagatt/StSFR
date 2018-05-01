@@ -1083,5 +1083,21 @@
     "TEXT": [
       ""
     ]
+  },
+  "RecycleAction": {
+    "TEXT": [
+      "Exhaust"
+    ]
+  },
+  "ReprieveAction": {
+    "TEXT": [
+      "That enemy intends to attack!"
+    ]
+  },
+  "AnyCardFromDeckToHandAction": {
+    "TEXT": [
+      "Choose a Card to Add to Your Hand",
+      "Choose Cards to Add to Your Hand"
+    ]
   }
 }
