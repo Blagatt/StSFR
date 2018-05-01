@@ -895,7 +895,8 @@
   },
   "Static Discharge": {
     "NAME": "Décharge statique",
-    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe(s) Kéraunique(s)."
+    "DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbe Kéraunique.",
+    "UPGRADE_DESCRIPTION": "Quand vous subissez des dégâts d'attaque, Canalisez !M! Orbes Kérauniques."
   },
   "Biased Cognition": {
     "NAME": "Biais cognitif",
@@ -1031,7 +1032,7 @@
     "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
-      " NL Infligez !D! dégât(s)."
+      " NL (Infligez !D! dégât(s).)"
     ]
   },
   "Turbo": {
@@ -1108,7 +1109,7 @@
   },
   "Streamline": {
     "NAME": "Fuselage",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez Fuselage, son coût est réduit de !M! pour le combat."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Quand vous jouez cette carte, son coût est réduit de !M! pour le combat."
   },
   "Primitive Tech": {
     "NAME": "Deprecated.",
@@ -1241,7 +1242,18 @@
   },
   "Scrape": {
     "NAME": "Éraflure",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez toutes celles qui ne coûtent pas 0."
-
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes. NL Défaussez directement celles qui ne coûtent pas 0."
+  },
+  "Consume": {
+    "NAME": "Consommer",
+    "DESCRIPTION": "Gagnez !M! de Concentration. NL Perdez 1 emplacement d'Orbe."
+  },
+  "Lockon": {
+    "NAME": "Verrouiller",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant le tour, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+  },
+  "Reprieve": {
+    "NAME": "Répit",
+    "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
   }
 }

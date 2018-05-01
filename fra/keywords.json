@@ -18,7 +18,7 @@
     "CURSE": {
       "NAMES": [
         "malédiction",
-		"malédictions"
+        "malédictions"
       ],
       "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
@@ -40,8 +40,8 @@
         "épuisé",
         "épuisée",
         "épuisez",
-		"s'épuise",
-		"s'épuisent"
+        "s'épuise",
+        "s'épuisent"
       ],
       "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
@@ -93,7 +93,7 @@
     "TRANSFORM": {
       "NAMES": [
         "transformer",
-		"transforme",
+        "transforme",
         "transformez"
       ],
       "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
