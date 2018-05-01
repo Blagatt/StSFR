@@ -5,4 +5,4 @@ Refer to the original files found in [eng/](eng/) to help translate the game. Th
 
 ## Discord servers
 Slay the Spire official discord: https://discord.gg/fZrCgyW  
-Official French translation discord: https://discord.gg/jU3Hjw4
+Official French translation discord: https://discord.gg/C8tbTGb
