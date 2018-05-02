@@ -1099,5 +1099,10 @@
       "Choissisez une carte à ajouter dans votre main",
       "Choisissez les cartes à ajouter dans votre main"
     ]
+  },
+  "DiscardPileToHandAction": {
+    "TEXT": [
+      "Select a card to return to your hand."
+    ]
   }
 }
