@@ -1,5 +1,18 @@
 Updates for Translators!
 
+05/01/2018v2:
+ui.json
+	"DiscardPileToHandAction"
+
+----------------------------------	
+
+05/01/2018:
+cards.json
+	"Redo"
+		NAME: "Redo" -> "Recursion"
+
+----------------------------------	
+
 04/30/2018:
 tutorials.json
 	"Player Tips"
