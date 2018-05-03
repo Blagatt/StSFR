@@ -995,7 +995,7 @@
     "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
-    "NAME": "Récursif",
+    "NAME": "Récursivité",
     "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
