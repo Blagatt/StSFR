@@ -1029,7 +1029,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
@@ -1153,7 +1153,7 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois vos Orbes Glaciaires Canalisés ce combat.",
+    "DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Canalisés.)",
