@@ -1029,7 +1029,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez !M! dégât(s) à TOUS les ennemis pour chaque Pouvoir joué ce combat.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"
@@ -1153,8 +1153,8 @@
   },
   "Blizzard": {
     "NAME": "Blizzard",
-    "DESCRIPTION": "Infligez autant de dégâts que 2 fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "Infligez autant de dégâts que !M! fois vos Orbes Glaciaires Canalisés ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois vos Orbes Glaciaires Canalisés ce combat.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
       " ( !M! Orbes Canalisés.)",
       "."
@@ -1251,14 +1251,14 @@
   },
   "Lockon": {
     "NAME": "Verrouiller",
-    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant le tour, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Pendant les !M! prochains tours, les Orbes Kérauniques et Obscurs ciblent cet ennemi."
   },
   "Reprieve": {
     "NAME": "Répit",
     "DESCRIPTION": "Si un ennemi ne compte pas attaquer, gagnez !M! de Concentration."
   },
   "BootSequence": {
-    "NAME": "Boot Sequence",
-    "DESCRIPTION": "Gain !B! Block. NL Innate. NL Exhaust."
+    "NAME": "Démarrage",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
   }
 }
