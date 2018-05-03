@@ -888,7 +888,9 @@
   "Lockon": {
     "NAME": "Verrouiller",
     "DESCRIPTIONS": [
-      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi."
+      "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi.",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
     ]
   }
 }
