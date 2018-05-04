@@ -936,7 +936,7 @@
     "NAME": "Coup de tonnerre",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Orbe Kéraunique Canalisé ce combat.",
     "EXTENDED_DESCRIPTION": [
-      " (!M! Orbes Kérauniques Canalisés.)"
+      " ( !M! Orbes Kérauniques Canalisés.)"
     ]
   },
   "Undo": {
@@ -944,7 +944,7 @@
     "DESCRIPTION": "Rétablissez vos PV à ce qu'ils étaient au tour précédent. NL Épuisement."
   },
   "Beam Cell": {
-    "NAME": "Faisceau Cellulaire",
+    "NAME": "Pile à rayon",
     "DESCRIPTION": "Infligez !D! dégât(s) et appliquez !M! de Vulnérabilité."
   },
   "Impulse": {
@@ -979,8 +979,8 @@
   },
   "Stack": {
     "NAME": "Pile",
-    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes de votre défausse.",
-    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes de votre défausse + 3.",
+    "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes dans votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez !B! d'Armure.)"
     ]
@@ -995,7 +995,7 @@
     "DESCRIPTION": "Mélangez toutes vos cartes dans votre pioche, puis piochez !M! cartes. NL Épuisement."
   },
   "Redo": {
-    "NAME": "Récursif",
+    "NAME": "Récursivité",
     "DESCRIPTION": "Activez votre prochain Orbe. NL Canalisez l'Orbe que vous venez d'Activer."
   },
   "Prime": {
