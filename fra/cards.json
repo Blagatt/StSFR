@@ -606,7 +606,7 @@
   "Corpse Explosion": {
     "NAME": "Explosion morbide",
     "DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le double de ce total à TOUS les ennemis.",
-    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le triple de ce total à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "L'ennemi perd tout le Poison. Infligez le NL triple de ce total à TOUS les ennemis.",
     "EXTENDED_DESCRIPTION": [
       "Cet ennemi n'est pas Empoisonné."
     ]
