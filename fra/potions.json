@@ -103,117 +103,117 @@
     ]
   },
   "SteroidPotion": {
-    "NAME": "Steroid Potion",
+    "NAME": "Potion de stéroïdes",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength. At the end of your turn, lose #b",
-      " #yStrength."
+      "Gagnez #b",
+      " de #yForce. À la fin de votre tour, perdez #b",
+      " de #yForce."
     ]
   },
   "SpeedPotion": {
-    "NAME": "Speed Potion",
+    "NAME": "Potion de vitesse",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yDexterity. At the end of your turn, lose #b",
-      " #yDexterity."
+      "Gagnez #b",
+      " de #yDextérité. À la fin de votre tour, perdez #b",
+      " de #yDextérité."
     ]
   },
   "GamblersBrew": {
-    "NAME": "Gambler's Brew",
+    "NAME": "Décoction du joueur",
     "DESCRIPTIONS": [
-      "Discard any number of cards then draw that many."
+      "Défaussez autant de cartes que vous voulez et piochez-en autant."
     ]
   },
   "AttackPotion": {
-    "NAME": "Attack Potion",
+    "NAME": "Potion d'attaque",
     "DESCRIPTIONS": [
-      "Add a random Attack card to your hand, it costs #b0."
+      "Ajoutez une Attaque aléatoire à votre main, elle coûte #b0 ce tour."
     ]
   },
   "FocusPotion": {
-    "NAME": "Focus Potion",
+    "NAME": "Potion de concentration",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yFocus."
+      "Gagnez #b",
+      " de #yConcentration."
     ]
   },
   "SmokeBomb": {
-    "NAME": "Smoke Bomb",
+    "NAME": "Fumigène",
     "DESCRIPTIONS": [
-      "Escape from a non-boss combat. Receive no rewards."
+      "Échappez-vous de n'importe quel combat qui n'est pas de boss. Ne recevez aucune récompense."
     ]
   },
   "SneckoOil": {
-    "NAME": "Snecko Oil",
+    "NAME": "Huile de geckobra",
     "DESCRIPTIONS": [
-      "Draw #b",
-      " cards. Become #yConfused."
+      "Piochez #b",
+      " cartes. Devenez #yConfus."
     ]
   },
   "SkillPotion": {
-    "NAME": "Skill Potion",
+    "NAME": "Potion de compétence",
     "DESCRIPTIONS": [
-      "Add a random Skill card to your hand, it costs #b0."
+      "Ajoutez une Compétence aléatoire à votre main, elle coûte #b0 ce tour."
     ]
   },
   "GhostInAJar": {
-    "NAME": "Ghost In A Jar",
+    "NAME": "Fantôme dans un bocal",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yIntangible."
+      "Gagnez #b",
+      " #yd'Intangible."
     ]
   },
   "LiquidBronze": {
-    "NAME": "Liquid Bronze",
+    "NAME": "Bronze liquide",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yThorns."
+      "Gagnez #b",
+      " #yd'Épines."
     ]
   },
   "BloodPotion": {
-    "NAME": "Blood Potion",
+    "NAME": "Potion de sang",
     "DESCRIPTIONS": [
-      "Heal for #b",
-      "% of your Max HP."
+      "Gagnez #b",
+      "% de vos PV max."
     ]
   },
   "Fruit Juice": {
-    "NAME": "Fruit Juice",
+    "NAME": "Jus de fruits",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " Max HP."
+      "Gagnez #b",
+      " PV max."
     ]
   },
   "FairyPotion": {
-    "NAME": "Fairy Potion",
+    "NAME": "Potion féérique",
     "DESCRIPTIONS": [
-      "When you would die, heal to #b10% of your Max HP instead and discard this potion."
+      "Quand vous mourrez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."%
     ]
   },
   "FearPotion": {
-    "NAME": "Fear Potion",
+    "NAME": "Potion de peur",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yVulnerable."
+      "Applique #b",
+      " de #yVulnérabilité."
     ]
   },
   "PowerPotion": {
-    "NAME": "Power Potion",
+    "NAME": "Potion de pouvoir",
     "DESCRIPTIONS": [
-      "Add a random Power card to your hand, it costs #b0."
+      "Ajoutez un Pouvoir aléatoire à votre main, il coûte #b0 ce tour."
     ]
   },
   "EssenceOfSteel": {
-    "NAME": "Essence Of Steel",
+    "NAME": "Essence d'acier",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yPlated #yArmor."
+      "Gagnez #b",
+      " #yd'Armure #yPlaquée."
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Décoction d'entropie",
     "DESCRIPTIONS": [
-      "Fill all your empty potion slots with random potions."
+      "Remplissez tous vos emplacements de potion libres avec des potions aléatoires."
     ]
   }
 }
