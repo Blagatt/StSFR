@@ -892,5 +892,12 @@
       " prochains tours.",
       "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi ce tour."
     ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
   }
 }
