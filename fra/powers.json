@@ -894,10 +894,10 @@
     ]
   },
   "DexLoss": {
-    "NAME": "Dexterity Down",
+    "NAME": "Perte de Dextérité",
     "DESCRIPTIONS": [
-      "At the end of your turn, lose #b",
-      " #yDexterity."
+      "A la fin de votre tour, lose #b",
+      " #yDextérité."
     ]
   }
 }
