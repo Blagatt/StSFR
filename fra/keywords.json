@@ -261,6 +261,12 @@
         "concentration"
       ],
       "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
+    },
+    "THORNS": {
+      "NAMES": [
+        "épines"
+      ],
+      "DESCRIPTION": "Quand vous recevez des dégâts #yd'Attaque, infligez des dégâts en retour."
     }
   }
 }

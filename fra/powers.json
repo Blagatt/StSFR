@@ -362,7 +362,7 @@
     ]
   },
   "Flex": {
-    "NAME": "Vantardise",
+    "NAME": "Perte de Force",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous perdez #b",
       " de #yForce."
@@ -891,6 +891,13 @@
       "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi pendant les #b",
       " prochains tours.",
       "Les Orbes #yKérauniques et #yObscurs ciblent cet ennemi ce tour."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Perte de Dextérité",
+    "DESCRIPTIONS": [
+      "A la fin de votre tour, perdez #b",
+      " de #yDextérité."
     ]
   }
 }

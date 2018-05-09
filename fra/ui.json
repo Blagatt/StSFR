@@ -22,7 +22,8 @@
   },
   "GamblingChipAction": {
     "TEXT": [
-      "Remplacer (jeton)"
+      "Remplacer (jeton)",
+      "Remplacer"
     ]
   },
   "RetainCardsAction": {
@@ -186,7 +187,8 @@
   },
   "AbstractRoom": {
     "TEXT": [
-      "Pillé..."
+      "Pillé...",
+      "Fuite..."
     ]
   },
   "SingleViewRelicPopup": {
