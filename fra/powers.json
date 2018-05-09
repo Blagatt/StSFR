@@ -896,8 +896,8 @@
   "DexLoss": {
     "NAME": "Perte de Dextérité",
     "DESCRIPTIONS": [
-      "A la fin de votre tour, lose #b",
-      " #yDextérité."
+      "A la fin de votre tour, perdez #b",
+      " de #yDextérité."
     ]
   }
 }
