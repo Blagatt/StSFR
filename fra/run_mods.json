@@ -72,7 +72,7 @@
     "DESCRIPTION": "Commencez avec 5 copies d'une carte rare."
   },
   "Brewmaster": {
-    "NAME": "Maître brasseur",
-    "DESCRIPTION": "Commencez avec 5 copies d' Alchemize, Petit ornithoptère et Statue blanche bestiale."
+    "NAME": "Maître alchimiste",
+    "DESCRIPTION": "Commencez avec 5 copies de la carte Alchimie et les Reliques Petit ornithoptère et Statue blanche bestiale."
   }
 }
