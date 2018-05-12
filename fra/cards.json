@@ -1018,7 +1018,8 @@
   },
   "Loop": {
     "NAME": "Boucle",
-    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe."
+    "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1270,5 +1271,10 @@
   "Steam": {
     "NAME": "Vapeur",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Vapeur donnera 2 d'Armure de moins pendant ce combat."
+  },
+  "Electrodynamics": {
+    "NAME": "Electrodynamics",
+    "DESCRIPTION": "Lightning now hits ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
   }
 }
