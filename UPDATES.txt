@@ -1,5 +1,62 @@
 Updates for Translators!
 
+05/09/2018:
+cards.json
+	"Glass Knife"
+		"DESCRIPTION": "Deal !D! damage twice. Glass Knife's damage is lowered by 2 this combat." ->
+		"DESCRIPTION": "Deal !D! damage twice. This card's damage is lowered by 2 this combat."
+	"Steam"
+		"DESCRIPTION": "Gain !B! Block. Steam's Block is lowered by 2 this combat." ->
+		"DESCRIPTION": "Gain !B! Block. This card's Block is lowered by 2 this combat."
+	"Steam Power"
+		"Quick Search" -> "Overclock"
+	"Seek" (Now has plurality!)
+		"DESCRIPTION": "Choose !M! card from your draw pile and place it into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose !M! cards from your draw pile and place them into your hand. NL Exhaust."
+	"FTL" (Updated to help with context)
+		"EXTENDED_DESCRIPTION"
+	"Finisher" (Updated to reduce wordiness)
+		"EXTENDED_DESCRIPTION"
+
+----------------------------------
+
+05/08/2018:
+run_mods.json
+"Brewmaster"
+    "DESCRIPTION": "Start with 5 copies of Alchemize, Toy Ornithopter and White Beast Statue."
+    "DESCRIPTION": "Start with 5 copies of Alchemize and the White Beast Statue."
+potions.json
+	"Fairy Potion" -> "Fairy in a Bottle"
+	"AttackPotion"
+		"Add a random Attack card to your hand, it costs #b0."
+		"Add a random Attack card to your hand, it costs #b0 this turn."
+	"SkillPotion"
+		"Add a random Skill card to your hand, it costs #b0."
+		"Add a random Skill card to your hand, it costs #b0 this turn."
+	"PowerPotion"
+		"Add a random Power card to your hand, it costs #b0."
+		"Add a random Power card to your hand, it costs #b0 this turn."
+	"SneckoOil"
+		BEFORE:
+		"Draw #b",
+		" cards. Become #yConfused."
+		AFTER:
+		" Become #yConfused. Draw #b",
+		" cards."
+cards.json
+	"Chill"
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost per enemy. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Innate. NL Channel !M! Frost for each enemy in combat. NL Exhaust."
+	"Wraith Form v2"
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of your turn, lose 1 Dexterity." ->
+		"DESCRIPTION": "Gain !M! Intangible. NL At the end of each turn, lose 1 Dexterity."
+	"Steam"
+	"Steam Power"
+		"Steam Power" ->
+		"Quick Search"
+
+----------------------------------
+
 05/07/2018v2:
 potions.json
 	"EntropicBrew"

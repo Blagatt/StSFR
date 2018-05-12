@@ -146,8 +146,8 @@
   "SneckoOil": {
     "NAME": "Huile de geckobra",
     "DESCRIPTIONS": [
-      "Piochez #b",
-      " cartes. Devenez #yConfus."
+      "Devenez #yConfus. Piochez #b",
+      " cartes."
     ]
   },
   "SkillPotion": {
@@ -187,7 +187,7 @@
   "FairyPotion": {
     "NAME": "Potion féérique",
     "DESCRIPTIONS": [
-      "Quand vous mourrez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."%
+      "Quand vous mourez, survivez avec 10 % de vos PV max à la place et défaussez cette potion."
     ]
   },
   "FearPotion": {
