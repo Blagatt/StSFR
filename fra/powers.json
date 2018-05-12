@@ -901,11 +901,11 @@
     ]
   },
   "Electro": {
-    "NAME": "Electro",
+    "NAME": "Électro",
     "DESCRIPTIONS": [
-      "#yLightning hits ALL enemies.",
-      " NL If there is only #b1 enemy, #yLightning hits #b",
-      " times."
+      "Les Orbes #yKérauniques frappent TOUS les ennemis.",
+      " NL S'il n'y a qu'un seul ennemi, les Orbes #yKérauniques le frappent #b",
+      " fois."
     ]
   }
 }

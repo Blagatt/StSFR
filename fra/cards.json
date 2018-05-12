@@ -1019,7 +1019,7 @@
   "Loop": {
     "NAME": "Boucle",
     "DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe.",
-    "UPGRADE_DESCRIPTION": "At the start of your turn, use the passive ability of your next Orb !M! times."
+    "UPGRADE_DESCRIPTION": "Au début de chaque tour, utilisez la capacité passive de votre prochain Orbe !M! fois."
   },
   "Glacier": {
     "NAME": "Glacier",
@@ -1269,12 +1269,12 @@
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Inné. NL Épuisement."
   },
   "Steam": {
-    "NAME": "Vapeur",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Vapeur donnera 2 d'Armure de moins pendant ce combat."
+    "NAME": "Barrière de vapeur",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure de cette carte est diminuée de 1 pour le combat."
   },
   "Electrodynamics": {
-    "NAME": "Electrodynamics",
-    "DESCRIPTION": "Lightning now hits ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+    "NAME": "Électrodynamique",
+    "DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. S'il n'y a qu'un ennemi, ils le frappent deux fois."
   }
 }
