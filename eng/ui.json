@@ -612,7 +612,8 @@
       "Ukrainian",
       "Vietnamese",
       "Hungarian",
-      "Serbian (Latin)"
+      "Serbian (Latin)",
+      "Catalan"
     ]
   },
   "LeaderboardFilters": {
@@ -911,7 +912,7 @@
       "#r%s Turns",
       "#r%s #r/ #r%s #rHP",
       "#y%s #yGold",
-      "Picked %s",
+      "Picked:",
       "Skipped:",
       "Missing Info"
     ]
