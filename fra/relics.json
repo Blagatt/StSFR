@@ -1149,9 +1149,9 @@
   },
   "Potion Belt": {
     "NAME": "Ceinture de potions",
-    "FLAVOR": "Je peux tenir plus de potions à l'aide de cette ceinture !",
+    "FLAVOR": "Je peux porter plus de potions à l'aide de cette ceinture !",
     "DESCRIPTIONS": [
-      "Gagnez #b1 emplacement de potion."
+      "Lorsque vous le ramassez, gagnez #b1 emplacement de potion."
     ]
   }
 }
