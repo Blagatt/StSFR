@@ -907,5 +907,13 @@
       " NL S'il n'y a qu'un seul ennemi, les Orbes #yKérauniques le frappent #b",
       " fois."
     ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
   }
 }

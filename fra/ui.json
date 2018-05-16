@@ -1021,7 +1021,12 @@
       "#y%s #yOr",
       "Choisi :",
       "Passé :",
-      "Information manquante"
+      "Information manquante",
+      "+2 Max HP",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS "
     ]
   },
   "SeedPanel": {
