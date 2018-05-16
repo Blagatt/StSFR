@@ -663,7 +663,7 @@
     "NAME": "Moulin à prières",
     "FLAVOR": "Son cylindre ne s'arrête jamais de tourner.",
     "DESCRIPTIONS": [
-      "Les coffres qui ne proviennent pas de boss contiennent aussi des cartes."
+      "Les ennemis normaux donnent une récompense de carte supplémentaire."
     ]
   },
   "Question Card": {
@@ -1158,8 +1158,8 @@
     "NAME": "The Boot",
     "FLAVOR": "When wound up, the boot grows larger in size.",
     "DESCRIPTIONS": [
-      "Whenever you would deal #b",
-      " or less unblocked #yAttack damage, increase it to #b5."
+      "Quand vous infligez #b",
+      " dégâts #yd'Attaques non bloqués ou moins, augmentez les à #b5."
     ]
   }
 }

@@ -469,8 +469,8 @@
   "Regenerate": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Récupère #b",
-      " #yPV à la fin de son tour."
+      "À la fin du tour, soignez #b",
+      " #yPV et perdez une Régénération."
     ]
   },
   "Regeneration": {
@@ -911,9 +911,9 @@
   "Equilibrium": {
     "NAME": "Equilibrium",
     "DESCRIPTIONS": [
-      "Retain your hand this turn.",
-      "Retain your hand for #b",
-      " turns."
+      "Concervez votre main ce tour.",
+      "Concervez votre main pendant #b",
+      " tours."
     ]
   }
 }

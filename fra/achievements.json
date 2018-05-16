@@ -35,7 +35,7 @@
       "Minimaliste",
       "Miam, un Donut !",
       "Sapphire",
-      "Common Sense"
+      "Sens commun"
     ],
     "TEXT": [
       "Gagnez un combat avec 1 PV restant.",
@@ -72,7 +72,7 @@
       "Finissez le jeu avec un deck contenant 5 cartes ou moins.",
       "Finissez Donu avec la carte Appétit.",
       "Finissez le jeu avec le Défectueux.",
-      "Beat the game with a deck of only common cards."
+      "Finissez le jeu avec une seule carte dans votre deck."
     ]
   },
   "CharStat": {
