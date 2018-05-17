@@ -469,8 +469,8 @@
   "Regenerate": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Récupère #b",
-      " #yPV à la fin de son tour."
+      "À la fin du tour, soignez #b",
+      " #yPV et perdez une Régénération."
     ]
   },
   "Regeneration": {
@@ -898,6 +898,22 @@
     "DESCRIPTIONS": [
       "A la fin de votre tour, perdez #b",
       " de #yDextérité."
+    ]
+  },
+  "Electro": {
+    "NAME": "Électro",
+    "DESCRIPTIONS": [
+      "Les Orbes #yKérauniques frappent TOUS les ennemis.",
+      " NL S'il n'y a qu'un seul ennemi, les Orbes #yKérauniques le frappent #b",
+      " fois."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Concervez votre main ce tour.",
+      "Concervez votre main pendant #b",
+      " tours."
     ]
   }
 }

@@ -705,7 +705,8 @@
       "Ukrainien",
       "Vietnamien",
       "Hongrois",
-      "Serbe (Latin)"
+      "Serbe (Latin)",
+      "Catalan"
     ]
   },
   "UnlockTextEffect": {
@@ -1018,9 +1019,19 @@
       "#r%s Tours",
       "#r%s #r/ #r%s #rPV",
       "#y%s #yOr",
-      "Choisi %s",
-      "Passé :",
-      "Information manquante"
+      "#yObtenu :",
+      "#yPassé :",
+      "Information manquante",
+      "+2 PV Max",
+      "#bC ",
+      "#bR ",
+      "#bP ",
+      "#bS ",
+      "#bS'est #breposé",
+      "#bA #bamélioré %s",
+      "#bA #bretiré %s",
+      "#bA #bcreusé",
+      "#bS'est #entraîné %s/%s"
     ]
   },
   "SeedPanel": {

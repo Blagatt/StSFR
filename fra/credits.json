@@ -76,7 +76,11 @@
   "LOC_DEU": {
     "HEADER": "Traduction en Allemand",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly"
     ]
   },
   "LOC_ITA": {
@@ -227,6 +231,14 @@
   },
   "THANKS_MSG": {
     "HEADER": "...et merci à VOUS d'avoir joué!",
+    "NAMES": []
+  },
+  "LOC_UKR": {
+    "HEADER": "Traduction en Ukrainien",
+    "NAMES": []
+  },
+  "LOC_CAT": {
+    "HEADER": "Traduction en Catalan",
     "NAMES": []
   }
 }
