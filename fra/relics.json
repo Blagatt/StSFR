@@ -947,7 +947,7 @@
     "NAME": "Maisonnette",
     "FLAVOR": "\"Une démonstration quasi parfaite de miniaturisation. Mon plus bel ouvrage jusqu'à présent, mais toujours insuffisant.\" - L'architecte",
     "DESCRIPTIONS": [
-      "Obtenez #b1 potion. NL Gagnez #b",
+      "Quand vous l'obtenez, obtenez #b1 potion. NL Gagnez #b",
       " #yd'or. NL Augmentez vos PV max de #b",
       ". NL Obtenez #b1 carte. NL Améliorez #b1 carte aléatoire.",
       "Une maisonnette !"

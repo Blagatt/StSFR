@@ -2,6 +2,14 @@ Updates for Translators!
 
 05/17/2018:
 relics.json
+    "Tiny House"
+        "Obtain #b1 potion. NL Gain #b", ->
+        "Upon pick up, obtain #b1 potion. NL Gain #b",
+
+----------------------------------		
+		
+05/17/2018:
+relics.json
     "Lee's Waffle"
         "Raise your Max HP by #b", ->
         "Upon pick up, raise your Max HP by #b",
