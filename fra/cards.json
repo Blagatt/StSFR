@@ -129,8 +129,8 @@
   },
   "Tactician": {
     "NAME": "Stratège",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] .",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, gagnez [G] [G] .",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] .",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, gagnez [G] [G] .",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -560,8 +560,8 @@
   },
   "Reflex": {
     "NAME": "Réflexe",
-    "DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! carte.",
-    "UPGRADE_DESCRIPTION": "Injouable. NL Si la carte est défaussée, piochez !M! cartes.",
+    "DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Injouable. NL Quand cette carte est défaussée, piochez !M! cartes.",
     "EXTENDED_DESCRIPTION": [
       "Je ne peux pas jouer cette carte."
     ]
@@ -1036,7 +1036,7 @@
   },
   "Nova": {
     "NAME": "Nova",
-    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat à TOUS les ennemis.",
+    "DESCRIPTION": "Infligez autant de dégâts à TOUS les ennemis que !M! fois le nombre de Pouvoirs joués ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL Épuisement.",
       " NL (Infligez !D! dégât(s).)"

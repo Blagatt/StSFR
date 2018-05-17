@@ -469,16 +469,16 @@
   "Regenerate": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "À la fin du tour, soignez #b",
-      " #yPV et perdez une Régénération."
+      "Récupère #b", 
+      " #yPV à la fin de son tour." 
     ]
   },
   "Regeneration": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Vous récupérez #b",
-      " #yPV à la fin de votre tour pendant #b",
-      " tours."
+      "À la fin du tour, récupérez #b", 
+      " #yPV et perdez 1 de Régénération.",
+	  ""
     ]
   },
   "Life Link": {
@@ -651,7 +651,7 @@
     "NAME": "Distorsion temporelle",
     "DESCRIPTIONS": [
       "Lorsque vous jouez #b",
-      " cartes, votre tour prend fin et le Mange-époque gagne #b",
+      " cartes, votre tour prend fin et le Dévor'Heures gagne #b",
       " de #yForce."
     ]
   },
