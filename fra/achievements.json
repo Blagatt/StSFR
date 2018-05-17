@@ -72,7 +72,7 @@
       "Finissez le jeu avec un deck contenant 5 cartes ou moins.",
       "Finissez Donu avec la carte Appétit.",
       "Finissez le jeu avec le Défectueux.",
-      "Finissez le jeu avec une seule carte dans votre deck."
+      "Finissez le jeu avec un deck constitué uniquement de cartes Communes."
     ]
   },
   "CharStat": {
