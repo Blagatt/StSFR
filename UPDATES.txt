@@ -1,31 +1,87 @@
 Updates for Translators!
 
-05/17/2018:
-relics.json
-    "Tiny House"
-        "Obtain #b1 potion. NL Gain #b", ->
-        "Upon pick up, obtain #b1 potion. NL Gain #b",
+05/24/2018:
+tutorials.json
+	"Option Tip" (OSX -> macOS)
+		"Controller support incomplete for this screen." (This is used when a screen doesn't have controller support yet)
+		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for OSX as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.", ->
+		"Slay the Spire runs the fastest when running in true fullscreen. Recommended for macOS as the Dock and Menubar are hidden. NL NOTE: On PC, alt-tabbing back to Slay the Spire may not work with fullscreen.",
+ui.json
+	"AbstractCreature"
+		"Relics" (This is seen under relics in the top bar to let players know they can view relics via LB)
+achievements.json (These aren't in-game yet)
+	"AchievementGrid"
+		"Focused"
+		"Neon"
+		"Energy is Overrated"
+	"TEXT"
+		"Have 25 or more Focus during combat.",
+		"Channel 9 Plasma in a single turn.",
+		"Play 10 or more cost 0 cards in a single turn."
+ui.json
+	"CreditsScreen"
+		"to exit" (NOTE: There will be a button image on the left of this text)
+	"EarlyAccessPopup"
+		"Continue" (NOTE: There will be a button image on the left of this text)
+	"MainMenuScreen"
+		"to edit" (NOTE: There will be a button image on the left of this text)
 
-----------------------------------		
-		
+----------------------------------
+05/23/2018:
+cards.json
+	"Capacitor"
+		"DESCRIPTION": "Gain !M! Orb slot.", ->
+		"DESCRIPTION": "Gain !M! Orb slots.",
+
+----------------------------------
+
+05/22/2018:
+cards.json
+	"Compile Driver"
+	"Fission"
+credits.json
+	"LOC_UKR"
+
+----------------------------------
+
+05/21/2018:
+monsters.json
+	"Transient"
+powers.json
+	"Fading"
+	"Shifting"
+credits.json
+	"TEST"
+cards.json
+	"Core Surge"
+
+----------------------------------
+
+05/18/2018:
+ui.json
+	"RunHistoryPathNodes"
+		"#yPuchased:"
+
+----------------------------------
+
 05/17/2018:
 relics.json
-    "Lee's Waffle"
-        "Raise your Max HP by #b", ->
-        "Upon pick up, raise your Max HP by #b",
-    "Mango"
-        "Raise your Max HP by #b"
-        "Upon pick up, raise your Max HP by #b"
-    "Pear"
-        "Raise your Max HP by #b"
-        "Upon pick up, raise your Max HP by #b"
-    "Straberry"
-        "Raise your Max HP by #b"
-        "Upon pick up, raise your Max HP by #b"
-    "Boot"
-        An improvement was made but there is no change in relics.json
-        "Whenever you would deal 5 or less unblocked..." ->
-        "Whenever you would deal 4 or less unblocked..."
+	"Lee's Waffle"
+		"Raise your Max HP by #b", ->
+		"Upon pick up, raise your Max HP by #b",
+	"Mango"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Pear"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Straberry"
+		"Raise your Max HP by #b"
+		"Upon pick up, raise your Max HP by #b"
+	"Boot"
+		An improvement was made but there is no change in relics.json
+		"Whenever you would deal 5 or less unblocked..." ->
+		"Whenever you would deal 4 or less unblocked..."
 
 ----------------------------------
 
@@ -48,7 +104,6 @@ relics.json
         "#yElites drop an additional relic when defeated."
 ui.json
     "RunHistoryPathNodes"
-        "#bS ",
         "#bRested",
         "#bUpgraded %s",
         "#bRemoved %s",
