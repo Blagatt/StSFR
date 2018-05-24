@@ -917,18 +917,18 @@
     ]
   },
   "Shifting": {
-    "NAME": "Shifting",
+    "NAME": "Instable",
     "DESCRIPTIONS": [
-      "Whenever ",
-      " takes damage, it loses that much #yStrength until the end of the turn."
+      "Quand ",
+      " subit des dégâts, il perd autant de #yForce jusqu'à la fin de son tour."
     ]
   },
   "Fading": {
-    "NAME": "Fading",
+    "NAME": "Éphémère",
     "DESCRIPTIONS": [
-      "Dies in #b",
-      " turns.",
-      "Dies this turn."
+      "Meurt dans #b",
+      " tours.",
+      "Meurt ce tour."
     ]
   }
 }

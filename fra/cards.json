@@ -1278,11 +1278,11 @@
     "UPGRADE_DESCRIPTION": "Les Orbes Kérauniques frappent TOUS les ennemis. S'il n'y a qu'un ennemi, ils le frappent deux fois."
   },
   "Compile Driver": {
-    "NAME": "Compile Driver",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! card for each unique Orb you have."
+    "NAME": "Compileur de pilote",
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes pour chaque Orbe différent que vous avez."
   },
   "Core Surge": {
     "NAME": "Core Surge",
-    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact. NL Exhaust."
+    "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! d'Artefact. NL Épuisement."
   }
 }
