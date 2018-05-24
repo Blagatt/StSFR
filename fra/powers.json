@@ -469,16 +469,16 @@
   "Regenerate": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "Récupère #b", 
-      " #yPV à la fin de son tour." 
+      "Récupère #b",
+      " #yPV à la fin de son tour."
     ]
   },
   "Regeneration": {
     "NAME": "Régénération",
     "DESCRIPTIONS": [
-      "À la fin du tour, récupérez #b", 
+      "À la fin du tour, récupérez #b",
       " #yPV et perdez 1 de Régénération.",
-	  ""
+      ""
     ]
   },
   "Life Link": {
@@ -914,6 +914,21 @@
       "Concervez votre main ce tour.",
       "Concervez votre main pendant #b",
       " tours."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
     ]
   }
 }
