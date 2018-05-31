@@ -870,7 +870,7 @@
   },
   "Void": {
     "NAME": "Néant",
-    "DESCRIPTION": "Injouable. NL Lorsce que vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
+    "DESCRIPTION": "Injouable. NL Lorsque vous piochez cette carte, perdez 1 Énergie. NL Éthérée."
   },
   "AscendersBane": {
     "NAME": "Fléau du grimpeur",
@@ -986,7 +986,7 @@
   "Stack": {
     "NAME": "Pile",
     "DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse.",
-    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y de cartes dans votre défausse + 3.",
+    "UPGRADE_DESCRIPTION": "Gagnez autant d'Armure qu'il y a de cartes dans votre défausse + 3.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez !B! d'Armure.)"
     ]
