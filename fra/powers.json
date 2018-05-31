@@ -760,7 +760,8 @@
     "NAME": "IA créative",
     "DESCRIPTIONS": [
       "Au début de votre tour, ajoutez #b",
-      " Pouvoir(s) aléatoire(s) à votre main."
+      " Pouvoir(s) aléatoire(s) à votre main.",
+      " random Power cards into your hand."
     ]
   },
   "Prime": {
