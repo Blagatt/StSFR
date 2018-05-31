@@ -220,7 +220,8 @@
       "Choose a Card",
       "+2 Max HP",
       "VOTE NOW: ",
-      "s left."
+      "s left.",
+      "View Upgrade"
     ]
   },
   "CharacterOption": {
@@ -570,10 +571,10 @@
       "Keyboard",
       "Controller (Not Yet Available)",
       "Reset to Default",
-      "Confirm",
+      "Confirm Card",
       "Cancel / Exit",
       "Map",
-      "Master Deck",
+      "View Deck",
       "Draw Pile",
       "Discard Pile",
       "Exhaust Pile",
@@ -590,7 +591,13 @@
       "Select Card #8",
       "Select Card #9",
       "Select Card #10",
-      "Drop Card"
+      "Release Card",
+      "Up",
+      "Down",
+      "Select",
+      "End Turn / Info",
+      "Tab Left",
+      "Tab Right"
     ]
   },
   "LanguageDropdown": {

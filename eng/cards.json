@@ -442,8 +442,8 @@
   },
   "Electrodynamics": {
     "NAME": "Electrodynamics",
-    "DESCRIPTION": "Lightning now hits ALL enemies.",
-    "UPGRADE_DESCRIPTION": "Lightning now hits ALL enemies. NL If there is only 1 enemy, Lightning strikes twice."
+    "DESCRIPTION": "Lightning now hits ALL enemies. NL Channel !M! Lightning.",
+    "UPGRADE_DESCRIPTION": ""
   },
   "Endless Agony": {
     "NAME": "Endless Agony",
