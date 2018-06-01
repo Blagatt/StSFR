@@ -112,8 +112,8 @@
     "NAME": "Écailles en bronze",
     "FLAVOR": "Les écailles tranchantes du Gardien. Elles s'assemblent de sorte à protéger leur utilisateur. ",
     "DESCRIPTIONS": [
-      "Quand vous subissez des dégâts, infligez #b",
-      " dégâts en retour."
+      "Au début de chaque combat, gagnez #b",
+      " #yd'Épines"
     ]
   },
   "Burning Blood": {
