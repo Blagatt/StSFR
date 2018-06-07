@@ -931,5 +931,14 @@
       " tours.",
       "Meurt ce tour."
     ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Énergétique",
+    "DESCRIPTIONS": [
+      "Gagnez #b",
+      " [B] supplémentaire au prochain tour.",
+      " [B] supplémentaires au prochain tour.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
   }
 }

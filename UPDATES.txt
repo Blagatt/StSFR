@@ -1,5 +1,127 @@
 Updates for Translators!
 
+06/06/2018
+events.json
+	"Ghosts"
+		"[Accept] #gObtain #g5 #gApparition. #rLose #r", ->
+		"[Accept] #gObtain #g5 Apparition. #rLose #r",
+	"Vampires"
+		"[Accept] #gRemove #gall #gStrikes. #gObtain #g5 #gBites. #rLose #r", ->
+		"[Accept] #gRemove #gall Strikes. #gObtain #g5 Bites. #rLose #r",
+		"] #gRemove #gall #gStrikes. #gObtain #g5 #gBites.", ->
+		"] #gRemove #gall Strikes. #gObtain #g5 Bites.",
+	"Addict"
+		"[Give JAX] #gReceive #ga #gRelic. #rLose #rJ.A.X.", ->
+		"[Give JAX] #gReceive #ga #gRelic. #rLose J.A.X.",
+	"Winding Halls"
+		"[Embrace Madness] #gReceive #g2 #gMadness. #rLose #r", ->
+		"[Embrace Madness] #gReceive #g2 Madness. #rLose #r",
+	"Nest" NOTE: There's 6 elements in DESCRIPTIONS now! (was 5)
+		"DESCRIPTIONS"
+			"Flocks of cultists seem to be gathering around a central location. As you approach they are surprisingly docile, not making any movements to attack. You can see new members being initiated into their Cult through some kind of ritual.",
+			"You decide to get in line and see if they will allow your participation in the ritual. NL NL You are swept up into the ceremony, as the masked leader slashes your arm with a dagger, you feel some of your power seep into the blade. NL NL As you finish your induction into the cult, the personalized dagger is handed to you as a status of your new membership.",
+			"Taking advantage of the opportunity, you find several valuables scattered throughout the building before making your escape.",
+			->
+			"A long line of #b~hooded~ #b~figures~ can be seen entering NL an #yUnassuming #yCathedral.",
+			"Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+			"You decide to stay in line (out of fear) to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm and let the blood drip into an misshapen bowl. NL NL The cultists @chant@ and @holler@ for you! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You chant, too. Why not?",
+			"They didn't even notice.",
+		"OPTIONS"
+			"[Join The Cult] #gObtain #gRitual #gDagger. #rDowngrade #r", ->
+			"[Stay in Line] #gObtain #gRitual #gDagger. #rDowngrade #r",
+			Added new option:
+			"[Continue]"
+
+cards.json
+	"Conserve Battery"
+		"NAME": "Conserve Battery", ->
+		"NAME": "Charge Battery",
+
+credits.json
+	"LOC_SRB"
+		"Nikola \"hauzer\" Vukosavljević"
+		"Nikola \"hauzer\" Vukosavljevic"
+	"LOC_DEU"
+		Added new name:
+		"koykoy13"
+	
+----------------------------------
+
+06/05/2018
+events.json
+	"Mind Bloom"
+		(TYPO) 
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #g Rare #gRelic.", ->
+		"[I am War] #rFight #ra #rBoss #rfrom #rAct #r1. #gReceive #ga #gRare #gRelic.", 
+relics.json
+	"Busted Crown"
+		"On Card Reward screens, you have #b2 fewer #ycards to choose from.", ->
+		"On Card Reward screens, you have #b2 fewer cards to choose from.",
+	"Question Card"
+		"On future Card Reward screens you have #y1 #yadditional #ycard to choose from."
+		"On future Card Reward screens you have #y1 additional card to choose from."
+ui.json
+	"AscensionModeDescriptions"
+		"Potions are less potent.", ->
+		"Less Potion Slots.",
+	
+----------------------------------
+
+06/04/2018
+events.json (NOTE: events.json in the english folder for up-to-date translations on these!)
+	"Nest" (The text used for this event will most likely be reworked)
+	"MindBloom" (The text used for this event is mostly finished)
+
+relics.json
+	"Busted Crown" (new relic)
+	"Mark of the Bloom" (new relic)
+
+	"Runic Pyramid"
+		"At the end of your turn, you no longer discard your hand. NL Draw #b",
+		" less card each turn."
+		->
+		"At the end of your turn, you no longer discard your hand.",
+		""
+
+cards.json
+	"RitualDagger" (new card)
+
+achievements.json
+	"Beat the game with a deck of only common cards." ->
+    "Beat the game with a deck containing no uncommons or rares."
+
+    "The Transient" (new achievement)
+    "Defeat the Transient before it fades away."
+
+powers.json
+	"EnergizedBlue"
+
+ui.json
+	"LanguageDropdown"
+		"Greek"
+
+credits.json
+	"LOC_GRE" (Greek!)
+	
+----------------------------------
+
+05/31/2018
+credits.json
+	"LOC_RUS"
+		"Shop Asset Translation:",
+achievements.json
+	"The Transient"
+	"Defeat the Transient before it fades away."
+relics.json
+	"Runic Pyramid"
+		"At the end of your turn, you no longer discard your hand. NL Draw #b",
+		" less card each turn."
+		->
+		"At the end of your turn, you no longer discard your hand.",
+		""
+		
+----------------------------------
+
 05/30/2018 #2:
 ui.json
 	"InputSettingsScreen"
@@ -1149,245 +1271,3 @@ cards.json
    		]
 
 ----------------------------------
-
-1/17/2018 #2:
-ui.json
-	"MainMenuButtons"
-		"Leaderboards (BETA)" -> "Leaderboards"
-	"LeaderboardsScreen"
-		"Leaderboards" -> "Leaderboards (NOTE: Will be reset weekly)"
-
-----------------------------------
-
-1/17/2018:
-cards.json
-	Expertise is reworked
-
-score_bonus.json
-	Completely new file for score bonuses. EXTRA_TEXT is getting deprecated later.
-
-tutorials.json
-	 "Its power is all used up."
-
-----------------------------------
-
-1/15/2018:
-ui.json
-	New field "EXTRA_TEXT"
-	Adding new field in "MenuButton"
-	Updated field Sounds in Background -> Ambient Sounds Effect in "OptionsPanel"
-
-cards.json
-	Added Upgrade Description for "Storm of Steel"
-
-----------------------------------
-
-12/12/2017 - 1/13/2018:
-For Chinese (Traditional), German, French, Japanese, and Russian.
-The following fields have been updated since the outsourced loc work. The files were sent out on 12/12/2017. Sorry this one is so large! This is the first post in UPDATES.txt, future updates will be much smaller.
-
-achievements.json
-	"Best Win Streak: #y",
-	"Highest Score: #y"
-
-cards.json
-	Adrenaline
-	Alchemize (ID is Venomology)
-	Bandage Up
-	Berserk
-	Blind
-	Bloodletting
-	Bullet Time
-	Calculated Gamble
-	Clumsy
-	Corpse Explosion
-	Deep Breath
-	Enlightenment
-	Feed
-	Flame Barrier
-	J.A.X.
-	Jack of All Trades
-	Master of Strategy
-	Mind Blast
-	Nightmare
-	Normality
-	Offering
-	Panacea
-	Panache
-	Purity
-	Sadistic Nature
-	Secret Technique
-	Secret Weapon
-	Transmutation
-	Trip
-
-characters.json
-	Neow
-	"UNIQUE_REWARDS": [
-		"[ #rLose #ryour #rstarting #rRelic. #gObtain #ga #grandom #gboss #gRelic. ]"
-		"NeowsBlessing": {
-
-	Neow Reward
-	Before: "[ #gObtain #g3 #gPotions ]",
-	After: "[ #gObtain #g3 #grandom #gPotions ]",
-
-events.json
-	Accursed Blacksmith
-	"[Locked] Requires: Upgradeable Cards"
-
-	Bonfire Elementals
-	"[Locked] Requires: Upgradeable Cards"
-
-	Wheel of Change
-	"[Locked] Requires: Upgradeable Cards"
-
-	Mushrooms
-	"[Locked] Requires: Upgradeable Cards"
-
-	Winding Halls
-	"[Focus] #rBecome #rCursed #r- #rWrithe. #gHeal #g",
-
-keywords.json
-	artifact was also added as a keyword
-	format was updated so all fields must be re-translated
-
-monsters.json
-	Cultist's Moves
-
-potions.json
-	Elixir Potion
-	"#yExhaust all #yStatus and #yCurse cards from your hand.",
-
-powers.json
-	Nemesis
-	"Reduce ALL damage taken and HP loss to #b1 for the next #b",
-	" turn.",
-	" turns."
-
-	Nightmare (ID is Night Terror)
-	"NAME": "Nightmare",
-	"DESCRIPTIONS": [
-	"At the start of your next turn, add #b",
-	" cards to your hand."
-
-	Envenom
-	"Whenever you deal unblocked #yAttack damage, apply #b", 
-
-	Minion
-	"Minions abandon combat without their leader."
-
-	Energized
-	"Gain #b", 
-	" additional [G] next turn."
-	" additional [G] next turn.",
-	" additional [G] next turn.",
-	" - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
-
-	Intangible
-	" turns.",
-	"Reduce ALL damage taken and HP loss to #b1 next turn."
-
-	Painful Stabs
-	"Whenever you take damage from this enemy, add a #yWound into your Discard Pile." 
-
-	Split
-	"When less than #b50% HP, will split into #b2 smaller slimes with ",
-	"When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
-
-	Berserk
-	"If your HP is at or below #b50%, gain ",
-
-	Hex
-	" #yDazed into your draw pile."
-
-relics.json
-	Old Coin
-	"Gain #b300 #yGold."
-
-	The Courier
-	"The merchant no longer runs out of cards, relics, or potions and his prices are reduced by #b20%."
-
-	War Paint
-	Darkstone Periapt
-	Bottled Tornado
-
-	Frozen Eye
-	"When viewing your #yDraw #yPile, the cards are now shown in order."
-
-	Juzu Bracelet
-	"Regular enemy combats are no longer encountered in #y? rooms."
-
-	Red Skull
-	"While your HP is at or below #b50%, you have #b",
-
-	Meat on the bone
-	"If your HP is at or below #b50% at the end of combat, heal #b",
-
-	Calling Bell
-	"Skip Rewards",
-	"Close"
-
-	Neow's Lament
-	"FLAVOR": "A blessing bestowed to you by Neow.",
-    "DESCRIPTIONS": [
-		"The first #b3 enemies you fight have only #b1 HP.",
-		"The blessing is used up."
-
-	Prayer Wheel
-	"Non-Boss chests now also contain cards."
-
-	Unceasing Top
-	"Whenever you have no cards in hand during your turn, draw a card."
-
-	Enchiridion
-	"Start each combat with a random #yPower card in your hand. It costs #b0 until the end of turn."
-
-	Cursed Key
-	" Whenever you open a non-boss chest, obtain a #rCurse.",
-
-tutorials.json
-	Draw tip
-	" cards are drawn from here. NL NL Click to view the cards in your draw pile."
-
-	Exhaust Tip
-      "Click to view cards Exhausted this combat."
-    "LABEL": [
-      "Exhausted Cards"
-    ]
-
-ui.json
-	AbstractCard
-	AbstractCreature
-	AbstractMonster
-	AbstractPlayer
-	AbstractPotion
-	ApplyPowerAction
-	BattleStartEffect
-	CampfireSleepEffect
-	CampfireSmithEffect
-	CampfireTokeEffect
-	CampfireUI
-	CharacterOption
-	CombatRewardScreen
-	CopyAction
-	DiscardPileToTopOfDeckAction
-	ExhaustAction
-	ExhaustViewScreen
-	ExhumeAction
-	GameSavedEffect
-	ImmolateAction
-	LanguageDropdown
-	LeaderboardFilters
-	LeaderboardsScreen
-	OpeningAction
-	OptionsPanel
-	PowerExpireTextEffect
-	PutOnDeckAction
-	RestartForChangesEffect
-	RewardItem
-	SingleCardViewPopup
-	TipHelper
-	UnlockTextEffect
-
-	DrawPileViewScreen
-				"(Cards shown are sorted alphabetically)",

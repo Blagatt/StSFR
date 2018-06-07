@@ -257,7 +257,7 @@
     ],
     "OPTIONS": [
       "...",
-      "[Céder à la folie] #gRecevez #g: #g2 #gde #gFolie. #rPerdez #r",
+      "[Céder à la folie] #gRecevez #g: #g2 Folies. #rPerdez #r",
       " #rPV.",
       "[Vous concentrer] #rRecevez #r: #rMalédiction #r- #rSouffrance. #gRécupérez #g",
       "[Partir]",
@@ -486,7 +486,7 @@
       " #yd'or #y: #gRecevez #gune #gRelique.",
       "[Verrouillé] Nécessite : ",
       " or",
-      "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla #rD.O.P.E.",
+      "[Donner de la D.O.P.E.] #gRecevez #gune #gRelique. #rPerdez #rla D.O.P.E.",
       "[Verrouillé] Nécessite : D.O.P.E.",
       "[Partir] Ignorez le drogué.",
       "[Partir]"
@@ -708,11 +708,11 @@
       "En passant par une rue non éclairée, vous rencontrez plusieurs silhouettes encapuchonnées au beau milieu d'un rituel maléfique. Tandis que vous vous approchez, elles se tournent vers vous à l'unisson. Inquiétant. La plus grande possède des dents acérées et tend une main aux longs doigts pales vers vous. NL ~\"Joignez-vous~ ~à~ ~nous,~ ~Défectueux,~ ~et~ ~venez~ ~ressentir~ ~la~ ~chaleur~ ~de~ ~la~ ~Tour.\"~"
     ],
     "OPTIONS": [
-      "[Accepter] #gRetirez #gtoutes #gvos #gFrappes. #gObtenez #g5 #gMorsures. #rPerdez #r",
+      "[Accepter] #gRetirez #gtoutes #gvos Frappes. #gObtenez #g5 Morsures. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "[Perdre ",
-      "] #gRetirez #gtoutes #gles #gcartes #gFrappe. #gObtenez #g5 #gcartes #gMorsure.",
+      "] #gRetirez #gtoutes #gvos #gcartes Frappes. #gObtenez #g5 #gcartes Morsures.",
       "[Partir]"
     ]
   },
@@ -743,7 +743,7 @@
       ""
     ],
     "OPTIONS": [
-      "[Accepter]  #gObtenez #g5 #gApparition. #rPerdez #r",
+      "[Accepter] #gObtenez #g5 Apparition. #rPerdez #r",
       " #r% #rde #rvos #rPV #rmax.",
       "[Refuser]",
       "",
@@ -779,6 +779,40 @@
       " #rPV.",
       "[Partir]",
       "[Interagir]"
+    ]
+  },
+  "Nest": {
+    "NAME": "Le Nid",
+    "DESCRIPTIONS": [
+      "Vous rencontrez une longue ligne de #b~silhouettes~ #b~encapuchonnées entrer dans une NL#ymodeste #ycathédrale.~",
+      "Naturellement, vous rejoignez le rang et êtes rapidement encerclé par des #rAdeptes ! NL Ils vous ignorent et @chantent@ joyeusement en ~agitant# leurs armes. NL NL #r@\"MEURTRE@ #r@MEURTRE@ #r@MEURTRE!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MEURTRE!@ #r@MEURTRE@ #r@MEEUURTRE!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Vous apercevez une #yboîte #yde #ydons...",
+      "Vous décidez de rester dans le rang (de peur) pour voir ce qui va arriver. NL NL Finalement, vous vous retrouvez face à face avec leur chef. Un adepte bien habillé vous tend un #yPoignard #yOrnemental. Comme ceux avant vous, vous tranchez votre avant-bras d'une fine entaille et laissez votre sang couler dans un bol diforme. NL NL Les adeptes @chantent@ et @hurlent@ pour vous ! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Vous chantez, vous aussi. Pourquoi pas ?",
+      "Ils n'ont même pas remarqué.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Rester dans le rang] #gObtenez Dague rituelle. #rRétrogradez ",
+      ".",
+      "[Voler la boîte] #gGagnez #g150 #gd'or.",
+      "[Verrouillé] Nécessite : une carte améliorée.",
+      "[Partir]",
+      "[Continuer]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Ascension de l'Esprit",
+    "DESCRIPTIONS": [
+      "En parcourant le chaos de la Tour, vous sentez soudainement vos pensées devenir très... #p~réelles...~ NL NL Vos projections de #rmonstres et de #yrichesses commencent à se révéler dans la Réalité. NL Cette sensation fugace vous transperse. Que faites vous ?",
+      "Est-ce réellement si simple ?",
+      "Tout prend sens maintenant. NL Les pertes de mémoire, l'ascension, #yl'Ancien. NL NL  Il en a toujours été ainsi. NL Il en sera toujours ainsi. NL Tout tombera dans l'oubli à nouveau..."
+    ],
+    "OPTIONS": [
+      "[La Guerre] #rCombattez #run #rBoss #rdu #premier #Acte. #gRecevez #gune #gRelique #gRare.",
+      "[La Richesse] #gGagnez #g999 #gd'or. #rMalédiction #r- #r2 #rNormalité.",
+      "[La Santé] #gHeal #gto #gfull #gHP. #rMalédiction #r- #rDoute.",
+      "[L'Éveil] #gAméliorez #gtoutes #gvos #gCartes. #rVous #rne #rpouvez #rplus #rvous #rsoigner.",
+      "[Partir]"
     ]
   }
 }

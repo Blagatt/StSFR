@@ -668,9 +668,9 @@
   },
   "Question Card": {
     "NAME": "Carte d'interrogation",
-    "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Le grand Kublai",
+    "FLAVOR": "\"Ceux dont les choix sont plus nombreux font souvent fi des inconvénients du chaos.\" - Kubilai Khan",
     "DESCRIPTIONS": [
-      "Lorsque vous choisissez une carte comme récompense, vous avez un choix supplémentaire."
+      "Lorsque vous choisissez une carte comme récompense, vous avez #yun #ychoix #ysupplémentaire."
     ]
   },
   "Red Circlet": {
@@ -733,8 +733,8 @@
     "NAME": "Pyramide runique",
     "FLAVOR": "Les runes sont indéchiffrables.",
     "DESCRIPTIONS": [
-      "À la fin de votre tour, votre main n'est plus défaussée. NL Piochez #b",
-      " cartes en moins à chaque tour."
+      "À la fin de votre tour, votre main n'est plus défaussée.",
+      ""
     ]
   },
   "Self Forming Clay": {
@@ -1160,6 +1160,23 @@
     "DESCRIPTIONS": [
       "Quand vous infligez #b",
       " ou moins dégâts #yd'Attaque non bloqués, augmentez les à #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Marque de l'Éveillé",
+    "FLAVOR": "Dans l'Au-delà, l'imaginaire' et le réel ne font qu'un.",
+    "DESCRIPTIONS": [
+      "Vous ne pouvez plus vous soigner."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Couronne cassée",
+    "FLAVOR": "La couronne du Champion... ou une vulgaire contrefaçon ?",
+    "DESCRIPTIONS": [
+      "Lorsque vous choisissez une carte comme récompense, vous avez #b2 choix en moins.",
+      "Gagnez [R] au début de chaque tour. ",
+      "Gagnez [G] au début de chaque tour. ",
+      "Gagnez [B] au début de chaque tour. "
     ]
   }
 }

@@ -37,7 +37,8 @@
       "Dustin \"Skrelpoid\" Kristen",
       "Jonas Trodler",
       "Hongkong Koma",
-      "Moly"
+      "Moly",
+      "koykoy13"
     ]
   },
   "LOC_FRA": {
@@ -54,6 +55,12 @@
       "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort",
       "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Greek Localization",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_ITA": {
@@ -135,13 +142,16 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
     ]
   },
   "LOC_SRB": {
     "HEADER": "Serbian Localization",
     "NAMES": [
-      "Nikola \"hauzer\" Vukosavljević"
+      "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
   "LOC_TUR": {

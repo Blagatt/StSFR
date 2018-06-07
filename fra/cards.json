@@ -916,8 +916,8 @@
     "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une carte de votre défausse à votre main."
   },
   "Conserve Battery": {
-    "NAME": "Économie d'énergie",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL L'Énergie est conservée pour le prochain tour."
+    "NAME": "Recharger les batteries",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, gagnez [B]."
   },
   "FTL": {
     "NAME": "FTL",
@@ -1284,5 +1284,9 @@
   "Core Surge": {
     "NAME": "Surcharge du noyau",
     "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! d'Artefact. NL Épuisement."
+  },
+  "RitualDagger": {
+    "NAME": "Dague rituelle",
+    "DESCRIPTION": "Ingligez !D! dégâts. Si cette carte tue un ennemi, ses dégâts augmentent de !M!. Épuisement."
   }
 }
