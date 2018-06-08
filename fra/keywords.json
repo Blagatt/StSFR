@@ -18,7 +18,7 @@
     "CURSE": {
       "NAMES": [
         "malédiction",
-		"malédictions"
+        "malédictions"
       ],
       "DESCRIPTION": "Les cartes malédiction sont des cartes négatives qui restent dans votre deck."
     },
@@ -40,8 +40,8 @@
         "épuisé",
         "épuisée",
         "épuisez",
-		"s'épuise",
-		"s'épuisent"
+        "s'épuise",
+        "s'épuisent"
       ],
       "DESCRIPTION": "Écarté jusqu'à la fin du combat."
     },
@@ -93,7 +93,7 @@
     "TRANSFORM": {
       "NAMES": [
         "transformer",
-		"transforme",
+        "transforme",
         "transformez"
       ],
       "DESCRIPTION": "Les cartes transformées sont changées en de nouvelles cartes aléatoires de n'importe quelle rareté."
@@ -194,7 +194,7 @@
         "brûlure",
         "brûlures"
       ],
-      "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous ingligent des dégâts."
+      "DESCRIPTION": "Les brûlures sont des cartes Statut qui vous infligent des dégâts."
     },
     "FROST": {
       "NAMES": [
@@ -260,7 +260,14 @@
       "NAMES": [
         "concentration"
       ],
-      "DESCRIPTION": "La Concentration augmente l'efficacité de l'actif des Orbes #yCanalisés."
+      "DESCRIPTION": "La Concentration accroît la puissance des Orbes #yCanalisés."
+    },
+    "THORNS": {
+      "NAMES": [
+        "épines",
+        "d'épines"
+      ],
+      "DESCRIPTION": "Quand vous recevez des dégâts #yd'Attaque, infligez des dégâts en retour."
     }
   }
 }

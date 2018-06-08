@@ -58,7 +58,9 @@
       "Julien \"RoPeTTe\" Ropero",
       "Hugo \"Tagadda\" Vurpillot",
       "Corentin \"Tchus\" Monfort",
-      "Zachary \"WyvernZed\" Janisse"
+      "Zachary \"WyvernZed\" Janisse",
+      "Illustrations :",
+      "Zoé Bergeret"
     ]
   },
   "LOC_ZHS": {
@@ -74,7 +76,12 @@
   "LOC_DEU": {
     "HEADER": "Traduction en Allemand",
     "NAMES": [
-      "Joshua \"Joshipon\" Wiegand "
+      "Joshua \"Joshipon\" Wiegand ",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13"
     ]
   },
   "LOC_ITA": {
@@ -156,13 +163,38 @@
       "Ascimator",
       "Kateryna \"Meds\" Belimenko-Bolger",
       "Alexey \"Surrealistic Ganerson\" Popov",
-      "Alexandr \"LiaNdrY\" Mazistov"
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Shop Asset Translation:",
+      "Urist McFerrum"
     ]
   },
   "LOC_TUR": {
     "HEADER": "Traduction en Turc",
     "NAMES": [
       "Erdem Gürbüz"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Traduction en Serbe",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljević"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Traduction en Ukrainien",
+    "NAMES": [
+      "Vladyslav \"DarkXylese\" Kashtelyanov"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Traduction en Catalan",
+    "NAMES": []
+  },
+  "LOC_GRE": {
+    "HEADER": "Traduction en Grec",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
     ]
   },
   "LOC_ADDITIONAL": {
@@ -200,7 +232,8 @@
       "Alexander Toy",
       "Merijn van der Vliet",
       "David Von Derau",
-      "Conor Watson"
+      "Conor Watson",
+      "David \"divadus\" Withington"
     ]
   },
   "SPECIAL": {
